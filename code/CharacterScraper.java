@@ -6,13 +6,17 @@ import java.nio.charset.Charset;
 
 public class CharacterScraper{
 
-    ArrayList<String> table;
+    HashSet<String> table;
+
+    HashSet<String> visited;
 
     String characterTableFile = "characterTableFile.txt";
 
     public CharacterScraper(){
 
-        table = new ArrayList<String>();
+        this.table = new HashSet<String>(40000);
+
+        this.visited = new HashSet<String>(40000);
 
     }
 
@@ -24,13 +28,15 @@ public class CharacterScraper{
 
         q.add("Category:Individuals");
 
-        int count=0;
-
         while(!q.isEmpty()){
 
-             count++;
+            String str = q.poll();
 
-            String pageSourceCode = new SourceCode(q.poll()).content;
+            if(cs.visited.contains(str))continue;
+
+            cs.visited.add(str);
+
+            String pageSourceCode = new SourceCode(str).content;
 
             // System.out.println(pageSourceCode);
 
@@ -38,7 +44,8 @@ public class CharacterScraper{
 
             cs.findCharacters(pageSourceCode);
 
-            if(count==100){cs.save();count=0;}
+            System.out.println(cs.table.size());
+            System.out.println(cs.visited.size());
         }
 
         cs.save();
@@ -72,7 +79,7 @@ public class CharacterScraper{
             if(cur==-1 || cur>tail)return;
             cur+=7;
             int end = psc.indexOf('\"',cur+1);
-            table.add(psc.substring(cur,end));
+            this.table.add(psc.substring(cur,end));
         }
     }
 
