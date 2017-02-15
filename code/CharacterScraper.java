@@ -1,14 +1,10 @@
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
-import java.net.URL;
-import java.net.URLConnection;
+import java.io.*;
+import java.net.*;
 import java.util.*;
 import java.nio.file.*;
 import java.nio.charset.Charset;
 
 public class CharacterScraper{
-
-    String prefix = "http://starwars.wikia.com/wiki/";
 
     ArrayList<String> table;
 
@@ -28,48 +24,32 @@ public class CharacterScraper{
 
         while(!q.isEmpty()){
 
-            String pageSourceCode = cs.extract(q.poll());
-
-            
+            String pageSourceCode = new SourceCode(q.poll()).content;
+            System.out.println(pageSourceCode);
+            //
+            // findSubCatagories(pageSourceCode,q);
+            //
+            // findCharacters(pageSourceCode);
         }
 
         cs.save();
     }
 
-    String extract(String path){
-
-        String result = "";
-
-        URL url = null;
-        URLConnection urlc = null;
-        BufferedReader in = null;
-
-        try{
-            url = new URL(prefix+path);
-            urlc = url.openConnection();
-            urlc.connect();
-            in = new BufferedReader(new InputStreamReader(urlc.getInputStream()));
-            String line;
-            while((line = in.readLine()) != null){
-                result += line;
-            }
-        }
-        catch(Exception e){
-            System.out.println("Error :"+ e);
-            e.printStackTrace();
-        }
-        finally{
-            try{
-                if(in!=null){
-                    in.close();
-                }
-            }
-            catch(Exception e){
-                e.printStackTrace();
-            }
-        }
-        return result;
-    }
+    // void findSubCatagories(String psc, Queue q){
+    //
+    //     int a = psc.indexOf("mw-subcatagories");
+    //     if(a == -1)return;
+    //     int head = psc.indexOf("div",a);
+    //     int tail = psc.indexOf("div",head);
+    //     int cur = head;
+    //     while(true){
+    //         cur = psc.indexOf("\"/wiki/",cur+1);
+    //         if(cur==-1 || cur>tail)return;
+    //         cur+=7;
+    //         end = psc.indexOf('\"',cur+1);
+    //         table.add();
+    //     }
+    // }
 
     void save(){
 
