@@ -10,8 +10,10 @@ public class CharacterScraper{
 
     String characterTableFile = "characterTableFile.txt";
 
-    CharacterScraper(){
+    public CharacterScraper(){
+
         table = new ArrayList<String>();
+
     }
 
     public static void main(String[] args){
@@ -22,34 +24,57 @@ public class CharacterScraper{
 
         q.add("Category:Individuals");
 
+        int count=0;
+
         while(!q.isEmpty()){
 
+             count++;
+
             String pageSourceCode = new SourceCode(q.poll()).content;
-            System.out.println(pageSourceCode);
-            //
-            // findSubCatagories(pageSourceCode,q);
-            //
-            // findCharacters(pageSourceCode);
+
+            // System.out.println(pageSourceCode);
+
+            cs.findSubCatagories(pageSourceCode,q);
+
+            cs.findCharacters(pageSourceCode);
+
+            if(count==100){cs.save();count=0;}
         }
 
         cs.save();
     }
 
-    // void findSubCatagories(String psc, Queue q){
-    //
-    //     int a = psc.indexOf("mw-subcatagories");
-    //     if(a == -1)return;
-    //     int head = psc.indexOf("div",a);
-    //     int tail = psc.indexOf("div",head);
-    //     int cur = head;
-    //     while(true){
-    //         cur = psc.indexOf("\"/wiki/",cur+1);
-    //         if(cur==-1 || cur>tail)return;
-    //         cur+=7;
-    //         end = psc.indexOf('\"',cur+1);
-    //         table.add();
-    //     }
-    // }
+    void findSubCatagories(String psc, Queue q){
+
+        int head = psc.indexOf("mw-subcategories");
+        if(head == -1)return;
+        int tail = psc.indexOf("\t</div>",head+1);
+        int cur = head;
+        // System.out.println(psc.substring);
+        while(true){
+            cur = psc.indexOf("\"/wiki/",cur+1);
+            if(cur==-1 || cur>tail)return;
+            cur+=7;
+            int end = psc.indexOf('\"',cur+1);
+            q.add(psc.substring(cur,end));
+        }
+    }
+
+    void findCharacters(String psc){
+
+        int a = psc.indexOf("mw-pages");
+        if(a == -1)return;
+        int head = psc.indexOf("div",a);
+        int tail = psc.indexOf("div",head+1);
+        int cur = head;
+        while(true){
+            cur = psc.indexOf("\"/wiki/",cur+1);
+            if(cur==-1 || cur>tail)return;
+            cur+=7;
+            int end = psc.indexOf('\"',cur+1);
+            table.add(psc.substring(cur,end));
+        }
+    }
 
     void save(){
 
