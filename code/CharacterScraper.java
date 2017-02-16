@@ -69,9 +69,8 @@ public class CharacterScraper{
 
     void findCharacters(String psc){
 
-        int a = psc.indexOf("mw-pages");
-        if(a == -1)return;
-        int head = psc.indexOf("div",a);
+        int head = psc.indexOf("mw-pages");
+        if(head == -1)return;
         int tail = psc.indexOf("\t<div>",head+1);
         int cur = head;
         while(true){
