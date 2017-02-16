@@ -72,7 +72,7 @@ public class CharacterScraper{
         int a = psc.indexOf("mw-pages");
         if(a == -1)return;
         int head = psc.indexOf("div",a);
-        int tail = psc.indexOf("div",head+1);
+        int tail = psc.indexOf("\t<div>",head+1);
         int cur = head;
         while(true){
             cur = psc.indexOf("\"/wiki/",cur+1);
