@@ -3,7 +3,7 @@ import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.HashSet;
 
-public class test {
+public class SocialGraphCompleteTest {
 
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
