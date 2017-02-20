@@ -39,10 +39,14 @@ public class CharacterScraper{
             String pageSourceCode = new SourceCode(str).content;
 
             // System.out.println(pageSourceCode);
-
             cs.findSubCatagories(pageSourceCode,q);
-
             cs.findCharacters(pageSourceCode);
+
+            //debug find keyword
+            // if(cs.findCharacters(pageSourceCode)){
+            //     System.out.println("http://starwars.wikia.com/wiki/"+str);
+            //     return;
+            // }
 
             System.out.println(cs.table.size());
             System.out.println(cs.visited.size());
@@ -55,9 +59,15 @@ public class CharacterScraper{
 
         int head = psc.indexOf("mw-subcategories");
         if(head == -1)return;
-        int tail = psc.indexOf("\t</div>",head+1);
+        int temp, tail;
+        temp = tail = head+1;
+        while(true){
+            temp = psc.indexOf("<div",temp+1);
+            tail = psc.indexOf("</div>",tail+1);
+            if(tail < temp)break;
+        }
+
         int cur = head;
-        // System.out.println(psc.substring);
         while(true){
             cur = psc.indexOf("\"/wiki/",cur+1);
             if(cur==-1 || cur>tail)return;
@@ -67,18 +77,30 @@ public class CharacterScraper{
         }
     }
 
-    void findCharacters(String psc){
+    boolean findCharacters(String psc){
 
         int head = psc.indexOf("mw-pages");
-        if(head == -1)return;
-        int tail = psc.indexOf("\t<div>",head+1);
+        if(head == -1)return false;
+        int temp, tail;
+        temp = tail = head+1;
+        while(true){
+            temp = psc.indexOf("<div",temp+1);
+            tail = psc.indexOf("</div>",tail+1);
+            if(tail < temp)break;
+        }
         int cur = head;
         while(true){
             cur = psc.indexOf("\"/wiki/",cur+1);
-            if(cur==-1 || cur>tail)return;
+            if(cur==-1 || cur>tail)return false;
             cur+=7;
             int end = psc.indexOf('\"',cur+1);
             this.table.add(psc.substring(cur,end));
+
+            // debug: find key word
+            // if(psc.substring(cur,end).indexOf("Category_Ten")>=0){
+            //     System.out.println(psc.substring(cur,end));
+            //     return true;
+            // }
         }
     }
 
