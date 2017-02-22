@@ -11,7 +11,7 @@ public class SocialGraphComplete {
     public ArrayList<String> characters;//ordered
     public ArrayList<HashSet<String>> Neighbors;
     public int number;
-    
+
     SocialGraphComplete(String characterTableFile) throws IOException{
     	//read characters from the file and store them into Hashset Characters
     	BufferedReader data = new BufferedReader(new FileReader(characterTableFile));
@@ -22,29 +22,29 @@ public class SocialGraphComplete {
     		Character = data.readLine();
     	}
     	if(data != null) data.close();
-    	
+
     	this.number = this.Characters.size();
-    	
+
     	this.characters = new ArrayList<String>();
     	this.Neighbors = new ArrayList<HashSet<String>>();
-    	
+
 //    	PrintWriter out = new PrintWriter("socialGraphComplete.txt", "UTF-8");
     	for(String c : this.Characters){
     		this.characters.add(c);
     		HashSet<String> n = this.findNeighbors(c);
     		this.Neighbors.add(n);
-    		System.out.println(c);
+    		System.out.println(c + " " + n.size());
 //    		out.print(c + "    ");
 //    		for(String s : n){
 //    			out.print(s + " ");
 //    		}
 //    		out.println();
 //    		out.flush();
-    	}    
+    	}
 //    	out.println("helloworld");
 //    	out.close();
     }
-    
+
     public HashSet<String> findNeighbors(String Character){
     	HashSet<String> n = new HashSet<String>();
     	String PageData = new SourceCode(Character).content;
@@ -59,6 +59,6 @@ public class SocialGraphComplete {
     		String url = PageData.substring(cur, end);
     		if(this.Characters.contains(url))
     			n.add(url);
-    	}   	
+    	}
     }
 }
