@@ -99,6 +99,7 @@ Festival_of_Light/Legends
 BFL
 Nil_(Jedi)
 Deniv_Corsignis
+Chancellor_(Shu-Torun)
 Daven_Tam
 Kirith
 House_Brentioch
@@ -111,7 +112,6 @@ Mitth%27raw%27nuruodo
 Unidentified_Gand_bounty_hunter_(Ord_Mantell)
 Valera_(Human)
 Garn_Stewer
-Category:Hutts
 Jans_Tolen
 Jaan_Bluum
 Loo_Raelo
@@ -141,7 +141,6 @@ Varner_Hilts%27_mother
 House_Harbright
 Unidentified_Aqualish_bounty_hunter_(Outer_Rim)
 Carrier_(guard)
-Category:Occupations
 Gandin_T%27Noull
 1047
 Grud
@@ -264,7 +263,6 @@ Elric_Organa
 Samm_Bradber
 TC-series_protocol_droid/Legends
 Varykino/Legends
-Category:Adarian_culture
 Emmens
 Jimi_Finn
 Admiral
@@ -311,7 +309,6 @@ Nevil_Tritum
 Mirash_Peet
 Glaucus
 Clicksticks_Tribe
-Category:Legal_documents
 Gejalli
 Mandalore_the_First
 Abbot
@@ -325,7 +322,6 @@ Redok_Harvast
 Minister_of_Intelligence_(Cold_War)
 Arl
 Unidentified_Bacta_Squad_sergeant
-Category:Azzameen_family
 Aro
 Dekta_Amon
 Theed_Palace_Plaza_concert
@@ -444,7 +440,6 @@ Infiltrator_probe_droid
 Ayx
 Samara_Organa
 Pit_turret
-Category:Jedi_Sentinels
 Zenn_Bien
 Emba
 Heingort_Giddis
@@ -507,7 +502,6 @@ Galinolo
 Dac_Axfow
 Prince
 Jaggard
-Category:Labor_droids
 Firith_Olan
 Februs_Temmt
 Unidentified_officer_of_Aegel_Squadron
@@ -534,7 +528,6 @@ Danil
 Thul_Navy
 Mellaw_Doowon
 Vina_Maljazara
-Category:Galactic_Empire_military_personnel
 Setsyn_Commodities
 Tyto
 Ferreges
@@ -565,12 +558,10 @@ Darth_Atroph
 Tassa%27s_father
 Razzledy_Croom
 Katie_Grawley
-Category:New_Jedi_Order_members
 Unidentified_OOM_security_battle_droid_(Saak%27ak;_corporal)
 GXR-7_Sentinel
 Mobile_Missile_Launcher
 Special_Operations_(Diplomatic_Service)
-Category:Crime
 FX-5_medical_assistant_droid
 Calfta_Bongi
 Bungo_Bung
@@ -621,7 +612,6 @@ Variable_Geometry_Self-Propelled_Battle_Droid,_Mark_I
 Larall
 Varad_Zagg
 Collomus
-Electnode
 L1-L_Defender
 Phow_Ji
 Momaw_Mowadan
@@ -635,7 +625,6 @@ Kalieva_K%27ntarr
 Nagelson
 Qizak
 Lama_Su/Legends
-Category:Algarian_culture
 Corvin
 CT-9544
 Phramp
@@ -673,11 +662,9 @@ Kuthak
 Security_block_droid
 Battle_Group_of_Yun-Q%27aah
 1139
-Category:Military_units
 Kylo_Ren
 1137
 Yun%27s_sister
-Category:Members_of_the_rebellion
 Unidentified_AAT_driver_battle_droid_3
 Walda_Ceen
 Unidentified_AAT_driver_battle_droid_2
@@ -782,7 +769,6 @@ Izby
 Kelnu_Velus
 Passel_Argente/Legends
 Sayn_Ta
-Category:Sporting_teams
 Simus
 Traff
 Katooni/Legends
@@ -858,7 +844,6 @@ Berrille_Ada
 Fabel
 Dannis_Veriga
 Otoh_Gunga_Transit_Authority
-Category:Alliance_Fleet_personnel
 Aama
 Tiatha
 V-Tarz
@@ -892,7 +877,6 @@ Sheltay_Retrac%27s_husband
 Carbonite_Sith_Master
 Wann
 Chiss
-Category:The_Force
 Bry
 Dixton
 Sparv
@@ -957,7 +941,6 @@ Dupas_Thomree
 Tjulan_Kwaad
 Treta_Zollarcos
 HK_protocol_pacifist_package
-Category:Kuati
 Shadow_Ten
 44
 Udopal_speeder
@@ -1001,7 +984,6 @@ CT-65/91-6210
 Pallos_Thessius_Organa
 Crost_Lib%27eyay
 Aarrba
-Category:B-series_battle_droids
 Ahita_Othar
 Unidentified_scout_trooper_(Dardano%27s_bodyguard)
 Subaltern
@@ -1020,7 +1002,6 @@ Petja
 Unidentified_Twi%27lek_Jedi_(New_Jedi_Order)
 Unidentified_female_Rutanian_police
 Christoph_Jam
-Category:Zabrak
 Garnik
 Ragate
 Redkihl_Rokk%27s_Pirates
@@ -1138,7 +1119,6 @@ Torvo_Bolo
 Cav
 Broodica
 Chiraneau
-Category:New_Republic_Defense_Force_admirals_and_generals
 Cheb
 G%27Mai_Duris
 Chief
@@ -1154,7 +1134,6 @@ Trarr
 Chev
 C2-N_Dominator_Droid
 Project_EK-8
-Category:Galactic_Outdoor_Survival_School_graduates
 Disch%27l
 R2-0
 Tarula
@@ -1292,19 +1271,16 @@ Huruni_Hune
 Unidentified_Nikto_prisoner_2
 Persha
 G4
-Category:Jedi_instructors
 Nfoota
 Mils_Lolinc
 Bolla_Ropal
 Pablo/Legends
 Zittaasabba
 Folux_Pozur
-Category:Businesspeople
 Tikkal_Remb_Mah
 Mundi_family
 CC-5869
 Derek_Klivian
-Category:Military_personnel_of_the_Sith_Empire
 Yennir_of_the_Green
 Unidentified_HMP_droid_gunship
 Kadron
@@ -1345,7 +1321,6 @@ Clu
 Duros/Legends
 Darth_Glovoc
 Lake_Country
-Category:Dulok_culture
 Kaplan_(colonel)
 Trey_Duna
 Diathim
@@ -1380,7 +1355,6 @@ K3
 Grondorn_Muse
 Arca_Jeth
 Black_(captain)
-Category:Arkanians
 Skelly
 Drug_dealer
 Defenestrator
@@ -1401,7 +1375,6 @@ Unidentified_reptilian_Jedi_Knight
 Valland
 The_Palpatones
 Kyli_Ned%27Ix
-Category:Crime_lords
 Aeon_Durron
 Jyll_Xon
 Carn%27ar
@@ -1444,7 +1417,6 @@ Mark_III_Combat_Droid
 Galen_Torg
 Apex_One
 Varin_Arabella
-Unidentified_stormtrooper_(Metalorn)
 Sabrin_Ring
 Izal_Waz
 Markko
@@ -1464,7 +1436,6 @@ Shea_Hublin
 Kamen_Proy
 Amdra
 Korol_Tander
-Category:Redeemed_Force-sensitives
 Semasalli
 Rudd
 Ov
@@ -1543,7 +1514,6 @@ Old_Republic_Guard
 Sosio_Kakra
 Itto_Bipsmik
 OOM-series_battle_droid
-Category:Females
 Mujmai_Iinan
 Alex_McCrindle
 Unidentified_Kurtzen_shaman
@@ -1561,7 +1531,6 @@ Unidentified_Alderaanian_artist
 Lowle_Ch%27red
 Nightstrike_Soldier_Hegemony
 Janet_Lalasha
-Category:Imperial_Navy_pilots_of_the_Galactic_Empire
 Grannon
 W3
 Ur
@@ -1589,7 +1558,6 @@ Ferav
 Chiann
 Padm%C3%A9_Amidala%27s_H-type_Nubian_yacht_(Rodia)
 Head_of_House_Barnaba
-Category:Families_by_species
 Rossuk
 Faeto
 Feras
@@ -1626,7 +1594,6 @@ Mazer_Rackus
 Z9
 Rodius_Tharn
 Unidentified_female_Royal_Guard
-Category:Imperial_Advisors
 Kelin_Dass
 Matrik
 Rukh
@@ -1689,7 +1656,6 @@ Ormann_Bomu
 H%27kig_(religious_leader)
 Voldez
 Gogol_(patron)
-Category:Performing_artists
 House_Lanar
 Sanglui
 Crazy_Van_Kyle
@@ -1718,7 +1684,6 @@ Dilrath
 Unidentified_Thul_child
 Service_droid/Canon
 Dyans_ke_Vasan
-Category:Ansionian_organizations
 Jassar
 Waz-alem_Amir
 Sanitation_droid
@@ -1861,7 +1826,6 @@ Jasod_Revoc
 Pora
 Rakling
 Jon_Arco
-Category:Resistance_fighters
 J%27Rrosch
 Perrin
 An%27ya_Kuro
@@ -2063,7 +2027,6 @@ Sith_Inquisitor
 R2-H15
 Chla_C%27cHaan
 Law_droid
-Category:B-series_battle_droid_models
 Len_Parvek
 Esture
 Maximillian
@@ -2163,7 +2126,6 @@ SCr-114
 Qulok%27s_Fist
 Grenz_Zittoun
 Tistura_Paan
-Category:Confederation_personnel
 Catalytic_processor
 Crueya_Vandron
 Maceb_Joodsen
@@ -2210,6 +2172,7 @@ RG-L8R
 Redding
 Mif_Zinner
 Unidentified_scarred_Jawa
+Ketticus_Brayl%27s_wife
 Unidentified_THORN_Operations_Chief
 Rectory_droid
 Guavian_security_soldier
@@ -2224,7 +2187,6 @@ U-3PO
 Mooren
 B%27dard_Tone
 Jayshon_Korden
-Category:Royal_Guard
 R2-series_astromech_droid
 Qiltakka
 Letta_Turmond/Legends
@@ -2240,7 +2202,6 @@ Unidentified_Jedi_Knight_(Clone_Wars)
 Kal_Braggan
 Rolend_Zavros
 Harthan
-Category:Eternal_Empire_individuals
 Gelrood
 Kinuagha
 Elscol_Loro%27s_sister
@@ -2307,7 +2268,6 @@ Sebairns
 Kattadan_Guard
 Adari_Vaal
 Welda_Kether
-Category:Cerean_culture
 Bladedancer
 Ackbar_family
 DM-7
@@ -2367,7 +2327,6 @@ Qwi_Xux
 Bay-Yon_Siu
 Norika
 Gungan_Ambassador
-Category:Stormtroopers
 FLO
 Voice_Override:_Epsilon_Actual
 Caitken
@@ -2394,7 +2353,6 @@ Separatist_terrorist_network
 Lidan_Bleeker
 Pocarto
 Unidentified_Imperial_admiral_(Fakir_sector)
-Category:Culture_of_Thaere
 Ray%27en
 Rnthmyr
 Jeeval
@@ -2422,7 +2380,6 @@ A7-E3PO
 Droid_impact_armor_Mark_I
 Wollok
 Bogan
-Category:Force-sensitives
 Tom_Edden
 Tal_Merrik/Legends
 Sharpshooter_droideka
@@ -2463,7 +2420,6 @@ Wynt_Kepporra
 Endami
 Caan_Doon
 Prengahl_Kreen
-Category:Republic_Strategic_Information_Service
 Oochee
 Unidentified_Rebel_waiter
 Eon
@@ -2568,7 +2524,6 @@ Tray%27Essek
 Gwen
 Marja_Lang
 Crawrit
-Category:Military_personnel_of_Revan%27s_Sith_Empire
 Ithorak_Guldar
 A4_laboratory_assistant_droid
 Jiyam_Solo
@@ -2576,7 +2531,6 @@ Hansel
 AX-871
 Cayli
 FX9
-Category:Manufacturing_companies
 Tir_Maltu
 Domain_Vang
 Clan_Bralor
@@ -2713,7 +2667,6 @@ Jiv_Durael
 Framjan_Spathen
 Rignik
 Fort_Turan
-Category:Jedi_individuals
 Mandalorians_(Clan_Ordo)
 Ross_Mysliwiec
 Preeti
@@ -2787,7 +2740,6 @@ Wottlet_Scarsir
 Dervis
 Darth
 Kid_DXo%27ln
-Category:Media
 Phootla_Veer
 Oss_Wilum
 Tamo_Lan
@@ -2913,7 +2865,6 @@ Unidentified_Old_Jawa
 2-1B_surgical_droid/Legends
 Shey_Tapani
 Xenobiologist
-Category:Aqualish
 Weel
 Cepa_Bonshu
 Davim_Cross
@@ -2961,7 +2912,6 @@ Unidentified_PLNK_power_droid_2_(Resolute)
 Korga
 Gixsa
 Akshae_Shanka
-Category:Onderonians
 Kanarosiku-K
 Falon_Grey
 Neva_Kee/Legends
@@ -3080,7 +3030,6 @@ Cutie
 Kelsek
 Laudica
 Saiga_Bre%27lya
-Category:Imperial_Army_officers_of_the_Imperial_Remnant
 Artzam_Hathan
 Unidentified_treddroid
 Unidentified_Death_Watch_assassin
@@ -3164,7 +3113,6 @@ Bounty_Hunters%27_Guild/Legends
 Gantel_Dro
 Bhoenn
 Prat
-Category:Alliance_Army_officers
 Zak_(Separatist)
 Beau_Gadsdon
 Banley
@@ -3206,7 +3154,6 @@ Unidentified_Imperial_general_(Tiems)
 Serdor_Marrak
 Whie_Malreaux
 Pash_Galae
-Category:Czerka_Arms_products
 Elth_Nardah
 Gavele_Lemora
 Fastblasters
@@ -3219,7 +3166,6 @@ Portmaster%27s_Deputy
 Jan_Ors%27_mother
 Magar_(Human)
 Clat
-Category:Battle_droid_models
 Danaan_Kerr
 Nariel_Pridence
 Unidentified_Ithorian_Revanchist_Jedi
@@ -3282,7 +3228,6 @@ Tresk
 KJ-931
 Elmra
 Nodin-Fe
-Category:Individuals_by_gender
 Darth_Howl
 Orn_Free_Taa%27s_Twi%27lek_aide
 Korun
@@ -3317,6 +3262,7 @@ TK-7193
 Unit_6
 Gladiator_(Rattatak)
 Coruscant_mercenary
+Red_Four/Legends
 BNI-393%27s_master/Canon
 Errik_Darksider
 Addath_Gadan
@@ -3330,7 +3276,6 @@ Ged
 Yonlach
 Jubnuk
 Endaw_N%27gard%27m
-Nath_Goordian_heirs
 Sev%27eere%27nuruodo
 Gek
 Talie_Heathe
@@ -3340,7 +3285,6 @@ Unidentified_senator_(Orron_III)
 Skirmishes_in_the_Naboo_countryside
 Darth_Kallous
 Clan_Khim%27bar
-Category:Outbound_Flight_residents
 Sama_Macoy
 Opo_Chano
 Kandon_Ark
@@ -3366,8 +3310,6 @@ Unidentified_sabacc_dealer
 Qualung_Tulla
 Strok
 DD-13_medical_assistant_droid
-Category:Torture
-Category:Soldiers
 Caiza_Quill
 Leeha_Faal
 Nick_Rostu
@@ -3450,7 +3392,6 @@ Grunt
 Kazen_Harn
 Hoff_(Colby_Hoff%27s_son)
 Domain_Tivvik
-Category:Athletes
 Horace_Vancil
 AC-08
 Chong
@@ -3551,7 +3492,6 @@ Choir
 Krevan
 Mot-Not_Rab
 White_Maw
-Category:Enlisted_personnel_of_the_Fel_Empire
 Y7-O1_Astromech_Droid
 Alysssa_Maggrit
 Garven_Dreis/Legends
@@ -3561,7 +3501,6 @@ Nannat
 Prototype_Dx-2_Pyrodroid
 Blue-skinned_pirate_of_Tarnoonga
 Sentry_droid/Canon
-Category:Military_ranks
 Chavers
 CC-1010
 Grakchawwaa/Legends
@@ -3631,7 +3570,6 @@ Quaffug
 Mondegrene
 Stass_Allie
 Saludor_Narubo
-Category:Culture_of_Bakura
 Ryen
 Leor_Hal
 11-88_factory_droid
@@ -3641,7 +3579,6 @@ Sarl_Random
 Kentradee
 KR-82_Expulser
 Chaf_family
-Category:House_of_Organa
 Aran_(Elomin)
 DUM-series_pit_droid
 Cobus
@@ -3660,7 +3597,6 @@ Skywalker_family
 Meetra_Surik
 Assistant_Advisory_Undersecretary_of_Media
 Gray_Eight
-Category:Technology
 Choba
 Minister_of_Information
 Hannser
@@ -3678,7 +3614,6 @@ Grarwwaar
 Dooce_Everton
 Probe_droid
 Rageon_Vart
-Special:Categories
 Klin-Fa_Gi
 Shanks
 Grunts
@@ -3749,7 +3684,6 @@ Rebus_(Galactic_Empire)
 Shayl_Le%27tah
 Joseph
 Conil_Barje
-Category:Jerec%27s_personnel
 Terena_Adare
 LN-26
 Unidentified_clone_trooper_commander_(Malastare)
@@ -3765,7 +3699,6 @@ Shange
 Unidentified_Neimoidian_commander
 Ugbuz
 Bongomeken_Collective
-Category:Imperial_Army_personnel_of_Darth_Krayt%27s_Galactic_Empire
 Czazizs
 Theodane_Sardo
 Dalken_Hol
@@ -3873,7 +3806,6 @@ Interceptor_Fire
 Subminiature_probe_drone
 Palpatine%27s_double
 Corwell
-Category:New_Republic_Defense_Fleet_officers
 Spike
 Crimson_Jack%27s_pirate_gang
 NEK-072
@@ -3892,20 +3824,17 @@ Bey_Gandan
 Armored_Whisper
 Jaesa_Willsaam
 Trooper
-Category:Security_droids
 Drell_Kahmf
 Black_Seraphs
 Insurgent
 Mucdermon
 Light_Sith
 Unidentified_Admiral_of_the_Fleet
-Category:Imperial_Intelligence_personnel_of_the_resurgent_Sith_Empire
 Jart_Eyan
 FV50
 Thanoth
 Ubed_Yalla
 Erling_Tredway
-Category:Criminals_by_faction
 Coross
 Unidentified_umbrella-like_creature
 Gorgon_(Moff)
@@ -3921,7 +3850,6 @@ Dahnis
 Paos_Adina
 Kraigg
 Talia_(Onderon)
-Category:Fourth-degree_droids
 Gallo_Mountains
 Rund_Jesela
 Microwave_sensor
@@ -3956,7 +3884,6 @@ Valon_Drass
 Zharen
 Jasper_Skinner
 NO-8OT
-Category:Chiss_Ascendancy
 Super_tactical_droid/Legends
 Jedi_Master_(individual)
 Unidentified_assassin_(Hapes)
@@ -4017,7 +3944,6 @@ Brandis_Turgah
 Unidentified_female_Imperial_Knight_(sparring_session)
 Cisvin
 Ken-Kiba%27s_spice_runner_gang
-Category:IG-series_droids
 Unidentified_Coruscant_Guard_3
 Candice_Ondi
 OS-72-10
@@ -4027,12 +3953,10 @@ Buoy_droid
 Dorian_Janarus
 Kalindan
 Doman_Beruss_(Illodian)
-Category:Mining_technology
 Unidentified_Coruscant_Guard_4
 Unidentified_sarlacc_(Taanab)
 Flight_Leader/Legends
 Trade_Federation_prison_camp
-Category:Bureaucrats_of_the_Imperial_Remnant
 Laparo
 Frei_Aycen
 Griggs_Pe%27et
@@ -4046,7 +3970,6 @@ Carness
 Em%27liy
 Tusken_language_pack
 Damaris
-Category:Resistance_Military_officers
 Marpre
 Tess_Alder
 Yussa
@@ -4059,7 +3982,6 @@ Eleena_Daru
 Vossk
 Secretary_of_the_Cabinet
 Watcher_Nine
-Category:Barabel_culture
 CT-9779
 IR-89_Armored_Assault_Droid
 Vaclen_Tor
@@ -4083,10 +4005,8 @@ Norello
 Celestra
 Shae_Koda%27s_mother
 DS-378
-Category:Imperial_Navy_officers_of_Darth_Krayt%27s_Galactic_Empire
 Dira_Clan
 Ree_family
-Category:Alliance_Intelligence_members
 Gideon_Na%27al
 Calron
 Cro-Sal-Trei
@@ -4131,7 +4051,6 @@ Battle_en_route_to_the_second_Death_Star
 Unidentified_OOM_command_battle_droid_1_(Ryloth_blockade)
 TC-9D0
 Whip_(Human)
-Category:Political_titles
 Jams
 Caves_of_Eleuabad/Legends
 Quara
@@ -4148,7 +4067,6 @@ Yort_Cavwol
 Tho-Mes_Drei
 Budmle_Otbor
 Quarn
-Category:Maintenance_droids
 Assistant_Vice_Minister
 Ib-Dunn
 Conan_Antonio_Motti/Legends
@@ -4201,7 +4119,6 @@ Emperor
 Jungle_wampa
 Scamp
 Rasha_Bex
-Category:Bosph_culture
 Sophie_Fisher
 Franges
 Tem_Chesko
@@ -4319,7 +4236,6 @@ Domain_Pekeen
 Aidel_Saxan
 Blackarm
 Gumfish
-Category:Jedi
 MK3_mining_droid
 House_Syrush
 Moff%27s_Own
@@ -4378,7 +4294,6 @@ Coruscant_Special_Affairs_Liaison
 SN-D1/Legends
 Pannaqa
 She_Who_Greedily_Devours
-Category:Separatist_battle_droid_models
 Gorwooken
 Grudo
 Chaos_trooper
@@ -4428,7 +4343,6 @@ Bogey_1212
 Kakirk
 Pekkie_Blu_and_the_Starboys
 Groona_Biddle
-Category:Imperial_Army_personnel
 Jax_(clone_cadet)/Legends
 Lagos/Legends
 Qatak_Qantaras
@@ -4580,7 +4494,6 @@ Clone_shock_trooper
 Rand_(Alderaanian)
 Lin_Konpost
 Bishop_of_war
-Category:Culture_of_Naboo
 Rand_(corporal)
 Wingnut
 Unidentified_Farr_woman
@@ -4599,7 +4512,6 @@ Keiffler_Brothers
 Jake_(miner)
 Unidentified_Imperial_Intelligence_agent_(Coruscant)
 Darthyn
-Category:Heads_of_government_and_state
 Rone_Mothin
 Car%27das
 Vidge
@@ -4622,7 +4534,6 @@ Yoganerr_Thenoth
 Aelon_Reglis
 Unidentified_Wookiee_medical_droid
 Ronto_(clone_trooper)
-Category:Second-degree_maintenance_droids
 Devaronian
 Thermodraft
 Anvar_Keyis
@@ -4640,7 +4551,6 @@ Dor_Balse
 Mokan
 Chessa_Dohhenty
 Old_Gloxix
-Category:Bartenders
 The_Rolling_Droids
 Striking_Staff
 Firefighter_battle_droid
@@ -4656,7 +4566,6 @@ Gatrar_Shey%27Tyan
 Kitster_Chanchani_Banai
 Bozzie
 Travgen
-Category:Coruscant_Security_Force
 Darth_Azard
 Brotherhood_of_Darkness
 Ivo
@@ -4681,7 +4590,6 @@ Surik_Varr
 Gargle
 Salla_C%27airam
 Wadewarn
-Category:Human_clones
 Siolu_Sporipri
 Metaprogramming
 Koffi_Arana
@@ -4697,7 +4605,6 @@ Chalurrekk
 Naleshekan
 Oracle_droid
 Dorheek
-Category:Con_artists
 Vulta_Daanat
 Traxalis_Deagua
 Jedi_librarian
@@ -4705,8 +4612,6 @@ Jessica_Meade
 Gornash
 Tac-Spec_Corporation
 Voro_Hesh
-Category:Galactic_Alliance_individuals
-Category:Yuuzhan_Vong_collaborators
 Chattza_clan
 Zaalbar
 Siin_Suub
@@ -4783,7 +4688,6 @@ Reelo_Baruk%27s_RA-7_protocol_droid
 Hover_cannon
 Shiraben_Dheas
 IR-82_Impulse_Combat_Droid
-Category:Cyborgs
 Sionver_Boll
 Trillan_Katos
 Sacred_Staff
@@ -4803,7 +4707,6 @@ Yalta_Val
 Unidentified_bald_Sanyassan_assailant
 Illist_Mandrep
 Coby
-Category:Second-degree_maintenance_droid_models
 MR-9_housekeeping_droid
 Noba
 Umwak
@@ -4849,7 +4752,6 @@ Mala_Blen
 Mantrony
 Unidentified_Bakuran_prisoner
 Attatag_Gosem
-Category:Diplomats
 Jun_Seros_(Jedi)
 Ewwen_Glayyd
 Milen_Rort
@@ -5017,7 +4919,6 @@ Colt
 Kadriss
 Callow
 Arven_Ershall
-Category:Dashade
 Nawnam
 Derral
 Unidentified_Harbinger_Soldier
@@ -5031,7 +4932,6 @@ Gerik
 MI-series_security_droid
 Plu_Makor
 Sith_battlelord
-Category:Artists
 Unidentified_green-skinned_alien_bounty_hunter
 Unidentified_clone_trooper_pilot_(Quell)/Legends
 Ughok_Snorg
@@ -5084,24 +4984,20 @@ Dauren
 Jurahi
 Ucce
 Arljack
-Category:Armor
 Toryn_Farr
 Vago_Gejalli_Thokka
 Halbard
 Downed_Rebel_pilot
 Ran_Machado
 Hutt_Cartel
-Category:Culture_of_Ammuud
 B3-A_ultra_battle_droid
 8-13
-Category:Communications_droids
 Wils
 Seti_Ashgad
 Falit
 Nahata
 Limm
 Unidentified_Twi%27lek_female_2_(Preigo%27s_Traveling_World_of_Wonder)
-Category:Deities
 Haisha_Su_Bnist
 Surveillance_droid
 Yorr
@@ -5141,7 +5037,6 @@ Percival_Vale
 Mika_Kaebra
 Jith_Bavion
 Havet_Storm
-Category:Planetary_locations
 Tobin_(Human)
 Cathan_Dru
 Phoenix_Squadron
@@ -5161,7 +5056,6 @@ Crovan_Dane
 TK-3207
 Unidentified_R2_unit_(Gray_Squadron)
 Nost
-Category:Authors
 VL-44
 Velken_Tezeri/Legends
 Gan_Corla
@@ -5231,7 +5125,6 @@ Evan
 ME-D1
 Junk_behemoth
 Jinn_Reeso
-Category:Business_owners_and_executives
 Mistik_Arka
 Heat_detector
 Cendence
@@ -5259,7 +5152,6 @@ S-EP1
 Earll
 K-3PX
 S-130_Shelter_speeder
-Category:Jedi_Knights
 Howling_Crag_Clan
 Drikl_Lecersen
 Benja_Da%27aapp
@@ -5268,7 +5160,6 @@ Wuher/Legends
 Ood_Bnar
 House_AlGray
 Sith_officer
-Category:Corellians
 Bartam
 Citadel_Guardsmen
 Skull_Shatter
@@ -5316,7 +5207,6 @@ Zanner
 Yagorn
 Borjak%27s_granddaughter
 Zannen
-Category:Culture_by_region
 121-247
 Heirad
 Vollen_Sor
@@ -5420,7 +5310,6 @@ SD-357
 Keyo-So
 Fallanter_Gest
 Unidentified_Zillo_Beast
-Category:Sith_of_Revan%27s_Sith_Empire
 Shellshock
 Gorrlyn
 Ables
@@ -5486,7 +5375,6 @@ Unidentified_clone_trooper_(Christophsis)
 Adnah_Tiblarett
 Sivor
 Aro-GX_Security_Droid
-Category:New_Republic_Defense_Force_personnel
 Elbee_Bribb
 Starck
 Don-Wan_Kihotay
@@ -5514,7 +5402,6 @@ Killsisters%27_Continuum
 Hannis_D%27lund
 Orlenda
 Chral
-Category:Droid_limbs_and_body_parts
 3B3-1204
 Usan_Joyl
 Driscoll_Bruhnej
@@ -5570,14 +5457,11 @@ Donny_Buc
 Tirranna
 IMR_Module
 Danni_Quee
-Unidentified_stormtrooper_(Mos_Eisley)
 Shara_Jenn
 Kowen
 Evun
-Category:Impersonators
 Bakuran_National_Symphony
 Uday
-Category:Hunting
 Unidentified_Rebel_commander_(Musica)
 RD-RR
 George_Coe
@@ -5600,10 +5484,8 @@ Po_Ruddle_Lingsnot
 Narglatch_Cave
 SonTag
 Avers
-Category:HoloNet_News
 Kni
 Jowdrrl
-Category:Droid_parts
 Wilst_Molan
 Chiss_droid_fighter
 Renci_Tosh
@@ -5613,7 +5495,6 @@ Preigo
 Grk%27kkrs%27arr
 Tycho_Celchu
 Dantos_Vigos
-Category:Sith_of_the_resurgent_Sith_Empire
 Starks
 Aven_Rolk
 Edric_Ordo
@@ -5661,11 +5542,9 @@ Mykal_Mareeno
 Ott_Klemp
 Santa_Claus
 Minala_Lodilyn
-Category:Galactic_Republic_individuals
 Moruth_Doole
 Garindan
 Old_Tion_Brotherhood
-Category:Drug_dealers
 Jag_Murrock
 Sprywing
 V-3P5
@@ -5679,7 +5558,6 @@ Garek_Tolas
 Darth_Maul
 Devin_Cant
 Dasita_Lyros
-Category:Kajidics
 Gailid
 Red_Shift_Limit
 Gevil_Flan
@@ -5736,7 +5614,6 @@ Bozeden_Jeems
 Kun
 Primor_(Inleshat)
 Cho%27mash
-Category:Tendrando_Arms_products
 Hantor_Loftus
 Elias_Halbert
 Dirneele
@@ -5802,11 +5679,9 @@ Elson
 Stusjevsky
 Customer_service_droid
 Hal_Dallin
-Category:New_Republic_Defense_Force_officers
 Kips_Haogin
 Wil%27m_Grau
 Cilgris_family
-Category:Agricultural_technology
 Joq_Landhauler
 Riko_Arzal
 Unidentified_8D_smelter_droid_(Carlac)
@@ -5962,7 +5837,6 @@ Esu_Rotsino
 Ki-Adi-Mundi
 Amidala%27s_private_beach
 Devlin_(Nautolan)
-Category:Imperial_Knights
 Wind_Riders
 Rodas_Borgin
 Kendruh
@@ -6000,7 +5874,6 @@ Ewok
 Mountaintop_smugglers
 Urgah
 Aquaris_Freeholders
-Category:Bureaucrats_of_Darth_Krayt%27s_Galactic_Empire
 Pwoe
 Sam_Heggs
 Val_DeGoort
@@ -6008,7 +5881,6 @@ Lodrex
 Abu_Banu
 PanaRobo
 Lodrel
-Category:Droid_models_by_purpose
 BigScoop_Robo-Harvester
 Galak_Fyyar
 Bialar_Selis
@@ -6097,7 +5969,6 @@ Nesslax
 Voyla
 Ved_Kennede
 Cyndra
-Category:Tanks
 Clone_sniper
 Tosin_Cole
 Salia_Deradal
@@ -6263,7 +6134,6 @@ Daktar_Bloodmoon
 Ruling_Council_(New_Mandalorians)
 Acrobat_droid
 Kendrel
-Category:New_Republic_Army_officers
 Whiplash_Council
 Lux
 Wets_Tranoj
@@ -6291,7 +6161,6 @@ Grenadier
 E2-M3_Astromech_Droid
 Sele_(quartermaster)
 Kallak_assassin
-Category:Gungans
 Tavares
 Paladin
 Voidwolf%27s_personal_strike_fleet
@@ -6340,7 +6209,6 @@ Parek
 Twi%27lek_Clan_Council
 Daawis
 Unidentified_Yavin_4_monster
-Category:Pirates
 Lorek
 E3E3EEK
 Gar_(Gamorrean)
@@ -6365,7 +6233,6 @@ Hera_Syndulla
 Holy_Places
 Dadeferron_family
 Yirt_(slave)
-Category:Genetech_Corporation_products
 SG-1984
 Asa-Ku
 Tyrral
@@ -6377,7 +6244,6 @@ Churnis
 TZ-3_Dominator_Droid
 Muptupp
 To_Endure_Tribe
-Category:Culture_of_Dathomir
 TB-2
 Kira_Carsen%27s_mother
 Dendim
@@ -6459,7 +6325,6 @@ Donith_Garbis
 Morant
 Morano
 Ali-Le
-Category:Echani_culture
 Photoreceptor
 Falud
 Creb
@@ -6521,7 +6386,6 @@ Sevv_Sunb
 Police_probe/Legends
 Unidentified_2-1B_medical_droid_(Kaliida_Shoals)
 Paria
-Unidentified_anthropologist
 Lorro
 Norval_(Human)
 Masse_Goskey
@@ -6559,10 +6423,10 @@ Selia
 Amikab
 Odominic
 Rehab_droid
-Category:Personnel_of_Moff_Sarne%27s_forces
 Murthil
 Red-armored_Sith_Lord
 Bob_Anderson
+Mic
 Brion_Peck
 Tonot%C3%A9
 Cibinel
@@ -6577,7 +6441,6 @@ Maren_Kelsome
 Maniac
 K1-1R%27s_master
 Tipagna
-Category:New_Republic_Defense_Fleet_personnel
 Unidentified_RA-7_protocol_droid_(Coruscant)
 Berethron_e_Solo
 Corlen
@@ -6756,7 +6619,6 @@ Alon
 Lance_Corporal
 Dodecian
 Friend_Of_Jedi
-Category:Industrial_Automaton_products
 Tettsel_Anker
 Unidentified_R2_unit_(Star_Tours)
 Chakham
@@ -6765,7 +6627,6 @@ LX-613
 Kaliyo_Djannis
 Tritos_Nal
 Naysay
-Category:Invids
 Helena_Shan
 Caretaker
 Rava_Teb%27lya
@@ -6782,7 +6643,6 @@ Terrinald_Screed/Canon
 Braum_Bourne
 Unidentified_Wookiee_(Sunchoo%27s_village)
 Unidentified_bartender_(Rimmer%27s_Rest_cantina)
-Category:Theed_locations
 Jonas_Fel%27Kona
 Zorajas_Garamin
 Her_Majesty
@@ -6823,7 +6683,6 @@ Widow%27s_Valley_bridge
 Jedidiah
 Donher_Ty
 Lucius_Flint
-Category:Assassins
 Hachete_(droid)
 Azrakel
 CE-3K
@@ -6956,7 +6815,6 @@ Jono_Dunn
 GNK_power_droid/Legends
 Zenfrei
 Himher
-Category:Military_officers_of_Revan%27s_Sith_Empire
 Nax
 B%27Dayne_Wallamoll
 Quillara_Adeen
@@ -6971,7 +6829,6 @@ Tannac
 Klossi_Anno%27s_master
 Mistress_Dragon
 Manipulator_arm
-Category:Imperials
 FN-2199
 FN-2198
 N1-ZX_unit
@@ -6992,7 +6849,6 @@ Ka%27un_Damm
 Vereeto
 Kitaya_Shuul
 Farel_Wickes
-Category:Imperial_Army
 Glish
 Coruscant_University_School_of_Music
 Xiizor
@@ -7097,7 +6953,6 @@ Griebs_Kishpaugh
 Vult_Skerris
 Chine_Gabbard
 Ghrag_Mercenaries
-Category:Fel_Empire_military_units
 Darksider
 Kooroo_(being)
 Grunel_Ovin
@@ -7292,7 +7147,6 @@ Gengi_Tung
 Dynaroth
 Grezor
 Binks%27s_Woe
-Category:Lorrdian_culture
 Mata_Fhernan
 Spore
 RX-23
@@ -7329,7 +7183,6 @@ Unidentified_Human_Jedi_(Jedi_Temple)
 Ndizz
 Astromech_droid
 Shanto_Dhil
-Category:Republic_Special_Forces
 Aelan_Kalder
 Scout_trooper/Legends
 Unidentified_Mandalorian_male
@@ -7340,9 +7193,7 @@ Maashan
 Tront
 Stec_Eddis
 Doton_Het
-Category:Organizations_by_type
 Sahh
-Category:Jedi_Masters
 Senior_Captain
 Xecr_Nist
 Phirk
@@ -7388,7 +7239,6 @@ Krayn
 Under_Minister_of_Information
 Jiramma
 Varko_(Selkath)
-Category:Officers_of_the_Galactic_Empire
 Raikon
 Jericho_Donovan
 Civilian_Adjunct_to_the_Imperial_Navy
@@ -7405,7 +7255,6 @@ FN-2000
 Xiong_Wong
 Khobisho
 Henna
-Category:Enlisted_personnel_of_the_Galactic_Empire
 Thon%27s_Jedi_Master
 Lamalla_Rann
 Clento_Rone%27s_son
@@ -7437,7 +7286,6 @@ Unidentified_Rebel_sergeant
 Rebel_Desert_Trooper
 Darsie_Vundt
 Ulfor_Bombaasa
-Category:Fifth-degree_maintenance_droids
 Unidentified_Imperial_controller_(female)
 Swamo
 Markus_Dorivonn
@@ -7489,7 +7337,6 @@ Smartvac
 Tarkhan
 Larin_Moxla
 Andrew_Woolfson
-Unidentified_stormtrooper_(Lothal)
 Rago_(Human)
 Mudgub_princess
 Great_Houses_of_Alderaan
@@ -7585,7 +7432,6 @@ Unidentified_Jenet_Peace_Brigade_member
 CC-1993
 Tookarti
 Lem_Karner
-Category:Sith_minions
 Unidentified_Blackguard_elite_wilder
 Anea
 M820_lubricant_container
@@ -7615,7 +7461,6 @@ M5-BZ/Legends
 Tol_Braga
 Chewbaacca
 Monnk
-Category:Galactic_Alliance_Starfighter_Corps_personnel
 Interpreter
 Darth_Gravid
 Ampli
@@ -7716,7 +7561,6 @@ Unidentified_Imperial_Security_Bureau_WED_Treadwell_repair_droid
 Unidentified_Gran_bounty_hunter_(spacesuit)
 Bruce_McBrain
 Tutti_Snibit
-Category:Fifth-degree_droid_models
 Ysadria_Kaladris
 Driggs
 Commissioner_(Iltarr_City_police)
@@ -7750,7 +7594,6 @@ Trep_Reskan
 Jude_Rozess
 Infantry
 Anok
-Category:Gladiators
 Rachi_Sitra
 Kav_Lepkin
 Droid_builder
@@ -7770,7 +7613,6 @@ Oto
 Ybann
 Oso_Nim
 Firith_Me
-Category:Imperial_Navy_officers_of_the_Imperial_Remnant
 Mu%27thansa
 Schor
 Gordul_Koga
@@ -7779,7 +7621,6 @@ Unidentified_B1_battle_droid_6_(Kamino)
 Drophan
 Teemto_Pagalies/Legends
 Narp_Pilyev
-Category:Sith_admirals_and_generals
 2-1C_medical_droid
 Darkest_Knight
 Drognuz
@@ -7826,7 +7667,6 @@ Peragus_Mining_Facility_Security_Officer
 Hydrostatic_bubble/Legends
 Marpo_Glenfik
 Provost_marshal
-Category:First_Order_Security_Bureau
 Smugglers%27_Alliance
 Nieka_Haslip
 Tannon_Praji
@@ -7845,7 +7685,6 @@ Lex_Kempo
 Aurin_Leith
 Zack_(individual)
 Gunner_mate
-Category:Cities_on_Naboo
 Gold_Leader_(Muunilinst)
 Industrial_Site_Guard_Droid_MC-1K
 Dageerin
@@ -7896,10 +7735,7 @@ GT-13_Maintenance_Response_Droid
 Primordial_Pool
 Arkanian_Renegades
 Gume_Saam
-Category:Titles
-Category:Commission_for_the_Preservation_of_the_New_Order_personnel
 Gray_Wing
-Category:Imperial_enlisted_personnel
 Qoussk
 Markresh_Slaver%27s_Consortium
 Bettie-Bot_VJ
@@ -7919,7 +7755,6 @@ Unidentified_New_Republic_Twi%27lek_diplomat
 Bhurra
 Cloning
 Holdan
-Category:Unidentified_Sith
 Gurlok
 Chedaki
 Denal/Legends
@@ -7951,7 +7786,6 @@ Zothip
 Garnac/Legends
 Grymarch
 Pixolga
-Unidentified_Zerpen_Industries_representative
 Unidentified_B1_battle_droid_7_(Malevolence)
 Mordur
 Valiant_(clone_trooper)
@@ -7965,7 +7799,6 @@ Kreel
 Gerald_Weizel
 Droid_system_fortification
 Peccati_Syn
-Category:Confederation
 Bammy_Decree
 Admiral_of_the_Coreworlds
 Sors_Bandeam
@@ -7973,7 +7806,6 @@ Hukno_Rit
 Miss_Coruscant
 HC-100
 Chameleon_droid
-Category:Musical_groups
 Specialist_Unit_Two_Hundred_Seven
 Deavyn_Gils
 Dansra_Beezer
@@ -8027,8 +7859,6 @@ Raxxus
 Jo%27Ara_Gier
 Miera_Lij
 SCORPIO
-Category:B2_super_battle_droids
-Category:Almas_residents
 Norrick
 Philo/Legends
 Tantor_(Senior)
@@ -8147,7 +7977,6 @@ Nokko
 Vondri_Deeq
 President_of_the_Tiss%27sharl_League
 Erriya
-Category:Galactic_Republic_intelligence_personnel
 Trobe_Saar
 Dev_Sibwarra
 Hall_Jo%27uda
@@ -8170,7 +7999,6 @@ Nazhros_Oleg
 CY-M_Prototype
 Henia_Kinalos
 Poe
-Category:Frozian_culture
 Brisney
 Nink_(dwarf_opee_sea_killer)
 Fehlaaur%27aitel%27loro
@@ -8310,7 +8138,6 @@ Galey
 Stranger
 Farns
 SD-4_battle_droid
-Category:Gand_culture
 Farng
 Yuul
 Lope
@@ -8341,7 +8168,6 @@ Planore
 Yuzza_Vanool
 KT-series
 Codus_Romanthus
-Category:Spacers
 Lora
 Howzmin
 Zan_Dane
@@ -8360,7 +8186,6 @@ Sliven
 Mon_Julpa%27s_father
 Fuzzel
 Bask_Modl
-Category:Yuuzhan_Vong_military_units
 Morbo
 Veeone
 Benedict_Vidkun
@@ -8368,7 +8193,6 @@ Xim%27tahal
 Jiod
 Loun
 Wollivan
-Francesca_Longrigg
 Rakata/Legends
 Redris_Korin
 Solistein
@@ -8388,7 +8212,6 @@ Moran
 Dole_Happ
 Jedi_Researcher
 Jind
-Category:Gungan_weapons
 Blue_Nine_(Rebel_Alliance)
 Paxin
 Unidentified_Mantellian_Savrip_Sith
@@ -8398,13 +8221,11 @@ Alec_Lamere
 LUH-989
 Sander
 Firefighter_droid
-Category:Power_droids
 Aidus
 Morga_Bunna
 Odeph
 Nilko_Bwaas
 Vreel
-Category:Desilijic_servants
 Chume%27la
 Levi_Schoen
 Morag%27s_thieves
@@ -8454,7 +8275,6 @@ RB-551
 Attack_on_Porso_Hill
 Mindt_F%27abul
 IG-86_sentinel_droid/Legends
-Category:Mandalorians_by_clan
 Kadrian_Sey
 Cilghal
 Jedi_hunter/Legends
@@ -8481,7 +8301,6 @@ Crime_scene_analysis_droid/Legends
 Tarand_Crowe
 Algeran_Faction
 Grave_Tuskens
-Category:Genarius_residents
 Council_Hall_bubble
 Large_Luxis
 ZG-35
@@ -8535,9 +8354,7 @@ Consul_of_Natural_Resources
 Grath_(stormtrooper)
 Quoltus_Firth
 Echo_Two_(Echo_Flight)
-Category:Azzameen_family_property
 Unidentified_Acclamator_Captain
-Category:Individuals_affiliated_with_the_Infinite_Empire
 Sifo-Dyas/Legends
 Unidentified_Wookiee_navigator
 Adion_Lang
@@ -8572,7 +8389,6 @@ Unidentified_Gamorrean
 Muntanye
 Barosa_Warren
 Qet
-Category:Imperial_Remnant_military_personnel
 Borvo
 Barleos
 Mersa_Topol
@@ -8582,7 +8398,6 @@ Bounty_Hunter_Wars
 Great_Time_of_Peace/Legends
 Belhata
 Nikil_Nobil
-Category:Separatist_officers
 TK-421/Legends
 CP-2_Tactical_Observation_Probe
 Coloi
@@ -8596,7 +8411,6 @@ TF-1726
 Cipher_Three
 Droxie
 Dofey
-Category:Law_enforcement
 Borta
 Jekk_Seejo
 J%27ilk_Torlin
@@ -8624,8 +8438,8 @@ Quist_(Gordonian)
 Cloak_Leader
 Sise_Fromm
 Tylan_Londar
-Jurfel
 Imperial_briefing_officer
+Jurfel
 Treidum_(trader)
 Gorga%27s_son
 Quinny
@@ -8665,7 +8479,6 @@ RN8
 Shass_(Neimoidian)
 Lagulla_ice_cave
 Geffen
-Category:Cultural_weapons
 R7-D4
 Ding_(kusak)
 Unidentified_Neimoidian_captain
@@ -8741,7 +8554,6 @@ Unidentified_Sith_(Taalon%27s_strike_team)
 Jaen_Kett
 Kylie_Renoren
 Gactimus
-Category:Charon_culture
 Porgryn
 Yccakic
 Kim_Yeasson
@@ -8838,7 +8650,6 @@ Torkin_Doha
 Yuzzum/Legends
 Paolen
 Aki%27tale
-Category:Pilots
 DBX-11
 Kitster_Banai%27s_mother
 Abric
@@ -8905,10 +8716,8 @@ Sector_Coordinator
 Doodnik_Sharpelz
 Shrandhnrignh
 Chaff_Korus
-Category:Aratech_Repulsor_Company_products
 SD-XX
 Rish_Loo%27s_secret_laboratory
-Category:Organizations_by_location
 Ketcher
 Kavren
 Zavrasha
@@ -8952,7 +8761,6 @@ Conn_Doruggan
 Cronah
 Eger_Djambo
 Royal_Seers
-Category:Starfighter_classes_by_faction
 Gradak_Ungan
 Mii_Heswop
 Orgglo
@@ -9005,7 +8813,6 @@ Bhansgrek
 Ras
 Rav
 Sanorn
-Category:Privateers
 Aramb
 Braxas
 Billan
@@ -9056,7 +8863,6 @@ Jimas_Veltraa
 Unidentified_swoop_gang
 Unidentified_Human_Jedi_(Farfalla%27s_Knights)
 EG-7_(droid)
-Category:Noble_houses
 Ree
 Reg
 Salina
@@ -9084,16 +8890,13 @@ Athleenia_Dannuz
 Gilfrome
 CT-0000/1010
 Mekamok
-Category:Healers_and_doctors
 Vaverone_Zare
 Glynn-Beti
 IT-O_Interrogation_Unit
 Jor_Idrall
-Category:Starfighter_classes
 Unidentified_Imperial_pilot_(Adamas)
 Taggor_Bren
 Gezda
-Category:B1_battle_droids
 Quatermass
 Tin_Withrafisp
 Sona_Fey%27lya
@@ -9256,7 +9059,6 @@ Caet_Shrovl
 Tey_How
 Rufaan_Tigellinus
 Saren_Llalik
-Category:Aruzan_culture
 Darling
 Cerean/Legends
 Logovik
@@ -9295,7 +9097,6 @@ Zyru_Tokkip
 Prime_Councilor
 Unidentified_Imbat_bartender
 RIC-series_general_labor_droid/Canon
-Category:Scouts
 TC-326/Canon
 Gungan_High_Council/Legends
 Blissex-Wessex_family
@@ -9321,7 +9122,6 @@ Foul_Moudama
 Sian_Tevv/Legends
 Miramba
 Heavy_Resource_Recovery_Machine_5
-Category:Endorians
 8557
 Melaan_Nar
 Donbar
@@ -9342,7 +9142,6 @@ R3-T7/Canon
 Airten
 Zonder
 House_Petro
-Category:Imperial_Navy_pilots
 Unidentified_B1_battle_droid_4_(Rishi_moon)
 Vax_Potorr
 Camie_Loneozner
@@ -9367,7 +9166,6 @@ Garven_Dreis
 Combo
 House_Kallea
 Ivan_Cronus
-Category:Ryloth_residents
 Cyrus_(Naboo_Security)
 Unidentified_Onderonian_male_citizen_2
 Sedni_Maruk
@@ -9425,9 +9223,6 @@ Saliah
 DCM-8_Missile_Platform_Droid
 Ssseeeeseetek
 Metropolis_Razer
-Category:Commerce_and_labor_guilds_and_unions
-Category:Rogue_Squadron_personnel
-Category:Sentient_subspecies
 Chedgar
 Bledsoe
 Mrahash
@@ -9445,7 +9240,6 @@ First_Organa_Regiment
 B-R6_Prototype_Droid
 House_of_Solo
 Derish
-Category:Sith_Lords_of_the_New_Sith_Wars
 Green_Leader/Legends
 Unidentified_Nightsister
 Boys_in_Blue
@@ -9530,9 +9324,7 @@ Omano
 Nineball
 Riin_Raas
 Burnin_Konn_Champion
-Category:Trandoshan_culture
 Hend
-Category:Politics
 Lorain
 Miaxi
 Dru_Velton
@@ -9564,7 +9356,6 @@ GU-series_police_droid
 Nonam
 Nonak
 Blue_Leader_(Muunilinst)
-Category:Imperial_Navy_personnel_of_Darth_Krayt%27s_Galactic_Empire
 Director_of_Investigation
 Verral_Kayrell
 Western_Reaches_(Naboo)
@@ -9619,7 +9410,6 @@ Set
 Puriv
 Torrug
 Sev
-Category:Bardottan_culture
 Sprax
 Laverse
 Mark_II_Power_Guard
@@ -9757,7 +9547,6 @@ Mors_Odrion
 Cleaning_droid
 Quan-Jang
 Death_Star_Trooper
-Category:House_Panteer
 Steam_press
 Gar_Gratius
 Jigoba
@@ -9766,7 +9555,6 @@ Vertseth_Automata
 Morrs
 Gimald_Nuruodo
 Gespo_Bomu
-Category:Republic_Special_Forces_personnel
 Larrim
 Thull_Yularen
 Agapos_the_Eighth
@@ -9827,7 +9615,6 @@ Unidentified_Rebel_pilot_1_(simulator)
 ACC-7_assassin_droid
 Supreme_Commander_of_the_Corellian_Defense_Force
 Mennaus
-Category:Locations_of_the_Je%27daii_Order
 Tereb_Ab%27Lon
 Krin_Koda
 Fixer_Twelve
@@ -9907,7 +9694,6 @@ Yanus_Melikan
 Lynaliskar_K%27ra_Snyffulnimatta
 Ezker_Keanin
 Por%27Ten_(Lady)
-Category:Alderaanians
 ColuChem
 Amira_Nasrabi
 Pfistak
@@ -9916,7 +9702,6 @@ Eidgar_Dheas
 House_Barnaba
 JTN-303
 Unidentified_Mandalorian_leader_(Tatooine)
-Category:Tetans
 Grappa_(Rodian)
 Evil_Supreme
 Ralon
@@ -9938,13 +9723,11 @@ Karhei
 Gesaril_(species)
 Maxeil_Kroford%27s_brother
 Odanni
-Category:Royalty
 Noldan
 Sera_Faleur_Darklighter
 Redros
 Kess_Yarrow
 Xomit_Grunseit
-Category:Er%27stacians
 Fenrij
 Gubacher
 Contract-Scribe
@@ -10001,7 +9784,6 @@ Maki%27voro
 Smokescreen_generator
 Caldrahlsen_Mechanicals
 Skawn_Bonduna
-Category:Yuuzhan_Vong_culture
 Golga_Besadii_Fir
 Hosk_Trey%27lis
 Laandon
@@ -10053,8 +9835,6 @@ Erek_Krieger
 Iann_Doaba
 Taleah_Novran
 Lohn_Genden
-Category:Protocol_droid_models
-Category:Dantooinians
 Tai%27ya_Rocca
 Szingo
 Langstrom
@@ -10201,6 +9981,7 @@ Krigg
 Epo_Qetora
 Fask_Eelak
 Tik
+Robert_Clarke
 Xoc%27dal
 Echrhin_Isdan
 Tix
@@ -10287,7 +10068,6 @@ EG-07
 Jirrik
 The_Imprisoned_One
 Bicha
-Category:Droid_models
 Unidentified_B1_battle_droid_15_(Rodia)
 Rapier_Four
 Reeg_Brosna
@@ -10343,7 +10123,6 @@ Leia_d%27al%27_Gargan
 Mermeia
 Cyru
 Odion
-Category:Sand_Person_culture
 Graham
 Mexnean
 E%27noro
@@ -10373,7 +10152,6 @@ Jesmin_Tainer
 Kilburn
 Tao_(general)
 Graph_18_surface_locator
-Category:Poems
 Maldien
 Bandy_Geffer
 Roper_Slam
@@ -10399,7 +10177,6 @@ Tech_(language)
 Ohvan
 Anakin_Skywalker/Legends
 Clis_Prithann
-Category:Interplanetary_governments
 Takara%27s_rancor
 Nyxy
 Wayniss
@@ -10448,7 +10225,6 @@ Sola_Naberrie
 Aitan_Brewgs
 Padm%C3%A9_Amidala%27s_H-type_Nubian_yacht_(Malevolence)
 Dasha_Promenti
-Category:Resistance_groups
 Kaylo_NaKuda
 Llaban
 Dendotaloga-K
@@ -10504,8 +10280,6 @@ BI/a15_Picket_Gun
 Nanda_(male)
 Titterbug_princess
 Central_processor/Legends
-Category:Ancient_Houses
-Category:Culture_of_Tatooine
 Unidentified_House_Organa_noble
 Adder_moss_chips
 Trey_Bruhnej
@@ -10513,7 +10287,6 @@ FA-5_valet_droid
 Mawhonic
 Decca_Besadii_Diori
 Rajivari
-Category:Space_explorers
 CLE-004_window_cleaning_droid/Legends
 Potiphar_Migg
 Passel_Argente
@@ -10585,7 +10358,6 @@ Eater_Of_Fire_Creepers
 Morint
 Bene/Legends
 Nat-Sem
-Category:Argazdan_culture
 Skreech
 Unidentified_OOM_command_battle_droid_(Toydaria)
 Recon-PK_series_droid
@@ -10628,7 +10400,6 @@ Holgorian_IM-220
 Akobi
 Unidentified_Sith_(Troida_Military_Workshop)
 Cormun_(Imperial_Army)
-Category:Police
 Chorto_Rinn
 Backdraft
 V-35_Courier/Legends
@@ -10678,7 +10449,6 @@ Dex_(Galactic_Alliance)
 IT-4_Warning_Droid
 Culroon
 Ye_Tantari%E2%80%99s_Padawan_1
-Category:Assassin_droids
 Gragra
 Findal_Kett
 Palace_Guard_(Naboo)/Legends
@@ -10686,7 +10456,6 @@ Atlatl
 Bower
 Almighty_One
 Tors_Remal
-Category:LeisureMech_Enterprises_products
 Cikatro_Vizago
 Bod%C3%A9_Leobund_XI
 Hasper
@@ -10728,7 +10497,6 @@ Gilramos_Libkath
 Unidentified_3D-4X_administrative_droid_(Mentis_Qinx)
 K%C3%A9ral_Longknife
 Niquon
-Category:Yuuzhan_Vong
 Jennings
 Qarl
 Cryle_Cavv
@@ -10769,7 +10537,6 @@ Unidentified_Onderon_royal_guard
 Djinn_Altis
 Unidentified_blue_R5_unit_(Star_Tours)
 Icar_Orliss
-Category:Culture_by_people
 Unar
 Rora_Seake
 Onyx_2
@@ -10783,7 +10550,6 @@ Ardot
 Frela_Tarm
 D%27harhan
 Mellag_Davin-Lars
-Category:Baran_Do_Sages
 House_Reena
 SB-20_security_breach_droid
 Vealo
@@ -10821,7 +10587,6 @@ Gowan_Ch%27lessan
 Blade_Leader
 Floater_(Bouncer)
 Chorh-dha
-Category:Tythans
 Coraline_Dynes
 Ichor
 Jinkins
@@ -10869,7 +10634,6 @@ Otoh_Gunga/Legends
 Zarro_Flynn
 Renlo_Hens
 Treidum
-Category:Black_Sun_members
 Unidentified_Human_Sith_2_(Daluuj)
 Ben_Spax
 Unidentified_Gungan_librarian
@@ -10950,12 +10714,10 @@ Jovan_Drark
 Kwilaan_Starport
 M%27Kyas_Love
 Darth_Chratis
-Category:Mandalorians
 Irizon_Fawx
 Monsurra
 Jar_Jar_Binks
 Hedala_Fardi
-Category:Dug_culture
 Cav%27Saran
 Cotetchtle
 R2-Q2_(Imperial)
@@ -10988,7 +10750,6 @@ CC-5869/Legends
 Maritte
 Soldier/Legends
 3B3-10
-Category:WED_Treadwell_repair_droids
 Gror_Pernon
 Zenia_Starstrider
 Musician/Legends
@@ -10998,7 +10759,6 @@ Ylan_Ghalir
 Lartan
 DC-GNK
 Rewello
-Category:Thrawn%27s_fleet
 Keriin_Haslip
 Je%27daii_Order
 Smiter_of_the_Tetano
@@ -11024,7 +10784,6 @@ Derek_Torent
 Norton
 Bartleton
 Ardan
-Category:Named_creatures
 Massassi/Legends
 Gresh_Manaa
 Unidentified_Squib_spacer
@@ -11040,7 +10799,6 @@ Vinis
 TR-522
 Akaavi_Spar%27s_father
 Bomb_squad_stormtrooper
-Category:Alliance_Army_personnel
 Ananah_Kragana
 Vesden
 Unidentified_Zabrak_Dark_Jedi
@@ -11090,7 +10848,6 @@ Vinga
 Mereel
 CT-66-3232/Legends
 Alpha_Leader
-Black_2
 Black_3
 Ghorroh
 Braxis
@@ -11133,10 +10890,8 @@ Shu_Mai/Legends
 Ko-oda
 T7-series_droid
 Krin_Vel
-Category:Software
 Arribid_Bensen
 Unidentified_Calibop_Mandalorian
-Category:Enlisted_personnel
 Sudswater_Dillifay_Glon
 Eradicator_E8U
 Jodeen
@@ -11158,7 +10913,6 @@ Berin_B%27naian
 Vek
 Commander_Fleet_Operations
 GK_Oppressor
-Category:Droid_processors
 Vez
 Haka_Hai%27s_gang
 Malcom_Terrax
@@ -11200,7 +10954,6 @@ Stormtrooper_(New_Galactic_Empire)
 MRD-39B_assassin_droid
 Jaklin
 Junk_dealer
-Category:Ansion_residents
 Wudd
 Glort
 Unidentified_clone_trooper_(Twilight)
@@ -11279,7 +11032,6 @@ Zaamsk
 Unidentified_Minister_of_War_(Sith_Empire)
 Alec_Efran
 AR-M33
-Category:Biologists
 Saleeh
 Massina_N%27Komo
 Davin_Novachez
@@ -11312,7 +11064,6 @@ Cairn_Clan
 Merchant/Legends
 Pleth_Juun
 Joon_Odovrera
-Category:Nobility
 Joce
 Geric_(Hutta)
 Tam_Posla%27s_superior_officer
@@ -11345,8 +11096,6 @@ Moisture_farmer/Legends
 Killik
 Lulu
 Inkur
-Category:Individual_creatures_by_species
-Category:Imperial_Navy_admirals
 Tik_Tali_Talosh
 Greggo_Brudd
 Second_Great_Droid_Revolution
@@ -11413,7 +11162,6 @@ Gunner_Groth
 Jogo
 Lumo
 Rukil
-Category:Knights_of_Zakuul
 Adronik_Hyllus
 Garcy
 Defiler
@@ -11515,7 +11263,6 @@ Weklae_Baso
 Ardus_Kaine
 Hazeen
 Wuta
-Category:Imperial_heads-of-state
 Berl_(Alliance)
 Yeorg_Captison
 Sila_Kott
@@ -11647,7 +11394,6 @@ Ada%27s_father
 Blitzer_Harrsk
 Uchang
 Dilvin_Lormurojo
-Category:Rebel_Alliance_members
 Diversity_Alliance
 Barrage
 Unidentified_IG-RM_bodyguard_and_enforcer_droid
@@ -11676,7 +11422,6 @@ Noraz
 Noray
 Eastern_swamps/Legends
 Caeleb
-Category:Sith_Lords_of_the_Sith_Empire
 Sandtrooper
 Lyn_Me
 Unidentified_Gand_Jedi
@@ -11714,7 +11459,6 @@ Rendra_Maex
 Yol_Saan
 Elassa_Huros
 Black_Hole_Team
-Category:Starships_by_affiliation
 Ni%27Korish
 Goa-Ato/Legends
 Oolas
@@ -11725,7 +11469,6 @@ Elshuu
 Glee_Jun
 Brick_(scavenger)
 Toln_ne_Yerres
-Category:Dark_side
 Rorand_Zuzz
 Terak
 Garto
@@ -11736,7 +11479,6 @@ Shark_Leader
 Broadberry_Meadow
 M-5Q5
 Calk_Fen
-Category:Fifth-degree_maintenance_droid_models
 Darth_Kruhl
 Ribbo_Qua%27lu
 Morad_Sumar
@@ -11846,7 +11588,6 @@ Aves
 Eddon
 Dathka_Graush
 Aldar_Beedo/Legends
-Category:Planetary_governments
 B%27Zun_Mai
 Flyby
 Miko_Beski
@@ -11867,7 +11608,6 @@ Z2-9_hover_vid-cam
 NL-6_courtesy_droid
 Pers%27lya
 Industrial_Automaton
-Category:Fourth-degree_probe_droids
 Keder
 R5-F7
 Grenadier_Droid_(Cloud_City)
@@ -12009,7 +11749,6 @@ Unidentified_clone_trooper_pilot_(Twilight)
 Lazarus_Armand
 Anakaret
 Yerkys_ne_Dago
-Category:Tarisian_culture
 Q-series_droideka
 Avog
 Hishinu_Booj
@@ -12109,7 +11848,6 @@ Alta_Ranga
 Kant_Aryon
 IN-4_information_droid
 R5-J1
-Category:Legal_professionals
 R5-J2
 Jotil_Denive
 Mac-Vee
@@ -12275,7 +12013,6 @@ WED-15_Septoid_Treadwell
 Clenched_Fist_of_Hate
 Herdessan_shocktrooper
 Dova_Brigger
-Category:Yuuzhan_Vong_senior_officers
 House_of_Lorac
 Unidentified_BD-3000_luxury_droid_(Senate_hostage_crisis)
 Alpha_Flight_(Naboo)
@@ -12311,7 +12048,6 @@ Security_Major
 Xev
 Fernooda
 Hefrar_Birhan
-Category:New_Republic_military_units
 Wirriz
 Burning_Rancors
 Unidentified_IG-88_assassin_droid
@@ -12357,7 +12093,6 @@ Amonos
 Bloodsniffers
 Nor_Fik
 Lologin_Da%27p
-Category:Droids_by_degree
 Jeken
 Kvarm_Jia
 Gkrur_clan
@@ -12391,7 +12126,6 @@ Carlist_Rieekan
 Yahenna_Laxo
 Vara_Nreem
 R4-M1/Canon
-Category:Waiters
 Darth_Andru
 Dramath_the_Second
 Keedo
@@ -12422,7 +12156,6 @@ Nok_Drayen%27s_criminal_empire
 Unidentified_portmaster%27s_deputy
 Jin%27ri_trade_syndicate
 Jwartek
-Category:Privateering
 Midgoss_D%27labaninaph
 Dasha_Sigweed/Legends
 Solonar_Rangers
@@ -12432,7 +12165,6 @@ DeepSpace
 Fran%C3%A7ois_Sternkiker
 Unidentified_Trandoshan_(Nal_Hutta)
 Aaz%27del_Hutrick
-Category:3PO-series_protocol_droid_models
 Unidentified_Aqualish_(Nar_Shaddaa)
 Wieler
 Prophet_(Aing-Tii)
@@ -12453,7 +12185,6 @@ NY112
 Ducianne
 Hasslo
 Elo_Panil
-Category:Imperial_admirals_and_generals
 CZ-332
 Clak%27dor_(Selvaris)
 Shadow_Twelve_(New_Republic)
@@ -12550,7 +12281,6 @@ DFS-327
 Jawa/Legends
 Hran_Beling
 Unidentified_Imperial_Governor_(Gandle_Ott)
-Category:Holidays
 ZK-517P
 Oxil_Sarban
 Korowee_Fa%27lorn
@@ -12613,7 +12343,6 @@ Sana-Jis_Ilowa
 Malia_(person)
 Brainiac-series_controller_droid
 Alok_Adasca
-Category:Podracing
 Brago
 XT_labor_droid
 Argor
@@ -12653,7 +12382,6 @@ Dorian
 Handa
 Nano-star
 Unidentified_junk_droid_3
-Category:Galactic_Republic_vehicles
 Amyva_Va%27new
 Unidentified_junk_droid_2
 Handi
@@ -12713,7 +12441,6 @@ Baydo_Chasdy
 Orma_Hundeen
 Gerlon_Two-Fingers
 Unidentified_clone_trooper_2_(Kiros)
-Category:MerenData_products
 Ohnaka_Gang/Legends
 Flautis
 Elam_Mattic
@@ -12829,7 +12556,6 @@ Aricos_Dreleene
 Gor_Lequar
 Unidentified_shuttle_pilot
 Alderaanian/Legends
-Category:Sith_Empire_individuals
 Black_Hole_Gang
 Shall_Mar
 G%27Nung
@@ -12845,7 +12571,6 @@ Threepethosk_protocol_droid
 Vigrat_Pomoner
 Crix_Madine/Legends
 Notea
-Category:Alliance_Military_officers
 House_of_Metara
 KPR_servant_droid
 Usu_Cley
@@ -12888,14 +12613,12 @@ Thorbo
 Wampa1
 Halle_Burtoni/Legends
 Anora_Fair
-Category:Imperial_Army_enlisted_personnel
 Tarn_(Khoonda)
 Chatook
 Rodjnik
 Triege
 Dekluun
 Naffer
-Category:Imperial_Navy_admirals_of_the_Galactic_Empire
 The_Pure
 Elios_Maliss
 Nerril
@@ -12903,7 +12626,6 @@ Mistal
 Kimmi_Chyler
 Pekaelic_ke_Teldan
 Dynast
-Category:New_Republic_Intelligence_personnel
 2JTJ_personal_navigation_droid
 Munin_Skirata
 Putney
@@ -12918,7 +12640,6 @@ Needo_Farr
 Rakehell_Five
 Clan_Matron
 Obersken
-Category:Cestians
 Ki_Sazen%27s_Master
 Holy_Advisor
 Pashna_Starkiller
@@ -12932,7 +12653,6 @@ ET-74_communications_droid
 Drend_Navett
 Bregius_Golthan
 Kar%C3%A9_Kun
-Category:Droids_by_purpose
 CLL-series_load_lifter
 Tagta
 Ravi_Thienta
@@ -13005,7 +12725,6 @@ Kal%27Falnl_C%27ndros
 Prisoner_677780
 Abadaner
 Drosh_Khalii
-Category:Engineers
 Bjork_Umi
 Unidentified_Force_Hound
 Unidentified_Jedi_(lightsaber_reflect)
@@ -13172,9 +12891,7 @@ Ivano_Troade
 Terno
 Pofko
 Symatrum_League
-Category:Unidentified_military_personnel
 Torpin
-Category:Galactic_Empire
 HMC-10
 NaviGo_chipset
 Blue_Two_(stormtrooper)
@@ -13196,7 +12913,6 @@ Vellar
 Unidentified_Star_Destroyer_Commander
 Rh%27ajah_Fenn
 Denno_Yanglan
-Category:Pets
 Aris_Vauranelle
 Hamaz
 Unidentified_BX-series_droid_commando_4
@@ -13247,7 +12963,6 @@ Bagitt
 Mummers
 Pupaku
 Morrit_Ch%27gally
-Category:Service_droid_models
 Unidentified_New_Republic_Dug_diplomat
 F-23-DKMx
 Norys
@@ -13259,7 +12974,6 @@ Unidentified_Gran_(Rimmer%27s_Rest_cantina)
 C5_bartender_droid
 Harthan_family
 Unidentified_Moff_(Reekeene%27s_Roughnecks)
-Category:Yevethan_culture
 Minister_of_Protocol
 Hamber
 Pakmillu
@@ -13400,7 +13114,6 @@ Tersu
 3B3-888
 Mramo_Gurah
 Widdle_Warrick
-Category:Sith_of_the_New_Sith_Wars
 Patricia_Katarn
 Branger
 Markus_Andarius_Thul
@@ -13408,7 +13121,6 @@ Sannen
 House_Korden
 Aerowynn
 Gamine
-Category:Plants_by_location
 Master-at-arms
 Galacian
 Clone_commando/Legends
@@ -13463,7 +13175,6 @@ Battle_Station_Operations_Chief
 Davidge
 Unidentified_Mandalorian_police_captain
 Unidentified_New_Mandalorian_aide
-Category:Selonians
 Unidentified_Twi%27lek_majordomo_(Sel_Zonn_Station)
 Mintinee
 Binna_Jode
@@ -13526,7 +13237,6 @@ Lilas_Dinhint
 Gubo_Durab
 Hoffner
 Stands_Tall
-Category:Sith_in_the_Lost_Tribe_of_Sith
 P%27Lor
 Bratt
 Heavy-duty_suspension_system
@@ -13544,7 +13254,6 @@ MSE-5_General_Purpose_Droid
 Alandra_Mipsy
 Grinte_Vel_Aath
 Trecht
-Category:Temples
 Rian_Darok
 Unidentified_Weequay_(Balnab)
 Unidentified_Naboo_councilman
@@ -13712,7 +13421,6 @@ Scutt
 Unidentified_B1_battle_droid_(Dooku%27s_frigate)
 Masher
 Sodoh_Reddik
-Category:Pre-Ruusan_Jedi_Masters
 Slone
 Kaalah-Nah
 Predne_Balu
@@ -13724,7 +13432,6 @@ Halbret
 Garvimm
 Aiaks_Fwa
 Atton_Rand
-Category:Pirate_squadrons
 Daimanate_officer
 Gamma_Two
 Chondrus_Berani
@@ -13746,7 +13453,6 @@ Demagol
 D._Wolren
 Olander_Brit
 Abbeth
-Category:Imperial_Office_of_Criminal_Investigations
 Nebula_Masters
 Dado
 Raklo-Mo
@@ -13761,7 +13467,6 @@ Chopper_(clone_trooper)
 Iram_Radique
 Jamb_Beentilles
 Maris_Brood%27s_Master
-Category:Wookiee_culture
 House_Rist_Bunker
 Bothan/Legends
 Armaruk
@@ -13773,7 +13478,6 @@ Rido-Attar
 MSF_mouse_droid
 Unidentified_Dark_Jedi_Master_(Star_Forge)
 Sandara_Li
-Category:Arakyd_Industries_products
 Unidentified_Cortess_delegate
 Vraker_Orde
 Matthew_Hobbs
@@ -13785,7 +13489,6 @@ C-2V9
 Salen_Toth
 BU-11
 Scavenger
-Category:A%27Mar_culture
 Dagg
 Bazine_Netal
 Pikk_Mukmuk/Legends
@@ -13923,7 +13626,6 @@ Drolan
 Borik_Yelgo
 Dail%27Liss
 R3-D3
-Category:Imperial_Navy_personnel
 Unidentified_Legislative_Youth_Program_trainee
 R3-D5
 Mortan
@@ -13973,7 +13675,6 @@ J9-R1
 Saper
 Carnor_Jax%27s_father
 Nal_Kenuun
-Category:Space_station_residents
 Luminara_Unduli
 Carlton
 Lina_Zev
@@ -13999,7 +13700,6 @@ Cauldron_wampa
 T-3_unit
 Trillot
 PIP/2_systems_control_droid
-Category:Abyssin_culture
 L2-PN
 Serjay_Thul
 Lareen_Dantara
@@ -14018,7 +13718,6 @@ Unidentified_clone_trooper_(Haurgab)
 Unidentified_clone_trooper_(Ryloth)
 Droid_Revolution
 DS-55-6
-Category:Galactic_Alliance_admirals_and_generals
 Oppo_Rancisis
 DS-55-2
 Unidentified_Human_senator
@@ -14051,7 +13750,6 @@ Thane_Kyrell
 Murtan_Andes
 Sia_Norrin
 Deyd_Llnewe
-Category:Historians
 Toltek%27s_band
 Ravik
 Xandral
@@ -14090,7 +13788,6 @@ Sta-Den_Eekin
 Coruscant_Full_Symphony
 Bilbob
 General_Marshoo%27s_Eatery
-Category:Trade_Federation
 Dave
 Zatt
 Maris_Brood
@@ -14124,7 +13821,6 @@ Mon_Calamari_Knights
 Twazzi
 Sanin
 Rogue_Squadron
-Category:Death_Squadron
 Jovan_(Lieutenant)
 Martio_Batch
 Unidentified_naval_ensign
@@ -14268,7 +13964,6 @@ Unidentified_T-series_tactical_droid_(Naboo)/Canon
 First_Organa
 Training_commandant
 Griffax_Jin
-Category:Third-degree_droids
 Jervo_Thalien
 Unidentified_Organa_delegate
 Burner
@@ -14322,7 +14017,6 @@ Dorgat
 4XB_Programmer_Droid
 Search_team_102
 Voort_saBinring
-Category:Stormtrooper_units
 Mar%27holt_Kisfrel
 Aqualish/Legends
 Teak_Sidbam/Legends
@@ -14337,7 +14031,6 @@ Joruus_C%27baoth
 Poxall
 Nyarla
 Ranon_Djelkh
-Category:Combat_instructors_and_training_officers
 Zian_Finnis
 Cambira_Ralle
 Mahish
@@ -14346,7 +14039,6 @@ New_Republic_Observer
 Luskin_Exovar
 Warlug
 Redd_Wessel
-Category:Service_droids
 Bissillirus_Blaster
 Zal_Dinnes
 Blagotine
@@ -14469,7 +14161,6 @@ Dix_Rivan
 Shadow_Angels_of_Dathomir
 Mirev-Ka
 Murrtaggh
-Category:Grand_Admirals
 Carrick_family
 Makin_Marec
 S%C3%BClphurr_Cyander
@@ -14520,7 +14211,6 @@ Unidentified_Jedi_Master_(Humanoid)
 Sethul_Asaiage
 War_commissar
 Unidentified_Black_Sun_soldier_1_(Zanbar)
-Category:New_Republic_individuals
 Marsh_Limoth
 Daruula_Grah
 House_Organa_(estate)
@@ -14556,7 +14246,6 @@ Brinnie
 Jacklin
 Stormtrooper_Corps/Legends
 Malvek
-Category:Pirate_organizations
 IM-2M
 Gayla_Riemann
 Juhm
@@ -14604,7 +14293,6 @@ Dagnian_Sark
 Gantrell
 Hodo
 HK-67
-Category:Galactic_Republic_starfighter_squadrons
 High_Colonel
 Blaschowwa
 Kronn
@@ -14672,7 +14360,6 @@ Jomar_Chul
 Hoge
 Xishel
 Unidentified_clone_trooper_commander_(Rishi)
-Category:Battle_droids
 Daleen
 Jori_Daragon
 Unidentified_Spaceport_police_droid_2
@@ -14815,7 +14502,6 @@ Unidentified_Gamorrean_clown
 Chief_Manager
 Gurke
 Juul
-Category:Military_personnel_by_rank
 Yuvar_Xal
 Llanmore
 Hoom
@@ -14887,7 +14573,6 @@ Keets_Freely
 Kinch_Sunka
 Degoren
 Veril_Acamma
-Category:Cuisine
 Jerga
 Je%27daii_Master
 Jergo
@@ -14954,7 +14639,6 @@ Harra
 Ruescott_Melshi
 Harro
 Ualp_Xathan
-Category:GenoHaradan_members
 Szygar
 Caarite
 Kisoyt_Soliger
@@ -14975,7 +14659,6 @@ Special_Enforcement_Officer
 Deen_(Tusken_Raider)
 Garowyn
 Noa_Briqualon
-Category:3PO-series_protocol_droids
 Amaro_Fonteen
 Burl_Ives
 Mar%27ek
@@ -14994,7 +14677,6 @@ Breen
 Holt_(Executor_captain)
 Gar_Gastinin
 Samish_Kash
-Category:Galactic_Emperors
 Harris_(major)
 Bickey
 Shens
@@ -15005,11 +14687,9 @@ Atton_Repness
 Gurun
 Narra_Mesyne
 Fist
-Category:Czerka
 Nojin_Koolb
 Harsh
 Brukal
-Category:Rebellions_and_uprisings
 Jerri
 New_Republic_Marine
 Tarnese_Lyanne
@@ -15031,7 +14711,6 @@ Kwilaan/Legends
 Crimson_Blade
 Chak%27aghakh
 Infiltrator_(armor)
-Category:Sith_acolytes_and_apprentices
 House_Ulgo
 Shadow_Security_Droid
 %22Hatchling%22_maintenance_droid
@@ -15052,7 +14731,6 @@ Death_Squad_Leader
 Harun
 Rostek_Horn
 Arkos_Sovrit
-Category:Republic_Army_personnel
 Unidentified_mutineer_officer
 Harb_Binli
 Iliox_Argunn
@@ -15061,7 +14739,6 @@ B-T3_Guard_Droid
 NL0-A
 Mokem_(researcher)
 Cagaran_Wei%27s_mechanic
-Category:Military_personnel_of_the_Empire-in-exile
 Bol_(Separatist)
 Rab%C3%A9/Legends
 Tap-Nar-Pal
@@ -15119,7 +14796,6 @@ Rulan_Prolik
 Elkin_(marine_commander)
 Alkhara_Bandits
 Clan_Doneeta
-Category:Imperial_Department_of_Military_Research_products
 Imperial_Peace-Keeping_Certificate/Legends
 Unidentified_GNK_power_droid_(Renown)
 CT-5385/Legends
@@ -15230,7 +14906,6 @@ Cencil_Corporation
 Ab%27el_Bogen
 Coyle
 Mlatar_Thon_Gra
-Category:Naboo_vehicles
 Gunta-Mer
 Fenn_(Balmorran)
 Birn_Da%27p
@@ -15258,7 +14933,6 @@ Terrorist
 Koth_Melan%27s_father
 Galleros_Nul
 Brace_Tarkosa
-Category:Ewok_culture
 Lerrimore_Droids
 Unidentified_OOM_command_battle_droid_(Raxus)
 Middle_Generation
@@ -15286,7 +14960,6 @@ Poggle_the_Lesser
 Khuiumin_Survivors
 Izri_Dazh
 Callan_Grayne
-Category:Foster_Agents
 Odan
 Apprentice_Legislature
 Wurtz/Legends
@@ -15365,7 +15038,6 @@ Trede_Bakvalen
 Gellak
 Banqueting_rotunda
 Muftak/Legends
-Category:Yuuzhan_Vong_organizations
 Maximillian_Veers
 Harp%27r
 Sidirri
@@ -15398,6 +15070,7 @@ Faazah
 GT-643
 Unidentified_stormtrooper_(Anya_Karu)
 Darth_Phobos
+Ursa_Wren
 Howler_(jurgoran)
 Bragger
 Sapor
@@ -15412,7 +15085,6 @@ Unidentified_female_mercenary_(Ruusan)
 R3-Q5
 Unidentified_clone_trooper_officer_(Kamino_security)
 Gabrial_Atanna%27s_wife
-Category:Imperial_Supreme_Commanders
 Jeroen_Webb
 Yover
 Kassor_Quade
@@ -15460,12 +15132,10 @@ Tutso_Mara
 Doruk
 Tassa%27to
 Naloriss
-Category:Communications
 Ki-Adi-Mundi%27s_mother
 Cambra_Del
 Unidentified_Senate_Commando_2_(Tranquility)
 Bandwin_Cor
-Category:Imperial_Navy_officers_of_the_Galactic_Empire
 Cassius_Nolath_Rha
 Lathe_(slicer)
 Beed_Thane
@@ -15552,7 +15222,6 @@ Zain_Quelrak
 Orus_Jind
 Tresk_Im%27nel
 Schardak
-Category:Slicers
 Keldas_Thul
 Erg_Krow
 Ayanos_Bactra
@@ -15584,7 +15253,6 @@ Tealart
 Ranger_X-One_defense_robot
 Dine%C3%A9_Ellberger/Legends
 Chizz_Major
-Category:Personnel_of_Darth_Krayt%27s_Galactic_Empire
 Minister_of_War
 Monfre
 Rokuss
@@ -15617,7 +15285,6 @@ Unidentified_501st_stormtrooper
 Danna_Fajji
 Bar-Kooda
 Bernard_Vota
-Category:Adumari_culture
 Chief_Medical_Scientist
 N-4PO
 Director_of_Fleet_Intelligence
@@ -15776,7 +15443,6 @@ Jorak_Uln
 Bindu
 C-7NO
 PI-series_medical_assistant_droid
-Category:Data_storage_and_processing
 Jakob_Biddyn
 OOM_command_battle_droid/Legends
 Rebel_gunner
@@ -15792,7 +15458,6 @@ Westen
 2V9_cargo_lifter_droid
 Unidentified_clone_(morgue)
 The_Wolf
-Category:Rebel_Alliance_military_units
 Lozen_Tolruck
 Sahali
 Droideka_dispenser
@@ -15806,7 +15471,6 @@ Kystallio_Detection_Plus
 Dyat_Agni
 Jun_Seros_(Whiphid)
 Unidentified_Duros_(Sabat%27s_thugs)
-Category:Spies
 Nuruodo_family
 Dimone_Irrv
 House_Pelagia
@@ -15833,9 +15497,7 @@ Watto/Legends
 Hurst_Romodi/Legends
 Sularus_Brenn
 Unidentified_Aqualish_governor
-Category:Individuals_by_company
 Unidentified_Barons_Hed_bartender
-Category:Chiefs
 Sinan_Mat
 Mari_Amithest
 Emperor%27s_Voice_(Galactic_Empire)
@@ -15953,7 +15615,6 @@ Naboo_Royal_Advisory_Council
 Chywarra
 Ostan_Atur
 Loyada
-Category:Droids_by_programming_gender
 Tamor
 Lol_Miilarta
 Kenev
@@ -15988,11 +15649,9 @@ Julio_Beni
 O-Nena
 Prefect_(Coruscant_police)/Legends
 Construction_droid
-Category:Imperial_Remnant_admirals_and_generals
 Giant_armadillo
 Shayla_Paige-Tarkin
 Kendo
-Category:Intelligence
 Cyborg
 Detorkro_Gaan
 Molierre_Cundertol
@@ -16126,9 +15785,7 @@ Grodin_Tierce
 Assistant_Minister_of_Commerce
 Gamden
 Unidentified_Arkanian_doctor
-Category:Individuals
 Droideka_Delta
-Category:Jedi_Council_members
 Stormtrooper_droid
 Remolo
 H0-U53
@@ -16380,7 +16037,6 @@ Unidentified_Mandalorian_customs_officer/Canon
 Maya_Drin
 Sludgegulper
 Amda_Wabo
-Category:Mouse_droids
 Mant_Buume
 Unga_Torr
 Tyrix
@@ -16396,7 +16052,6 @@ CBX-9
 Kime_Enanrum
 Talee
 Jolee_Bindo
-Category:Reubens_Robotic_Systems_products
 Wires
 Overlord_(Imperial)
 Namen_Takamen
@@ -16414,7 +16069,6 @@ Flim
 Mentor_Assassin_Zeta
 Flip
 N4-10_Exterminator
-Category:Alliance_admirals_and_generals
 Memory-wipe_droid
 Poolin
 Kartha
@@ -16446,10 +16100,8 @@ Miarta_Sek
 Arachnodroid
 Czulkang_Lah
 Sarma
-Category:R4-series_agromech_droids
 Orixon_Raiders
 Brindy_Truchong
-Category:Senate_Guard
 Rodik_Xern
 Mian_Hoob
 Republic_officer
@@ -16473,7 +16125,6 @@ Talloryn
 Ellorrs
 Akal_Colzet
 Aphra%27s_crew
-Category:Personnel_of_Ysanne_Isard%27s_Thyferran_regime
 Unidentified_alien_woman_(Vyndal)
 Felloux
 Anskow
@@ -16485,7 +16136,6 @@ TT-2G_guard_droid
 Lo_Bukk
 Zephee
 Gold_Two_(Muunilinst)
-Category:Imperial_Army_personnel_of_the_Galactic_Empire
 Nell_Voorson
 Arlo_Grennen
 Artemis_Oophanoe
@@ -16519,7 +16169,6 @@ Tam_(clone)
 Droopy_McCool
 JMM_assassin_droid
 Quingarus_Systems_cook-droid
-Category:Actors
 TITAN_6
 Boz_(customs_agent)
 Vodal_Kressh
@@ -16530,7 +16179,6 @@ SD-357/Canon
 Torvon
 CT-55/11-9009
 Anbow
-Category:Salvage_droids
 Hurd_Coyle
 Vokara_Che
 House_Benelex
@@ -16559,7 +16207,6 @@ Garax_Hadriin
 Target_Number_One
 Remote
 Beolars_Bribbs
-Category:Sith_military_personnel
 Director_Droid_DX-10
 Melodic_Order
 Dellis_Tantor
@@ -16584,7 +16231,6 @@ JN-092
 JN-093
 Scabby
 Sulle
-Category:Mugaari_starships
 Galen_Besk
 Uz_Bonearm
 Newin_Seedel
@@ -16610,7 +16256,6 @@ Ryley_Ancum
 Jan_Dodonna
 Darryn_Edalm
 Feyenn
-Category:Ewoks
 Hurati
 Havriso_Looruya
 Charal
@@ -16618,7 +16263,6 @@ Batral_Orcel
 Unidentified_clone_(cremation_center)
 Unidentified_Resistance_chef
 Zeerid_Korr
-Category:Galactic_Alliance_bureaucrats
 Eve_Yarrow
 Giant_mouse_droid
 WAC-47/Legends
@@ -16659,7 +16303,6 @@ Adwin_Charu
 Velso
 Hu_Marell
 Irnst_Stavveld
-Category:New_Republic_Army_personnel
 Dakkar_the_Distant
 Javul_Charn%27s_mother
 Corrun_Falt
@@ -16688,7 +16331,6 @@ Xarcce_Huwla
 Dotti
 Wilson_Tchorshel
 Minister_of_Information_(Five_Worlds)
-Category:Gungan_culture
 Mk_I_EM_System
 Arnth
 C%27Bal
@@ -16711,7 +16353,6 @@ PK-series_worker_droid
 Arlumek
 Sormic
 Entora_Zar
-Category:Performing_arts_organizations
 Bruckman
 Jahrunba
 Mandalorian_Guard_Captain
@@ -16739,7 +16380,6 @@ Arnod
 Barlon_Hightower
 Binny
 Therj%27io%27nuruodo
-Category:Tarasin_culture
 Trista_Zel
 Slyssk
 Unidentified_superlaser_engineer
@@ -16803,7 +16443,6 @@ Rii_Jenks
 Rebel_Vanguard
 Sniper/Legends
 Lankost
-Category:New_Jedi_Order
 Stenographic_recorder
 Pilba_Dalohog
 ID9_seeker_droid
@@ -16853,7 +16492,6 @@ Tet_Tramys
 Chentu_Chek
 Yarith_Figg
 Anaakin_Solo
-Category:Cybot_Galactica_products
 Theed_Landing_Plaza
 N4-71
 Belo_Tusus
@@ -16903,7 +16541,6 @@ Nenevanth_Tion
 Ennead
 Envoy_(droid)
 Carlist_Rieekan/Legends
-Category:Security_technology
 Doleth_Arnoko
 Street-cleaner_droid
 Chief_of_State_(Corellia)
@@ -16911,7 +16548,6 @@ Unidentified_Mandalorian_secret_service_officer
 Mavin_Cless
 Reeve_Dallows
 Jeremay_Sann%27tiago
-Category:Imperial_Intelligence_of_the_Galactic_Empire
 BG-R52
 Amos_Torq
 Shiin
@@ -17059,7 +16695,6 @@ Amrashad
 Akanah_Norand_Goss_Pell
 Toluz_Cheq
 Elenzia
-Category:Amani_culture
 Unidentified_clone_cadet
 Unidentified_Rakata
 Torrent_Four
@@ -17070,9 +16705,7 @@ Rek_(majordomo)
 Baobab_family
 Clan_Carid
 TK-21
-Category:Resistance_organizations
 Pliktu
-Category:GoCorp_products
 Terter
 Compeer
 Mahl
@@ -17081,7 +16714,6 @@ Ratcatcher
 Royal_Navy
 Marrsel
 Maga
-Category:Second-degree_probe_droids
 Scout_Soldier
 Kosa-Yin_Hadu
 Droid_repulsor
@@ -17235,7 +16867,6 @@ Lilia_Lands
 Gim_Sorzo
 Brint
 Dharus%27_Buccaneers
-Category:Smugglers%27_Alliance_members
 Domisari
 Friizt
 Garan_(individual)
@@ -17309,7 +16940,6 @@ V2A_DAZ
 Sonam-Ha%27ar
 Denetrius_Vidian
 Nikollan_Kord
-Category:Gamorrean_culture
 Rocket_(77th_Air_Wing)
 Cornelius_Wagglehorn
 Matu
@@ -17390,7 +17020,6 @@ Rattataki_torture_droid
 Riwwel
 Sar_Labooda
 Shogar_Tok
-Category:Political_factions
 Spince
 Miwy_Joy/Canon
 Tren_Alvar
@@ -17492,7 +17121,6 @@ Dulse_Tethin
 Ponto
 Rutum
 Banol_Starkiller
-Category:Fifth-degree_droids
 Zoodia_Tantra
 Thresh-ahantu_Azuloz
 Minst
@@ -17520,7 +17148,6 @@ Heimkes
 Jor_Entel
 Myri_Antilles
 Tanik
-Category:Rakghouls
 Tanij
 Unidentified_T-series_tactical_droid_(Umbara)
 Ajunta_Pall%27s_Jedi_Master
@@ -17650,7 +17277,6 @@ Teria_Alessie
 Wesska
 WED-15-I662
 Dhol
-Category:Planets
 Chiba_Corporation
 J8R-1
 Lake_Country/Legends
@@ -17857,9 +17483,7 @@ Magda_Keto
 Fodo
 Barrit_Bosch
 Leika
-Category:Education
 Insectoid_pirate_of_Tarnoonga
-Category:Tatooinians
 Fixer_One
 Sari_Danzer
 Glorificent
@@ -18065,7 +17689,6 @@ Tiu_Zax
 Gipson_Coloda
 Pon_Edestus
 Bogey_4409
-Category:Translation_devices
 Kerek
 Gorog_(creature)
 Unidentified_Dimok_crone
@@ -18129,14 +17752,12 @@ Diva_Shaliqua
 Klevb
 Unidentified_male_Human_Jedi_3_(Capture_of_Darth_Revan)
 Conlath
-Category:Utilitech_products
 Emperor%27s_Hand
 Suzdice
 Chanya_Medaal
 Rus_Kal_Kin
 Anakin_Solo
 Kyrell_family
-Category:Sentient_species
 Selanno
 0-1B
 Boushh
@@ -18157,7 +17778,6 @@ Thurgos
 Gold_Three
 8D-series
 Ha-ran
-Category:Hutt_organizations
 Xaset_Terep
 Gohn_Bimmin
 Fixer_Seven
@@ -18269,7 +17889,6 @@ Crix_Masst
 C7-A7_Guard_Droid
 Sannab_Ro
 Unidentified_Imperial_first_officer
-Category:Imperial_Army_generals
 Davu_Golec/Legends
 Kerlo
 Neo-Crusader_Shock_Trooper
@@ -18292,7 +17911,6 @@ Ruku_Myal
 Morningfire
 Vless
 Jally
-Category:Tactical_droids
 Tardi
 Jahan_Cross%27s_mother
 Surdu
@@ -18335,7 +17953,6 @@ Grigor_(Sith_Lord)
 Fusion_generator
 Trunks_Bibo
 Unidentified_bartender_(Corellian_whiskey)
-Category:Slavery
 Flax%27Supt%27ai
 RX5-TLN
 Battle_of_the_Naboo_resistance_base
@@ -18346,10 +17963,8 @@ Ry-Gaul
 Morvis_(senator)
 Scitrok_Warriors
 R1_(Resistance_Pilot)
-Category:Republic_Army_officers
 Halsta_Labiqon
 Des%27maric_Blastboats
-Category:Slavers
 Ja%27dan
 Pilkey
 Kalthir
@@ -18376,7 +17991,6 @@ Mirru
 Ketsu_Onyo
 Pugwis
 Unidentified_Mandallian_Giant_assassin
-Category:Belsavians
 Tun_Dameerd
 Clines_family
 Huff_Zinga
@@ -18386,7 +18000,6 @@ Hadrik
 Bongo_Advanced_Scout
 Taray
 Scarab_Mark_VI_assassin_droid
-Category:Matukai
 Rilly_Raadun
 House_Alde
 Unidentified_sarlacc_(Duroon)
@@ -18403,7 +18016,6 @@ R0-4L0
 Ethan_Adare
 Suvar-Ton
 Deputy_Prime_Minister
-Category:Pre-Ruusan_Jedi
 S4-E_Support_Droid
 Fenn_(spacer)
 Unidentified_male_Imperial_Knight_II_(Agamar)
@@ -18446,7 +18058,6 @@ Dryzen_Wellis
 Unidentified_clone_trooper_(Prosecutor)
 Vornskr
 Velasu_Graege
-Category:Chiss_military_units
 Cessik
 Unidentified_Dubravan_starfighter_salesman
 Mac_Varley
@@ -18456,7 +18067,6 @@ Imar_Deez
 Bedareux
 Dalton_Iselen
 Surna
-Category:Bureaucrats
 Verpine_demolitions_probe
 Janard
 T._Alvak%27s_father
@@ -18469,7 +18079,6 @@ Kyndern
 Cresken
 Unidentified_Yuuzhan_Vong_commander_(matalok)
 Unidentified_Black_Sun_racketeer
-Category:Tarasin
 Swift_(clone_trooper)
 Aldiae
 Gilad_Pellaeon_(impostor)
@@ -18502,12 +18111,10 @@ Niktha
 Klaggus_Purgato
 Ephraim_Bridger
 Kren%27_Ger
-Category:Galactic_Republic_senators
 Djal
 Rajine
 Porto
 Surracca
-Category:Je%27daii_individuals
 TranLang_II_communications_module
 Bens_Figg
 Wicked_Pleasure
@@ -18522,9 +18129,7 @@ Lorrir
 Beeda
 Dana_(Galacian)
 Dark-skinned_human_pirate_of_Tarnoonga
-Category:Languages
 Prelate
-Category:Alliance_Fleet_officers
 Doum_Cin
 Kuvuta_Pindi
 D-4R5
@@ -18585,7 +18190,6 @@ Nysshyyyk
 Gorsick_Dommaro
 Gelens
 Junior_Palace_Guard
-Category:Probe_droid_models
 Anger
 Kird_Telak
 Binary/Legends
@@ -18593,7 +18197,6 @@ Angel
 Chackra
 Dasha_Fanron
 XLT-014_labor_droid
-Category:Overpopulated_categories
 Sasnak_Toxis
 Droid_dura_plating_Mark_II
 Kiara_Schmong
@@ -18609,6 +18212,7 @@ Rigosso/Legends
 Groshik
 Rebel_command_insignia/Canon
 R1-T4
+Tristan_Wren
 Karenna_Dunnels
 Unidentified_B1_battle_droid_6_(Geonosis)
 Zey_Nep
@@ -18630,7 +18234,6 @@ Mantologo
 Unidentified_centurion
 Annoo-dat_Blue
 Draay_family
-Category:Terrorists
 Thavish
 T-Series_Imperial_Protocol_Droid
 RT441
@@ -18641,7 +18244,6 @@ Wim_Magwit
 Annihilator_X-12
 Treegin
 B4711
-Category:Anomid_culture
 Vorlocca
 Gaevril_Daraada
 Orf_Madroo
@@ -18669,7 +18271,6 @@ Randa_Besadii_Diori
 Currsk
 Ezran_pirates
 Tennelt
-Category:New_Republic_bureaucrats
 Karal_Kaar
 Jaing_Skirata
 Intellex_III
@@ -18716,9 +18317,7 @@ Narada-ti
 Djon
 Ta%27a_Chume
 Rotclaw
-Category:Imperial_warlord_personnel
 Watcher_Eight
-Category:Baktoid_Combat_Automata_products
 Ripper_(pet)
 Aveca_Dunn
 Protarius
@@ -18734,7 +18333,6 @@ Jory_(Rebel_Alliance)
 Aerial_assassin_droid
 Yong_Dolor
 Unidentified_Assistant_Advisory_Undersecretary_of_Media
-Category:Personnel_of_the_Fel_Empire
 Javriel
 Unidentified_stormtrooper_(Endor)
 Jakal
@@ -18762,7 +18360,6 @@ S%27ran_Droot
 Giiedt
 Myles_Grint
 Dynba_Tesc
-Category:Sand_People
 Joodiel_Amgris
 Message_droid_hyperspace_pod
 Kardash_Josen
@@ -18859,7 +18456,6 @@ Dunn_(supply_sergeant)
 Gon-Sa
 Mak_Luunim
 Merish_Alze
-Category:Confederacy_individuals
 OT-3_Relay_Droid
 Genkal
 Harro_Ruuk
@@ -18868,7 +18464,6 @@ Loccin
 Baljos_Arnjak
 WompRat
 Rantok_Battalion
-Category:Piracy_and_privateering
 Rewen_Porrot
 Sechel
 Samston
@@ -18880,7 +18475,6 @@ Jace_Rendu
 Dathcha
 Hal%27Sted
 Meerak
-Category:Stormtroopers_of_the_Galactic_Empire
 P2_(astromech)
 Bolla_Thoath
 Unidentified_Kuati_heir
@@ -18900,7 +18494,6 @@ Triumvirate_(Galactic_Alliance)
 Haninum_Tyk_Rhinann
 Kiffar
 Dafi_(criminal)
-Category:Pre-Republic
 Ree-Yees
 YVH_1-32A
 Entertainment_droid
@@ -19005,7 +18598,6 @@ Rachott
 Chiithii%27n
 Lieutenant
 Vani_Korr
-Category:Imperial_Navy
 Dyer/Legends
 Nara_Deega
 Orqiti_Aneofo
@@ -19038,7 +18630,6 @@ Dash_Rendar
 Marsden_Latham
 Big_Gil
 Gredda_Lars/Legends
-Category:Balmorran_Arms_products
 Unidentified_Pau%27an_drug_dealer
 Huyang/Legends
 Jae_Akura
@@ -19057,7 +18648,6 @@ D%27Wopp
 Beau
 Renna_(Human)
 The_Outlander
-Category:News_media
 N-1_assembly_site
 V-series
 Xeal
@@ -19077,7 +18667,6 @@ Unidentified_Rebel_ensign
 Nash_Windrider
 Unidentified_B1_battle_droid_4_(Skytop_Station)
 Laerron_Woern
-Category:Bounty_hunter_guilds
 Klemp
 Renning
 Unidentified_Rebel_corporal
@@ -19115,7 +18704,6 @@ Drayk
 Tor_Difusal
 Vald_Inosp
 Ruf-Asti-Viarffli
-Category:Third-degree_droid_models
 R1-H5_Astromech_Droid
 Klik-Klak
 Cham_Detta
@@ -19123,7 +18711,6 @@ Bedd
 Unidentified_B1_battle_droid_2_(Munificent-class_star_frigate)
 Sazat
 Okko
-Category:Corellian_culture
 Unidentified_Rebel_Pilot_(Advisor)
 Beez
 Rewinda_Briil
@@ -19157,7 +18744,6 @@ Laane
 Engar_Ret
 Dresdema
 Varish_Vicly
-Category:Medical_droids
 Dersa_Welles
 RWW-series_protocol_droid
 Ilov_Maas
@@ -19175,7 +18761,6 @@ Photoreceptor/Legends
 Kordren_(Cerean)
 Ferroda
 Artoz
-Unidentified_stormtrooper_(Kessel)
 Grael%27s_wife
 Suzoku
 Anakin_Skywalker
@@ -19284,19 +18869,17 @@ Unidentified_Republic_Navy_officer
 Poor_Crippled_Droid
 Star_Cabal
 Priority_Sector_High_Commander
-Category:Tarisians
 Jander
-Category:Anzati_culture
 Ilko_Deminar
 MD-0_medical_droid
 Quarlo
 Unidentified_DUM-series_pit_droid
-Category:Hybrids
 Benx
 Ketku
 Frenk/Legends
 Unidentified_warrior_commander
 Conners
+D4-R4B
 Vosadii
 Preena_Jallop
 Zai_Branen
@@ -19360,7 +18943,6 @@ Tulla_Gladeyes_and_the_Shrieking_Squeebees
 Merf
 Daphry
 Unidentified_Kaleesh_stormtrooper
-Category:Anointed_People_culture
 V%27tel
 Klaatu/Legends
 Girov_Dza%27tey
@@ -19460,7 +19042,6 @@ Hound-W2_SPD
 Army_of_the_Dead
 Charlie_Akin
 Ishla
-Category:Imperial_military_personnel
 Alana
 Mlinoa_Blue
 Warda_Gojun
@@ -19490,7 +19071,6 @@ Champion_(vehicle)
 Sebastin_Onyx
 Raider_Three
 OOM-9/Legends
-Category:Tribes
 Carlon_Brandes
 Sinjir_Rath_Velus%27s_grandmother
 Jir_family
@@ -19540,7 +19120,6 @@ Mal_Khestekk
 Jerf_Huxley
 Ni_Timor
 Skylast
-Category:Arkanian_culture
 Draba
 Viper_recon_droid
 Privitt
@@ -19602,7 +19181,6 @@ Yan%C3%A9/Legends
 Trask_(commander)
 Lexhannen_Torlock_(droid)
 Fisonna
-Category:Cities
 GE3-series_protocol_droid
 Observation_droid
 Krotorra
@@ -19738,7 +19316,6 @@ Sarna_(Sith_military)
 Great_Doctrine
 Brolf
 Nuvo_Vindi%27s_laboratory
-Category:Moffs
 Unidentified_clone_trooper_3_(Citadel)
 Rance_(Sith_Overseer)
 Unidentified_scout_trooper_(Skirmish_on_Ord_Mantell)
@@ -19793,7 +19370,6 @@ Zoalin
 Olok
 Elder_of_Knylenn
 Verks
-Category:Galactic_Republic_enlisted_personnel
 Chief_Representative_Officer
 Donta_Gesset
 Ransley
@@ -20024,6 +19600,7 @@ Parkanas_Tark
 Omal
 Okadiah_Garson
 Nar_Millich
+Misty
 Revolutionary_Edge_Brigade
 Tyvokka
 Lanos_(individual)
@@ -20077,7 +19654,6 @@ Beshel
 Brace_Marko
 Virar_Needa
 Emperor%27s_Wrath
-Category:Wampas
 Cipiter
 Calibration_Engineer
 Phase_III_dark_trooper
@@ -20188,13 +19764,11 @@ Clone_Lieutenant
 Londar_(Twi%27lek)
 Spy/Legends
 Brangus_Glee
-Category:Unidentified_droids
 Anorad_Estuan
 Unidentified_Karkarodon
 Waiter/Legends
 Ashla_(Jedi)/Legends
 Loruss
-Category:Imperial_Intelligence_personnel
 MILL-247-EE_industrial_droid
 Ke_Len
 GG-15-7
@@ -20209,7 +19783,6 @@ Kabe
 Adery_Shrial
 Alder
 Unidentified_Omwati_shaman
-Category:Educators
 Tibbola
 Condor_(gunner)
 Personal_Droid
@@ -20226,7 +19799,6 @@ Afsheen_Makati
 Saldith
 GH-7_medical_droid
 Fascyn
-Category:Sith_Empire
 SRT_autonomous_short-range_transport
 Thill
 Ailon_(species)
@@ -20311,7 +19883,6 @@ Remel_Fud
 City_Bigspace
 Unidentified_Sun_Guard
 Kagi
-Category:Royal_Naboo_Security_Force_personnel
 Mellona_Gantrolo
 Kais
 Unidentified_Bith_musician
@@ -20338,7 +19909,6 @@ CeeCee
 Kaid
 Bantha_(disambiguation)
 Kaim
-Category:Personnel_of_the_Galactic_Empire
 Amaya_Kymeri
 Durgard_Brarun
 Gendal_Delan
@@ -20354,7 +19924,6 @@ Treffelt_Wuin
 First_WatchCircle
 Collector/Legends
 Golm_Fervse%27dra
-Category:Great_Houses_of_Alderaan
 Capin_Harinar
 Eiattu_pirates
 Varesh
@@ -20384,7 +19953,6 @@ Razell_Tameron
 Ayjae
 Unkorsa
 Vareth
-Category:Music
 Cornelius_Evazan/Legends
 Miss_Vix
 IT-O9
@@ -20403,7 +19971,6 @@ Nightsisters
 Intellex_II
 Mak_Tennar
 Vala
-Category:Coynite_culture
 Berryl_Chiffonage
 Hallen_(crime_lord)
 Laser_scanner
@@ -20468,7 +20035,6 @@ Momaw_Nadon/Legends
 Sith_Master/Legends
 Karm
 Clan_Amersu
-Category:Lords_of_the_Lost_Tribe_of_Sith
 Karp
 Darth_Hadra
 Ziro_Desilijic_Tiure
@@ -20501,7 +20067,6 @@ Varo
 Alcra
 Sosha_Soruna
 Varr
-Category:Sith_individuals
 Qimberly_Gaitag-Delio
 Hraykken_Bender
 Herkuun
@@ -20513,7 +20078,6 @@ Grellik
 Nyork_chowder
 Criss
 Dark_Lord_of_Belderone
-Category:Fel_Empire_military_personnel
 Vaux
 Redge_Dunlak
 Cailey_Fleming
@@ -20522,7 +20086,6 @@ Deakis_Ronse
 Vevec
 Pordimer
 Unidentified_Zann_Consortium_captain
-Category:Iskalonians
 Kaelldin_Krothburt
 Niai_Fieso
 Imperial_family
@@ -20531,12 +20094,10 @@ Plasma_Energy_Engineering/Canon
 Unidentified_Weequay_Skiff_Master
 P._Nellis
 Unidentified_Jedi_Supreme_Commander
-Category:Sith_sorcerers
 Coruscant_Security_Force/Legends
 08-RD
 Shiraya/Legends
 Bib_Surool
-Category:Imperial_military_specializations
 Kaum
 Trent_(Republic_Navy_officer)
 Dave_Chapman
@@ -20574,7 +20135,6 @@ Mack_(Sith_Empire)
 Cadrath
 Tengrove
 Knight_(Serp)
-Category:Smugglers
 Crion
 Dak_Haron
 Imperial_Ace
@@ -20688,9 +20248,7 @@ Vitwroth
 Galactic_Emperor
 Brood
 Jenks_(clone_trooper)
-Category:Calian_culture
 Devidia_Vennsiol%27s_father
-Category:New_Republic_Starfighter_Corps_personnel
 Unidentified_Imperial_General_(Kessendra)
 Palace_Plaza/Canon
 AD-43
@@ -20709,7 +20267,6 @@ Ferentina
 Klewer
 RE-M0
 Tavoy
-Category:Esh-kha
 CZ-series_communications/business_droid
 NK-3
 Turbolift_droid
@@ -20790,10 +20347,8 @@ M%27a_Jong
 Shisha_Mor
 Pyther
 Aneesa_Dym
-Category:Yuuzhan_Vong_titles
 Neven_Kothe
 Je%27daii_Ranger
-Category:Bureaucrats_of_the_Fel_Empire
 Darth_Ikoral
 R-series
 Ghurn
@@ -20849,7 +20404,6 @@ Yarian_Kak
 Stoos_Olko
 Unidentified_wingmate_of_Volgh_Leader
 Unidentified_Rodian_Jedi_(Petranaki_arena)
-Category:Labor_droid_models
 Nanda-Ree_Janoo
 Santiago
 Aveton_Prit
@@ -20875,7 +20429,6 @@ Hocce
 Riff_Tamson
 Assassin_droid/Legends
 Kantale
-Category:Individuals_by_occupation
 Tofen_Vane
 Vir_Nurb
 CT-44/444
@@ -20893,7 +20446,6 @@ Jaizen_Suel
 Tzidik_Wrantojo
 Meido
 Nyranos%27s_father
-Category:Technicians
 Norus-Wel
 Vepon-Du
 Tiirtha
@@ -20952,12 +20504,10 @@ Kaadu-and-aliens
 Vitrous
 Dan%C3%A9
 Eisek_(Doombringer)
-Category:Force-based_organizations
 Viil_Corvii
 Low_Ones
 Plin_Shardona
 Thurlow_Harris
-Category:Sith_of_the_One_Sith
 Doba
 Dobe
 Brute_(Gungan)
@@ -20970,7 +20520,6 @@ Supreme_Overlord
 JK_series_droid
 Mauit%27ta
 Ylla_Nalooma
-Category:Dark_Side_Adepts
 Dewlannamapia
 Galron_(Twi%27lek)
 Unidentified_commander_(Post_473)
@@ -21072,13 +20621,11 @@ Dam-Powl
 Maer_(doctor)
 Kaini
 Jorek_(Yinchorri)
-Category:Sevari_culture
 Valara_Saar
 Tiranga
 Doge
 Kevreb_Bebo
 Kline
-Category:Galactic_Alliance_Defense_Fleet_personnel
 Rruurrfhurra
 Jar_Jar_Binks/Legends
 Klime
@@ -21175,9 +20722,7 @@ Biktha
 Madaga-Ru
 TC-14/Legends
 Blue_Star_Pirates
-Category:Culture_of_Jabiim
 J%27mesk_Iman
-Category:Jedi_organizations
 Science_officer
 Hethan_Romund
 Jerresk
@@ -21199,7 +20744,6 @@ Zolo
 DJ_droid
 Tiraca
 Byron_Devo_III
-Category:Galactic_Republic_bureaucrats
 Valles_Santhe
 Henne_Kallea
 Blue_Six_(Rebel_Alliance)
@@ -21246,7 +20790,6 @@ Jacques
 Clawfish
 Coro_Lanra
 Suudaa_Nem%27ro
-Category:Yuuzhan_Vong_officers
 Doro
 Hawo_Okec
 Mongo_Beefhead
@@ -21339,7 +20882,6 @@ Shimrra_Jamaane%27s_brother
 Z-37
 Cherit
 Deak_(Skywalker%27s_friend)
-Category:Sports
 Unidentified_clone_trooper_(Geonosian_kill)
 Forrs
 Adambo
@@ -21401,7 +20943,6 @@ Xist
 Faedral
 Treeman%27s_herb
 Desertwind
-Category:Unidentified_political_figures
 Unidentified_Prophet_of_the_Dark_Side_(braided_beard)
 Grentho
 Cassa_Veila
@@ -21413,14 +20954,12 @@ Trondor_Pyn
 Stephannis_Koss
 Ooya
 Daegen_Lok
-Category:Personal_sensors
 Theed_Courthouse
 Kalit
 E-5KL
 Unidentified_guard_droid
 Self-destruct_mechanism/Legends
 Unidentified_Abyssin_Soldier_(Farfalla%27s_Knights)
-Category:Cularin_residents
 Plitht
 Overseer_(GenoHaradan)
 Unidentified_reptilian_Jedi_trainee
@@ -21432,9 +20971,9 @@ Retired_clone_trooper
 Executive_Viceprex
 Aroma-disseminator
 Bixon
-Category:Naboo_locations
 Hildebron
 Desark_Fey%27lya
+Shrap
 Joli_Ti_Eddawan
 Death_Watch
 Load_Lifter_BN-55
@@ -21460,7 +20999,6 @@ Julia
 Seeth%27tal
 Brrik
 Melch
-Category:Sith_ranks
 Vetter_Piin
 Raggold
 Potalla
@@ -21501,7 +21039,6 @@ Jarsa
 Morrt-class_parasite-droid
 Gervruche
 Kalmec
-Category:Buildings
 Mako_Ghast
 Xizor%27s_second_sister
 Kaellus_Fane
@@ -21520,7 +21057,6 @@ Gabrial_Atanna
 Dolo_Karenzi%27s_father
 Tarn_Innis
 Bhixen
-Category:Muuns
 Black_Three
 Abinyshi
 Unidentified_Zabrak_Jedi_trainee
@@ -21609,7 +21145,6 @@ Christophsian
 RT-56/X
 Fen_Ackdo
 Terror_Walker
-Category:Galactic_Alliance_Defense_Fleet_officers
 Embryologist
 Rules_of_the_Blade
 Peshk_Vri%27syk
@@ -21620,14 +21155,11 @@ Blarina
 Lodenth_Kashar
 Grann_(general)
 Callidona_Vens
-Category:Farmers
 Ananda_Dwyce
 Medechas
-Category:Galactic_Alliance_military_units
 K-8PO/Canon
 Jagged_Fel%27s_secretary
 Unidentified_clone_trooper_(Asuin)
-Category:Call_signs
 Barkhimkh
 Nirsh
 Padawan
@@ -21645,7 +21177,6 @@ Fillorean
 Drola_Kinn
 976a_lubricant_container
 Kalyn
-Category:Culture_of_Socorro
 Magir_Paca
 28th_Flight
 Rohu_Silgo
@@ -21666,7 +21197,6 @@ Domain_Ruuq
 Gibbon_Lightmoon
 Elegance_Enshrined
 Unidentified_Gand_scavenger
-Category:Droid_starfighters
 Allexia_Evlan
 Octuptarra_combat_tri-droid
 Neil_Bishop
@@ -21729,7 +21259,6 @@ Nefra
 Dreed
 Ges-Su-Kai
 Talas_Piran
-Category:Imperial_Inner_Circle_members
 Connor_Freeman
 Dreel
 Laskin
@@ -21750,7 +21279,6 @@ Massin
 CZ-P9_Miniprobe
 Kaltor_Naklian
 Hadios_Gek
-Category:Warlords
 Conrad_Gall
 G2-1B7
 Z-N0
@@ -21802,7 +21330,6 @@ Bemos
 Personality_matrix
 CL-33/890
 Triathoggoth_organized_crime_clan
-Category:Vehicles_by_culture
 Unidentified_Twi%27lek_Sith_(Korriban)
 Gilloma
 Preigo/Legends
@@ -21889,7 +21416,6 @@ Norbutal
 Palkell
 Rogar_Farnoster
 Zygli_Bruss
-Category:Individual_creatures
 Nic_Whoma
 Unidentified_New_Republic_Anx_diplomat
 Soprin
@@ -21911,8 +21437,6 @@ Alger
 4A-7
 Quarra_Thayn
 Judicial/Legends
-Category:Empire_of_the_Hand
-Category:Separatist_leadership
 Cretia_Borgin
 Wyron_Serper
 Champhra_Biahin
@@ -21924,7 +21448,6 @@ Vendri_DeRalm
 Nebin_Cray
 Garnak_Fey
 Troubles
-Category:Components
 Zed_Emmers
 Greybird
 Lott_Dod
@@ -21979,7 +21502,6 @@ Gandril
 Doom_Droid
 Sh%27alla
 Two-Blade
-Category:First-degree_droids
 Kufra_Ahara
 Devan_For%27deschel
 Bounty_Emporium
@@ -22078,7 +21600,6 @@ Bruiser
 Unidentified_Muun
 Nap_Lagard
 Neth_Bralor
-Category:Intelligence_members
 CT-5/373
 Gokus
 Poorfo
@@ -22089,7 +21610,6 @@ Rokeg
 Crattis_Yurkal
 Rappertunie
 Javda_Tawas
-Category:Individuals_by_species
 Albrek_(junior)
 Chelsey_Grimes
 Unidentified_Black_Sun_smuggler
@@ -22152,7 +21672,6 @@ Lan_Crish
 Chancellor_(Klatooinian)
 Unidentified_Chadra-Fan_bounty_hunter
 Serrod
-Category:Jedi_ranks
 Unidentified_Kitonak_Jedi
 Diath_family
 CT-1477/Legends
@@ -22199,7 +21718,6 @@ Doom_of_Ulmarah
 Norrin_Vaxx
 Janiah
 Cha%27nagh
-Category:Alliance_Special_Forces_personnel
 Unidentified_Christophsian_senator
 PT04
 Mistryl_Assault_Trooper
@@ -22216,7 +21734,6 @@ Senate_Hall_guards
 Lamburt
 Ba%27teil_Skaveez
 Shesstellek
-Category:AccuTronics_products
 Darth_Betton
 Forge
 Grizz_Frix
@@ -22260,7 +21777,6 @@ Shadow_Fist_Marksman
 Sirianna
 Non-commissioned_officer
 59th_Flight
-Category:Hutt_culture
 TA-175/Legends
 Zuol_Lavor_Xariv_Lar
 Daclif_Gallamby
@@ -22268,7 +21784,6 @@ Magnus_(starship_captain)
 Evlen
 Thlan-sa
 Rogoe%27s_spaceport
-Category:Galactic_Republic
 Artagan_Truax
 Beharen_Droid_Factory_founder
 Madersim
@@ -22342,7 +21857,6 @@ Pianat_Torbul
 Morastu
 Army_of_the_Dead/Legends
 Rundil_ot_Sulem
-Category:Force_Adepts
 Welding_droid/Legends
 Unidentified_Rodian_(Lower_Apartments)
 Skirmish_over_Naboo
@@ -22357,7 +21871,6 @@ Bloodlord
 Minister_of_State
 Unidentified_Death_Watch_assassin/Canon
 Allen_Neff
-Category:Individuals_by_planet
 Nitch
 Darian_Vir
 Nightsister_2A
@@ -22396,7 +21909,6 @@ Batu_Rem_impostor
 Yunnarha
 Sord_Trunnel
 Jordan_Karls
-Category:Officers_of_Darth_Krayt%27s_Galactic_Empire
 Gorman_Vandrayk
 Euritarina
 Yan%C3%A9
@@ -22431,7 +21943,6 @@ Benno
 Hall_(officer)
 Babbo
 Tamaron_Pol
-Category:Personal_weaponry
 4B-X
 Berra_Sane
 Lunce_Targettal
@@ -22511,7 +22022,6 @@ Drax
 Dray
 Hagark
 Barton_Coburn
-Category:Torture_droids
 Jekobra
 Ellsworth
 Unidentified_B1_battle_droid_5_(Skytop_Station)
@@ -22522,7 +22032,6 @@ Keto
 Ketu
 Ronda
 Conevor
-Category:Bakurans
 Progus
 Vere
 Battle_of_Endor/Legends
@@ -22561,7 +22070,6 @@ Zrak
 Data_Stewards
 J%27Quille
 Jem_Ysanna
-Category:Legislators_and_councilors
 Unidentified_Chiss_droid_builder
 Eeusu_Estornii
 Toonbuck_Toora%27s_consort
@@ -22570,7 +22078,6 @@ Seth_Cambriel%27s_WBY-102_FirstMate_droid
 Egara
 Jenny_(Artorias)
 Grahssk
-Category:Imperial_Navy_officers
 Orbo
 1138_(Trade_Federation)
 Mal_Biron
@@ -22620,7 +22127,6 @@ Korriban_tomb_raiders
 Durik_Vesh
 TK-342
 Vaner
-Category:Force_vergences
 Drake_Raven
 Mothma_family
 Ebe_E._Endocott%27s_personal_clerk
@@ -22672,7 +22178,6 @@ BeeLee_Amdas
 MI-726
 Peggin_Dulin
 Ferfer
-Category:Battles_by_conflict
 Blarg
 Shae_Polikex
 Korus_(Cold_War)
@@ -22693,7 +22198,6 @@ Blue_Twelve
 Sha%27kel
 Hylo_Visz%27s_father
 BoSS_Code
-Category:Imperial_agents
 Gargachykk
 Vanar
 Vanat
@@ -22811,7 +22315,6 @@ Squik_(Underwater_Dweller)
 Oruba%27s_criminal_empire
 House_of_Balfed
 Controller
-Category:Army_of_Light_members
 Myr_Rho
 Tamoss
 CC-1138/Legends
@@ -22836,7 +22339,6 @@ Karu_(Jedi)
 Harbid
 Randall_Jaggert
 Darth_Nyriss%27s_chef
-Category:Ansionian_culture
 Homack
 Jode_Tee
 Chak_Fel
@@ -22936,7 +22438,6 @@ Morgotou
 Dogma/Legends
 Jonmor_Tinto
 Shri-Lan
-Category:Droid_models_by_degree
 Klepa_Laeel
 Qual%27do_Herm
 Chardri_Tage
@@ -22956,10 +22457,8 @@ Gyro-balance_circuitry
 Bacca
 Rivoc_Fenner
 Leska
-Category:Culture_of_Kuat
 Blut
 Vitor_Reige
-Category:Swoop_racers
 Technical_Services_Officer
 Pabel_Alde
 Horned_priest
@@ -23015,7 +22514,6 @@ Dark_Heart_Abomination
 Natala_Yooms
 Lyda_Skims
 Lune_Banjeer
-Category:Codru-Ji_culture
 RQ_protocol_droid
 Croke
 Field_stormtrooper
@@ -23081,7 +22579,6 @@ Lyal_Frel
 Swamp_wampa
 Galvan
 Juloff
-Category:Fleets
 Merrk_Kelborn
 The_Shroud
 McCane
@@ -23154,10 +22651,8 @@ The_Children
 Bruhn
 Jebbiz%27Foreanda
 Clone_SCUBA_trooper/Legends
-Category:Yuuzhan_Vong_Empire
 Jogurner
 Qornah
-Category:OOM-series_battle_droids
 TK-471
 Lobar_Aybock
 Joram_Kithe
@@ -23204,7 +22699,6 @@ Hunters
 Miktha
 Dashade
 Everis
-Category:Captains
 Lagos
 TK-421
 The_Storyteller_(Sand_People)
@@ -23220,7 +22714,6 @@ Arbalest
 Medical_droid
 Gamma_Five
 Unidentified_Jedi_hermit
-Category:Feminine_programming
 Battle_of_the_south_ridge
 Jarid_DeBell
 Sila_Kott/Legends
@@ -23319,7 +22812,6 @@ Parson
 Unidentified_Beast_Rider_(Beast_Wars)
 Khana
 Nyama
-Category:Rebel_Force-sensitives
 Amaran
 TK-412
 Vartan
@@ -23369,7 +22861,6 @@ P-7B7
 Hreven_Karsh
 Ar%27al_Anec
 Woern%27s_Pirates
-Category:Imperial_science_and_engineering_personnel
 O-Mer/Legends
 Motivation_actuator
 H%27sishi
@@ -23408,7 +22899,6 @@ Sigit_Ranth
 Audiofilament
 Bensyn
 The_Shooter
-Category:Falleen
 Romeo_Treblanc
 SP-99
 Streen
@@ -23467,7 +22957,6 @@ Demon_Stickers_Tribe
 Mer-9
 Caves_of_Eleuabad
 Taki
-Category:Roche_Hive_Mechanical_Apparatus_Design_and_Construction_Activity_for_Those_Who_Need_the_Hive%27s_Machines_products
 Unidentified_PLNK_power_droid_(Renown)
 Sai%27torr_Kal_Fas
 Bravo_3_(clone_trooper)
@@ -23477,7 +22966,6 @@ G8-R2
 Jez_(Human)
 G8-R3
 Thessag
-Category:SoroSuub_Corporation_products
 Wion_Dillems
 Restelly_Quist
 LB-K2
@@ -23558,7 +23046,6 @@ Craddock_Karath
 Unidentified_green_commando
 Llitishi
 Narin_Kiros
-Category:Galactic_Alliance_Defense_Force_officers
 Casus_Sandral
 Frenzied_River_Clan
 Camren
@@ -23629,7 +23116,6 @@ Attark
 Sith_Overlord
 Madel
 Krath_(mythology)
-Category:Confederation_military_personnel
 Taun
 Yurf_Col
 Darkwalker_Cave_(Dee%27ja_Peak)
@@ -23643,7 +23129,6 @@ Plixon
 Rengar
 Unidentified_ISB_Director
 Bozzie_Barada
-Category:Imperial_Office_of_Criminal_Investigations_officers
 Icknya
 Malindin_Gevarak
 RC-1080
@@ -23702,7 +23187,6 @@ Chabak
 Thorin_Rist
 Iran_Ryad
 WED00-88
-Category:First-degree_droid_models
 Madis
 Baung_squad
 Fatal_Elegy
@@ -23732,7 +23216,6 @@ Pong_Krell/Legends
 Brenn_Tantor
 JL_series_droid
 B9-DT
-Category:Star_Tours
 Klydeker
 Master_in_Green
 Jester_(occupation)
@@ -23760,7 +23243,6 @@ Kassar_Forge
 80-T5
 Governor_of_Corulag
 Master_Jumper
-Category:Dathomiri
 Prime_Minister_(Commenor)
 Miwa_Oyev
 Five_World_Deputy_Prime_Minister
@@ -23787,14 +23269,12 @@ Besalisk
 Vella_Reenogga
 Oono_Mor%27in
 TK-555
-Category:Empire_of_the_Hand_personnel
 Brig_Stompers
 Zak_Davies
 Raina_Temple%27s_mother
 Ynara_Yinnivan
 Locap_plant
 Mondrak
-Category:Computer_technology
 Perlon_Dias
 Khel
 Tulpaa_tribe
@@ -23844,7 +23324,6 @@ Cliegg_Lars
 Junter_Galt
 Hardin
 A-Series_medical_droid
-Category:Starfighter_squadrons
 Mak_Plain/Legends
 Jahren_Sinn
 Cassius_Madine
@@ -23949,7 +23428,6 @@ Koa_Ne
 Unidentified_Imperial_scout
 Unidentified_Zeltron_Sith_general
 Shardra
-Category:Thyferrans
 Kra%27ake
 Hanthor
 Stromgald_Rholar
@@ -23984,7 +23462,6 @@ Daiman
 Royal_Archives_of_Naboo
 Unidentified_female_Tarisian_noble
 Loman_Vosso
-Category:Imperial_Army_personnel_of_the_Sith_Empire
 User:Clonehunter/Happy_Captions
 Boulad
 Unidentified_Minister_of_War
@@ -24050,7 +23527,6 @@ Mannock_T%27sank
 Karin_Orlan
 Ter-Doac_Vaine
 Bellum
-Category:Vehicles
 Izbela_Saarrj
 1M-AU5
 Unidentified_Dark_Jedi_Master_(Manaan)
@@ -24137,7 +23613,6 @@ Duen
 Brothers_of_the_Sith
 Steen_Morwinn
 A1-R0_Weather_Monitor_Probe
-Category:Alliance_Military_members
 Vangos_Grek
 Rya_Skodhan
 Clan_Ojia
@@ -24212,7 +23687,6 @@ Mr._Wahl
 IG-70
 FEG-series_pilot_droid
 IG-72
-Zalor_Minister
 Wind_Raider
 Unidentified_Sun_Leader_pilot
 Chandrilan/Legends
@@ -24247,12 +23721,10 @@ Vonkhel
 Hayvlin
 Jatrian_Lytus
 Booba_Fett
-Category:Chev_culture
 Marl_Semtin
 High_King
 Mogg
 IG-97
-Category:Rodian_clans
 Dillian_Pressor
 Arthen_Brutt
 Tikkes/Legends
@@ -24265,7 +23737,6 @@ Eickarie
 Unidentified_Nikto_guard
 TL-017
 Masked_Wookiee
-Category:Blood_Carver_culture
 Communications_master
 Nateba_Kurr
 Duma
@@ -24285,7 +23756,6 @@ Gorneesh
 Boultan
 Tereez_Dza%27lar
 SEPI_principle
-Category:Infinite_Empire
 R2z-DL
 Enfield
 Joseph/Legends
@@ -24318,7 +23788,6 @@ Tedn_Dahai
 Mohn
 T-12_service_droid
 Rivo_Xarran
-Category:Judicial_Department_personnel
 CC-1004/Legends
 Bellina_Magwit
 Laine
@@ -24392,7 +23861,6 @@ IG-227_Hailfire-class_droid_tank
 Bont
 Junk_golem
 G2-9T/Canon
-Category:Members_of_the_Emperor%27s_power_base
 Sixtus_Cleft
 Unidentified_B1_battle_droid_3_(Dathomir)
 We_Feed_Your_Bounty_To_Our_Rancor
@@ -24458,7 +23926,6 @@ Lex_(clone_trooper)
 RC-42
 Unidentified_LEP_servant_droid_(Trueping%27s)
 RC-3T
-Category:Imperial_Army_officers_of_the_Galactic_Empire
 Zhadorii_irstat
 Balluzikik
 Ansin_Thobel
@@ -24474,12 +23941,10 @@ Amar_Cros
 Scurry
 IC-4447
 Phase_Zero_dark_trooper
-Category:Grand_Moffs
 Morn
 Sona_Lerenga
 Gorrga
 Moro
-Category:Probe_droids
 Solrak
 Ondorru
 Andor_Javin
@@ -24488,7 +23953,6 @@ Arvan_Carrick
 Reego_Hinterstar
 AA-1_VerboBrain
 Ylesian_Presidential_Guard
-Category:Chefs
 Sallinor_Parova%27s_father
 Bellek
 Miaria_Prrt
@@ -24572,8 +24036,6 @@ Braceman
 Astromechalla
 Niklas_Cories
 Senior_Dark_Side_Adept
-Category:Swoop_gangs
-Category:Serv-O-Droid,_Inc._products
 Imperial_recruiter
 Nuris_Blaht
 Draedan/Legends
@@ -24732,13 +24194,11 @@ Trade_Federation_Airbase
 Gura_Tran
 Karoc
 Merle
-Category:Corellian_sector
 Trinna_Orani
 Grodin_Tierce_(clone)
 Korsin
 Chief_of_State_(New_Republic)
 HV-7_loading_droid
-Category:Trang_Robotics_products
 Hareth
 Savuud_Thimram
 Anjavay_Rosit
@@ -24785,7 +24245,6 @@ Lyonie/Legends
 Varda
 Chelah
 Four_Sages_of_Dwartii
-Category:Military_personnel_of_Darth_Krayt%27s_Galactic_Empire
 Merqs
 Miraluka
 Quatra
@@ -24804,14 +24263,11 @@ Gray_Leader/Legends
 Berow
 Defaris_Muslo
 Grimorg
-Category:Je%27daii_Masters
 Stecker
 Five-em
-Category:Republic_Army_generals
 Qu_Rahn
 Commando
 Smuggler
-Category:Technology_companies
 Desert_Banshees
 Phase_II_dark_trooper/Legends
 Jobany_Cyrs
@@ -24833,7 +24289,6 @@ Ekria
 Unidentified_OOM_command_battle_droid_2_(Devaron)
 Shreen
 Ecdal_Tewnor
-Category:Resistance_military
 Tracton
 Fertilizer_unit
 Tensiger
@@ -24852,6 +24307,7 @@ Hadiss_the_Vaulted
 Lex_Rogger
 Tobin_Gantor
 Saquesh
+Unidentified_former_sergeant_of_Task_Force_99
 2-ZH_surgical_droid
 Finhead_Stonebone%27s_pirate_gang
 Biggs_Darklighter
@@ -24876,7 +24332,6 @@ Berki
 Ghorin
 Tai%27mer
 Otoh_Gunga_Challenge
-Category:Officers_of_the_Imperial_Remnant
 Jovive_Centi
 Asperago
 Evresh_Mandritis
@@ -24915,7 +24370,6 @@ Piloc
 Spacetrooper
 Mandalorian_Shocktrooper
 Chelik
-Category:Bureaucrats_of_the_Galactic_Empire
 Allia_(Human)
 Kaydiss
 Jaska_(Mandalorian_Knight)
@@ -24942,7 +24396,6 @@ Grosteek
 Animal_Instincts
 Thron
 Mandalorian_Militiaman
-Category:Droid_tools_and_equipment
 Hol%27t_Deb_Orah
 Bracchia
 Junior_Representative
@@ -24970,7 +24423,6 @@ Kettch
 Soganti
 Dri%27kill_Ba%27al
 Fen%27po
-Category:Geonosian_culture
 Kasck
 Janus_Bonn
 Alauni
@@ -24985,7 +24437,6 @@ Ben_Skywalker
 Rengor_Vanth
 Vargi
 Wesselman
-Category:Society
 Vector_Hyllus
 Eirt_Astar
 D435
@@ -25080,7 +24531,6 @@ Kasey
 Idis
 Deelo
 Jaynes
-Category:Imperial_Navy_personnel_of_the_Imperial_Remnant
 Laeca_Valorum
 Ebor/Legends
 Janner
@@ -25110,7 +24560,6 @@ M-TD
 Droid_automated_repair_upgrade
 Jokull
 TribBot_mimic_series
-Category:Symbols
 Gosse
 Kanzin
 Llek_Hawser
@@ -25200,7 +24649,6 @@ Lahka_Khai
 Oweg
 Unidentified_Grand_Protector_(24_BBY)
 Flyer_through_Spikes
-Category:Zirtran%27s_Anchor
 Science_research_droid
 Hyperspaze_and_the_Jump_Lanes
 Tord_Gamb
@@ -25305,7 +24753,6 @@ Kappela_Dynasty
 User:ToRsO_bOy/Dalab
 Gil_(Mandalorian)
 Tyvark_Luowan
-Category:Swoop_racing
 Cinda_Tarheel
 Minder_Five
 Jarro_Freen
@@ -25315,7 +24762,6 @@ Nikkos_Tyris
 Mulvek_Gra
 Asset_O-9
 Breela
-Category:Imperial_Army_officers
 Nardix
 Jogotha
 Zippa
@@ -25345,7 +24791,6 @@ Herrit_Gordon
 Kella_Rand
 Hargar
 Streeen
-Category:Tools
 Pink_Twi%27lek_Jedi
 Cheriss_ke_Hanadi%27s_mother
 Kada_Jahr
@@ -25356,7 +24801,6 @@ Bryti
 G0-ON_Attacker
 Tian_Chyler
 Syub_Snunb
-Category:Guards
 Dalien_Brock
 Dual-linked_analyzer_circuit
 Geith_Eris
@@ -25371,7 +24815,6 @@ Byrch_Dyshkava%27s_gang
 Lanesord
 TranLang_III_communication_module
 Farh_j%27Hien
-Category:Bounty_Hunters%27_Guild
 Inijic
 Kir_Sesad
 Theed_University
@@ -25403,7 +24846,6 @@ King_of_Cron
 Codru-Ji
 Full-spectrum_transceiver
 Malichose
-Category:Endor
 Trask_(captain)
 Exar_Kun
 B3-3P5
@@ -25440,7 +24882,6 @@ Darth_Ruin
 Donovarr
 Ershack
 Khemt
-Category:Performing_arts
 Ponda_Baba/Legends
 Leeha_Narezz
 Nica_Leross
@@ -25459,7 +24900,6 @@ Moreena_Krai%27s_father
 Jural
 Green_Wing
 Hawk-bat_Ten
-Category:Culture_of_Brentaal_IV
 Tivvik
 Griff_(New_Republic)
 DNM-908
@@ -25481,7 +24921,6 @@ Brohmer
 Vox_Chun
 Seven_Dark_Jedi
 Daggath_Darklighter
-Category:Individual_droids
 Arsha_Lome
 Melindra
 Gorgo
@@ -25490,17 +24929,14 @@ Scott_(Human)
 Teek
 Gorgi
 Illorus
-Category:Musicians
 Gorge
 Constructor_droid
 Presence
 Nekra
 Shyrack_(Human)
-Category:Starship_superweapons
 ST-103
 Helfin_Hundi
 Lin_Jae
-Category:Clones
 White_Terror
 Lestra_Oxic
 Prowler_(Imperial)
@@ -25542,7 +24978,6 @@ Nalia_Adollu
 Geo_Cthon
 Untirrka
 Erd_Lumas
-Category:Noghri
 Karen
 Omega_family
 Royal_Academy
@@ -25642,7 +25077,6 @@ Unidentified_Jedi_coordinator
 Rollo_Morsai
 Doon_Gorot
 Dara_Nadal
-Category:Members_of_the_501st_Legion
 Shanra_Immel
 Harvin_Franchels
 Telk
@@ -25672,7 +25106,6 @@ Aren_D%27skaun
 Jun_Tarpilan
 Teha_Zero
 The_Keeper
-Category:Bothan_culture
 Supreme_governor
 Heavy_homing_spider_droid
 Hannah_John-Kamen
@@ -25686,9 +25119,7 @@ Drezin
 Unidentified_New_Republic_Gungan_diplomat
 Runner_(clone)
 Police_officer/Legends
-Category:Entertainment
 CT-19/39
-Category:Hermaphrodites
 Baptism
 Quanera
 Jebevel_Madon
@@ -25792,14 +25223,12 @@ Ebranite
 Hunter/killer_droid
 Massie_Herhis
 Torval_Fregner
-Category:Sith_species
 Scott_(Chiss)
 Kunra
 Sith_Warrior
 Brek
 Sophia_Farash
 Dark_side_marauder
-Category:Religious_workers
 Breg
 Simi_Noor
 Bree
@@ -25886,12 +25315,10 @@ Sphere_of_Defense_of_the_Empire
 Jedi_killer
 Lazhae
 Thella
-Category:Hapes_Consortium
 Bruce_Boa
 Unidentified_lightsaber_thief_(Nar_Shaddaa)
 LE-series_manifest_droid
 Soames
-Category:Humans
 Fitz_Roi
 Security_Secretary
 Unidentified_Tsyklen_forger
@@ -25918,7 +25345,6 @@ Demarch
 Shadow_Wing
 Olianne_Sihn
 Tony_Franco
-File:Marja_Lang.jpg
 Swilja_Fenn
 BD_series
 Ben_Schwartz
@@ -25978,7 +25404,6 @@ Maxa_Jandovar
 Erial
 Seville_pirate_clan
 Star-Killer
-Category:Voss
 Tak_Bazierre
 Saberan_Marcross
 Blue_Four
@@ -26017,7 +25442,6 @@ Paldis_Doxin
 Vrad_Dodonna
 Jerell
 Emmin_Whitehat
-Category:Empire_of_the_Hand_citizens
 Garv_Debble
 Sai%27da
 Sonie
@@ -26084,7 +25508,6 @@ IM4-823
 Freelies
 IM4-821
 Kjazhed-Uhl
-Category:Criminals
 House_Baliss
 Gungengineeren
 IM4-822
@@ -26103,7 +25526,6 @@ Tes_Vevec
 Unidentified_clone_trooper_captain_(Order_66)
 Slash_Squadron
 Tilas_Magore
-Category:InterGalactic_Banking_Clan
 Ganthus
 Andros_Hareel
 Veneziano_Haas
@@ -26177,13 +25599,11 @@ Gungan_Sling_Brigade
 Noumeian
 Lando_Calrissian/Legends
 Baktoid_Combat_Automata
-Category:Republic_Infantry_divisions
 Claimer
 Emarr_Ottkreg
 Quaal_Tavier_Catharius
 Hanes_Croft
 Unidentified_Nightsister_2
-Category:Holowan_Mechanicals_products
 Zyak
 Asador_Leen
 Var%27Rotha_Fin%27Rotha
@@ -26279,7 +25699,6 @@ CZ-22
 Unidentified_Gungan_hermit
 Arl_Nidder
 Apprentice_Legislator
-Category:Shadow_Collective_members
 Bonic_Tarracus
 Beldorion
 Unidentified_Coruscant_Police_officer_(Corellian_Embassy_riot)
@@ -26410,7 +25829,6 @@ Dyre
 Rook_Kast
 Mark_VIII_Sentinel
 Koth_Melan
-Category:Religious_titles
 TK8252
 Aloor
 Herbin%27s_wife
@@ -26433,7 +25851,6 @@ Vortia_Kwis
 Microphone
 FN-3156
 Krystal
-Category:Personnel_of_the_Central_Committee%27s_faction
 Gaartatha%27s_companion
 Salus-Mok
 Igar
@@ -26497,7 +25914,6 @@ Minimech_CM-12
 Minister_of_Finance_(Alliance)
 Roth-Del_Masona
 Dragon-bird_robot_drone
-Category:Galactic_Empire_admirals_and_generals
 Salek_Panaka
 Deral_Reiko
 Tzizvvt
@@ -26509,7 +25925,6 @@ Kumus
 Mira_T%27rani
 Antar_Bintaghr
 Renn_Volz
-Category:Protocol_droids
 Hreeda_Bomu
 Himar_Clan
 Bock_Nabyl
@@ -26519,7 +25934,6 @@ Malak%27s_slavers
 1151/Legends
 Brukarra
 C2-N2_(Hero_of_Tython)
-Category:Imperial_military_units
 Mullen_Gault
 Tamlen
 Tre-na
@@ -26584,7 +25998,6 @@ Athok_Dinvar
 ST-347
 Cha_Niathal%27s_assistant
 Machel_Kendy
-Category:R-series_models
 Gabo
 Baronis
 Rabb
@@ -26643,12 +26056,10 @@ FX-4_medical_assistant_droid/Legends
 Philap_Bygar
 Dark_Spirit
 Zeevon
-Category:Officers
 Reydon
 Unidentified_Advanced_Recon_Force_trooper_3_(Umbara)
 Alaric_(Sith)
 Magaran
-Category:Second-degree_droid_models
 Seismic_surveyor
 Monduth
 Gahg
@@ -26718,7 +26129,6 @@ Averdon
 Rako
 Gali
 Yaspers
-Category:Imperial_bureaucrats
 Naare
 Igro
 Shinda
@@ -26779,7 +26189,6 @@ Standro_Jcir
 Crale_Forte
 Niim_Stroolg
 Chal_Haan
-Category:Clone_troopers
 Chaskar
 Falner_Oeth
 Cho_Badeleg
@@ -26876,8 +26285,6 @@ Maintenance_Droid_M2-T2
 Novin_Kelke
 BL-1T_Riot_Suppression_Droid
 Myk_Bidlor
-Category:Maintenance_droid_models
-Category:Shields
 Jo-Ahn
 F4-MF
 Unidentified_admiral_(Ord_Mantell)
@@ -26945,7 +26352,6 @@ M7-P2
 D0-M9
 Tul%27kar
 Hondo_Ohnaka%27s_pet_massiff
-Category:Stormtrooper_officers
 Giant_Flog
 Unidentified_Rodian_Jedi_(Yinchorri_Uprising)
 Grossh
@@ -27014,7 +26420,6 @@ Bant%27ena_Fhernan
 Liberation_of_slave_camps
 Dread_Masters%27_apprentice
 Unidentified_Shi%27ido
-Category:Keshiri_religion
 R-427
 Tham
 Thax
@@ -27103,7 +26508,6 @@ Unidentified_Coruscant_Guard_2_(Florrum)
 Danah_Jor
 Chelli_Lona_Aphra
 Grolodii_Slatavv
-Category:Admirals_and_generals_of_Darth_Krayt%27s_Galactic_Empire
 Talos_Merkin
 Kalakar_Six_settlement%27s_governor
 Viscus/Legends
@@ -27174,7 +26578,6 @@ Unidentified_Bith_musician_2
 Jormin
 Unidentified_Bith_musician_3
 Droid_warfare_upgrade
-Category:Galactic_Republic_military_units
 Holocron_Dark_Jedi
 Beruga
 Fnast_Drexler
@@ -27241,7 +26644,6 @@ Unidentified_Sith_commander
 Chief_of_Intelligence
 Rizzal
 Ragez_D%27Asta
-Category:First_Order_individuals
 Longvision_LV-38_spotter/probe_droid
 Amel_Bakli
 Vhiin_Thorla
@@ -27275,7 +26677,6 @@ Vasnish_Kay
 Drowl
 M8T-V
 Mazicia_Organa
-Category:Bands
 Droid_motivator_booster
 Whelmo_Darb
 Maya_Phoenix
@@ -27289,7 +26690,6 @@ New_Republic_trooper
 Unidentified_Holy_Advisor
 Wom-Nii_Gnaden
 Atha_Prime
-Category:Verpine_culture
 Thug
 Mring-Mring
 Unidentified_Jedi_Knight_(Human)
@@ -27344,7 +26744,6 @@ Asha_(Naboo)
 Atlan_Dubreas
 Priam
 Emerek_Tovall
-Category:Alliance_Special_Operations_personnel
 Otoh_Langua
 Harrigan_Shunt
 Kaz_Lo
@@ -27384,7 +26783,6 @@ Grendel
 Duanna_Falos
 Raskurro
 Unidentified_explosives_disposal_officer
-Category:Pentastar_Alignment
 Lasre_Dardano
 Bethanie_Melan
 Doak_Sif
@@ -27452,7 +26850,6 @@ Duinuogwuin
 Tardar
 Ref_Mawber
 CT-782
-Category:Enlisted_stormtroopers
 Ben_Neluenf/Legends
 Orgus_Din
 Governor_of_Naboo/Legends
@@ -27506,7 +26903,6 @@ CT-6200/8901
 Hab_Chanzor
 Vash_Taggen
 Durmag
-Category:Imperial_Army_personnel_of_the_Imperial_Remnant
 Unidentified_stormtrooper_commander_(Tantive_IV)
 Cartel_Associate_S3-ML
 First_Justice
@@ -27620,7 +27016,6 @@ Kayn_Somos
 Dekay
 The_Doomed
 Erpham_Warrick
-Category:Culture_of_Alderaan
 Brigand
 Halykus
 Augwynne_Djo
@@ -27656,6 +27051,7 @@ Toth_(Denova)
 Antaria_Wellos
 Zypolene_droid_lubricant
 Kavil
+Chief_informational_officer
 Unidentified_Nightbrother_Zabrak_6
 Lyrre_T%27enna
 Unidentified_Nightbrother_Zabrak_7
@@ -27769,7 +27165,6 @@ Carib_Devist
 Skoloc_Celchu
 Mother_Queen
 LR-57_combat_droid
-Category:YVH-series_battle_droids
 Grimorg%27s_clan
 Unidentified_Imperial_officer_(honors_candidate)
 Epsis_(organization)
@@ -27780,7 +27175,6 @@ House_Teramo
 Yalt_(female)
 Leonia_Tavira
 Owen_Delstar
-Category:Males
 Palinx
 Unidentified_Advanced_Recon_Force_trooper_(Teth)
 Tippet
@@ -27898,7 +27292,6 @@ Alan_Chimes
 Tresk_Im%27nel%27s_translator_droid
 Merchant
 Brandis_(midshipman)
-Category:Personnel_of_the_Imperial_Remnant
 Unidentified_lieutenant_(Endor)
 Shul_Vaal
 Vemrin
@@ -27977,7 +27370,6 @@ Doom_Bringer
 Toba_(Gungan)
 Balti
 Elegos_A%27Kla%27s_father
-Category:Astromech_droid_models
 Hebesh
 Onicrop_K%27Cin
 Kadann
@@ -28035,7 +27427,6 @@ Cala_Wenn
 Ultragungans
 Shanda_Dok
 Kai_Justiss
-Category:Cathar
 Wargo
 Laksh%27atz
 Pirul
@@ -28078,7 +27469,6 @@ Ewok/Legends
 Dorok%27s_pirates
 JillJoo_Jab
 G-5PO
-Category:Cloning_technology
 Ob_Fortuna
 Kelborn
 Droid_rights_(movement)
@@ -28139,9 +27529,6 @@ Kelmont
 Tolas
 Nolan_Gillmunn
 Stone_guardian
-Category:Flesh_Raider_culture
-Category:Sith
-Category:Law
 Padnel_Ovin
 Unidentified_G0-T0_infrastructure_planning_droid
 Tar_Monevv
@@ -28170,7 +27557,6 @@ G-5KN
 Burdo_Loquoy
 Kalifa/Legends
 Sodarra
-Category:Yuuzhan_Vong_religion
 Onurruka
 Dakkar
 Targol
@@ -28201,7 +27587,6 @@ Varan_Gault
 Toombs
 Delby
 Neddoo
-Category:Fallen_Jedi
 Unidentified_Imperial_stormtrooper
 Governor_of_Galidraan
 Orsai
@@ -28249,7 +27634,6 @@ Supreme_Commander_(Vagaari)
 Semist_Bada
 Wadie_Firestone
 Arslynd
-Category:Utility_droids
 Brigadier_General
 Annoo-dat_Prime
 Hodrix
@@ -28265,7 +27649,6 @@ Hutt_security_droid
 Uwa_Pareece
 Chirpa
 Admiral_of_the_Fleet
-Category:Slaves
 Tusk-cat_memorial_cup
 Resistance_outpost
 Lerella_Rosral
@@ -28344,7 +27727,6 @@ Nworb_Yorel
 Unidentified_stormtrooper_(Advisor)
 Sprig_Cheever
 Doge/Legends
-Category:Gamorreans
 Matreyden
 Jujuin
 Lumat
@@ -28430,7 +27812,6 @@ Ulic_Qel-Droma
 Trinivii
 Field_Operations_Director
 Klaxus
-Category:Culture_of_Onderon
 Ooorlak
 Wookiee_dragon_trooper
 Savina
@@ -28483,7 +27864,6 @@ Nak_Farool
 Alaqua
 Unidentified_Imperial_soldier_(Kal%27Shebbol)
 Asogian
-Category:The_rebellion
 Vedorr_Squadron
 Khoonda_Militia
 Froera
@@ -28525,7 +27905,6 @@ Nial_Organa
 Alder_Sodoth
 Korlo_Brightwater
 Graul_(Human)
-Category:Religions
 Terror_Trooper
 Hakko_Drazlip_and_the_Tootle_Froots
 Nierre
@@ -28587,7 +27966,6 @@ Kyyrah
 Unidentified_Pistoeka_sabotage_droid
 Trailian
 Lost_Aqualish
-Category:Bounty_hunters
 Infrared_telescope
 Tal-Yannar_Najjan
 Red_Nebula_priest
@@ -28667,7 +28045,6 @@ Lost_Tribe_of_Sith
 Cadevon_Family
 Gebs
 Benevolent_Guide
-Category:Eternal_Empire
 Lyyr_Zatoq
 Colton_(FarStar_crewmember)
 Gundark_gang
@@ -28763,7 +28140,6 @@ Unidentified_OOM_security_battle_droid_5
 Ja_Bardrin
 Unidentified_OOM_security_battle_droid_6
 Unidentified_OOM_security_battle_droid_7
-Category:New_Republic
 Ardun_Kothe
 Unidentified_OOM_security_battle_droid_2
 Unidentified_OOM_security_battle_droid_3
@@ -28786,14 +28162,12 @@ Yearo_Seville%27s_pirate_gang
 Plakhmirakh
 DV-692
 Carter_(sentry)
-Category:Stormtrooper_variants
 Alarik
 Puullo
 Alarii
 Larbo
 Reki
 Taurill_Overmind
-Category:Jedi_Guardians
 Temzin_Eph-Emmas
 Kara_(Je%27daii)
 Gunnery_captain
@@ -28810,7 +28184,6 @@ Zadawi%27s_father
 Solenoid
 Interloper_Twelve
 Jared_Tome
-Category:Former_Jedi
 Gethnu_Cheeve
 Dark_Force
 Dwynn_Biuval
@@ -28867,7 +28240,6 @@ Sibilaari
 Vin_Tal%27benes
 Vall_Kumauri
 Stitchy
-Category:Medtech_Industries_products
 Kathikiis_Ruwahurr
 Kligson
 Gundren
@@ -28922,7 +28294,6 @@ Coril_Zimko
 Bijo_Hammax
 CT-915
 CT-914
-Category:Moffs_of_the_Galactic_Empire
 Gareth_Jarn
 Berchestian
 Mousul
@@ -28956,7 +28327,6 @@ Jax_Stog
 Chief_Executive_Officer
 Malbo
 Gesh
-Category:Separatist_military_units
 Kurlo
 Wreyn-Tsatke_Cyber-Psychology_Scale
 Emperor%27s_physician
@@ -29046,14 +28416,12 @@ Ilay
 Unidentified_translation_droid/Legends
 Sentry
 Cassian_Jeron_Andor
-Category:Naboo
 Darial_Anglethorn
 Unidentified_Alliance_Support_Services_pilot
 Sterns_Yennich
 Netus
 House_Miurani
 Venorra
-Category:Imperial_Navy_personnel_of_the_Sith_Empire
 BDM_spydroid
 Ronet_Coorr
 Unidentified_Chev
@@ -29076,7 +28444,6 @@ Xanda
 Krim
 Jyn_Freila
 Unidentified_Human_Jedi_(C-3PO_decapitation)
-Category:Tython_locations
 Ekam_Ouwray
 Pharoth
 Denth
@@ -29257,8 +28624,6 @@ Jesra_Loture
 Qor%27thest
 Freja_Covell
 Ror_Ithh
-Category:Imperial_Science_Bureau
-Category:Merchant_protocol_droids
 Syub_Kyak
 Decimator_397_series_assassin_droid
 Oruba
@@ -29285,12 +28650,10 @@ Watts
 Denin
 Banno
 Zanier_Hudmasse
-Category:Food_by_culture
 Circus
 Lett_Minak
 Mils_Gessak
 Krono_Relt
-Category:Republic_Navy_officers
 Tura_Raftican
 Kav_Dryfus
 Porcellus
@@ -29316,7 +28679,6 @@ Kritz_Drassarb
 CT-1008
 Stellskard
 Breaker
-Category:Galactic_Republic_soldiers
 Raspir
 Unidentified_New_Republic_Sy_Myrthian_diplomat
 Kossak_the_Younger
@@ -29364,12 +28726,10 @@ Ashel
 Ben_Quadinaros
 Maraad
 Xanta
-Category:Rodians
 House_Fardor
 Knezex_Hral_Piksoar
 Kyja_Cho
 Unidentified_Imperial_officer_(Greater_Marianas)
-Category:Jawa_culture
 MED-47_medical_droid
 Finaq_Shipping_Company
 Naboo_Royal_Space_Fighter_Corps/Legends
@@ -29377,7 +28737,6 @@ Europa_Islands
 SE4_servant_droid
 Plumestriker
 Narkal
-Category:Sith_of_the_Sith_Empire
 Dendu
 New_Alderaan_(movement)
 Darth_Vader_(clone)
@@ -29407,7 +28766,6 @@ Deland_Tyerell
 Unidentified_Kubaz
 Malfkla_Yzu
 Falk_(Hoth)
-Category:Empire-in-exile_military_units
 Unidentified_assassin_droid_series
 Melina_Carniss
 Analysis_droid
@@ -29483,10 +28841,8 @@ Vor_Essen
 Gizor_Dellso%27s_bodyguards
 Chief_gunnery_officer
 L%27lacielo_Sageon
-Category:Droid_miscellanea
 Tura_Sanga
 Unidentified_clone_trooper_pilot_(Twilight)/Legends
-Category:Vratix_culture
 Blue_Three_(Vrogas_Vas)
 Gauron_Nas_Tal
 Byten
@@ -29591,7 +28947,6 @@ Draskha
 C-RD4
 CB-99
 Mazzlo
-Category:Imperial_Intelligence_personnel_of_the_Galactic_Empire
 Sherruk
 Erron_Kell
 Luthro
@@ -29603,7 +28958,6 @@ Head_Chef
 Typtus_of_the_33rd_Egg
 Sabini
 B%27ante_Hatcher
-Category:Mandalorian_culture
 Tel_(clone_trooper)
 Gavon_Kroan
 Unidentified_Gungan_observer
@@ -29629,9 +28983,7 @@ Kazan
 Financial_Minister
 Gearshift%27s_comrade
 Clone_cadet/Legends
-Category:House_Ulgo
 Harko_Vane
-Category:Vulture-class_droid_starfighters
 Gramm
 Unidentified_clone_trooper_(Drongar)
 Zavirk
@@ -29675,7 +29027,6 @@ Kilo_Detton
 Bendak
 Zurel_Darillian
 Beetle_droid
-Category:Uprising_individuals
 Obi-Wan_Kenobi/Legends
 Valco_Pandion
 Fluter_Wiles_and_the_Licks
@@ -29686,6 +29037,7 @@ Jas_Emari
 Nia_Adea
 761
 Oro_Otel
+Cav_(stormtrooper)
 Elek_D%27cel
 Kersh_Lauskner
 Bog_Divinian
@@ -29694,7 +29046,6 @@ Robo-dumpster
 C9-RX0
 Jaysa_Wise
 Haronn
-Category:Members_of_the_Jedi_Covenant
 TK-8H2
 Universal_computer_interface
 Dejock
@@ -29792,7 +29143,6 @@ Tour_guide_droid
 K-X12a
 Pir%27pwn
 K-X12b
-Category:Cathar_culture
 Sammul_Sharsha
 Nubblyk
 Ablest
@@ -29972,7 +29322,6 @@ Ortis
 Freedmar
 Ortin
 Endless_Focus
-Category:Imperial_Navy_personnel_of_the_Galactic_Empire
 Mestral
 Mika_Anjiliac_Chiera
 Kinnel_Persi
@@ -29997,7 +29346,6 @@ Milessa_Arranda
 Lenan_Organa
 Gama-Senn
 M0-GUL_Thrall_Droid
-Category:Force_entities
 Palo
 Garbis_family
 EX-222
@@ -30032,7 +29380,6 @@ Fia_(engineer)
 Orrimaarko/Legends
 Elite_Wing_33
 Dren_Jamer
-Category:Training_droids
 Lunis
 D-09_Corruption_Droid
 Chiron_Drebbick
@@ -30066,7 +29413,6 @@ Damor_Gregon
 Gor/Legends
 Par_Lankin
 Skar_(Dark_Jedi)
-Category:Fourth-degree_droid_models
 AS23_aerial_survey_droid
 Unidentified_sarlacc_(Felucia)
 R4-I9
@@ -30107,7 +29453,6 @@ Parq
 Pero_Borgin
 Glie%27oleg_Kru
 Rachele_Ree
-Category:Freedom_fighters
 Mindiz
 Ince
 Allania_Jakien%27s_mother
@@ -30174,7 +29519,6 @@ Unit_08
 Kodo_Arr
 Battle_Droid_BX
 Cana_(Tatooine)
-Category:Agriculture
 Chaf%27orm%27bintrano
 Garret_Callron
 Voba_Dokrett
@@ -30231,7 +29575,6 @@ Anabar
 Jagged_Fang
 68-RKO
 Anoon_Bondara
-Category:R-series_droids
 Kare_Fontin
 Republic_Strategic_Information_Service
 Blue_Three/Legends
@@ -30274,7 +29617,6 @@ Bow_(clone_stormtrooper)
 Xak_Herral
 Gron_Marrab
 Kintan_Gunrunners
-Category:Masculine_programming
 Crimson_Brotherhood
 Pir_Cuvin
 Nara_(bantha)
@@ -30322,7 +29664,6 @@ Gung_Slabs
 Eban
 99/Legends
 R4-M9
-Category:Desilijic_kajidic
 R4-M6
 Ina_Rece
 Yasvan
@@ -30354,7 +29695,6 @@ Milo_Phipps
 Vobin_Sobos
 Rik_Torrence
 Jek/Legends
-Category:Beast_Riders
 Artano
 Bolleon
 Vachir
@@ -30385,7 +29725,6 @@ Rim_Securities
 Reh%27mwa
 Trayca_Masani
 Ancient_terentatek
-Category:Governors_of_the_Galactic_Empire
 26-424
 CT-3423
 Unidentified_Intelligence_officer
@@ -30421,7 +29760,6 @@ Unidentified_Nautolan_(Star_Cabal)
 Raymus_Antilles/Legends
 Sam_(Red_Leader)
 Tendau_Nandon
-Category:Analysis_droids
 Gauntlet_Three
 Unidentified_clone_trooper_pilot_2_(Consular-class_cruiser)
 UP-S2
@@ -30437,7 +29775,6 @@ Cesta/Canon
 Thraijon
 Imperial_Senate_Sentinel
 Fiz_Cor%27gril
-Category:Kiffar
 Unidentified_Rodian_bounty_hunter
 Teek_(Zygerrian)
 Droid_durability_upgrade
@@ -30462,10 +29799,8 @@ Dooje_Brolo
 Sando%27s_Boys
 Takook
 Ferric_Obdur%27s_assistant
-Category:Medical_droid_models
 General/Legends
 Antron_Bach
-Category:Manaan_residents
 Sidrona_Diath
 Unidentified_Troig_circus_performer
 Kenny_Baker
@@ -30525,7 +29860,6 @@ Miiliki-spoorr_Lingsnot
 Commissioner_of_Trade
 Seeqov_Thranx
 Heyblibber
-Category:Droids
 TBR-312
 Fenn_Shysa
 Dega_Coronis
@@ -30550,10 +29884,8 @@ Unidentified_Rebel_pilot_(Kulthis)
 Kuce
 Nethius
 Hoogi_Grym
-Category:Enlisted_personnel_of_Darth_Krayt%27s_Galactic_Empire
 Dustini_Spa_Ronii
 Rhen-Orm
-Category:Galactic_Alliance_Intelligence_personnel
 Memory_droid
 Jarroth
 Gyrowheel_1.42.08-series_recycling_droid
@@ -30630,7 +29962,6 @@ Nomar_Organa%27s_uncle
 Advisor/Legends
 Unidentified_Imperial_Guard_(Bothawui)
 Lowbacca
-Category:Sithspawn
 Kalaan_defectors
 Zero_Squadron
 Tigard_Manes
@@ -30715,7 +30046,6 @@ Unidentified_Imperial_captain_(Aggressor)
 Gurney_(Human)
 OOM_security_battle_droid
 Nails
-Category:Coachelle_Automata_products
 Cluster_(Yuuzhan_Vong)
 Last_Gala
 Riss_Clyos
@@ -30866,10 +30196,8 @@ Lhira
 Yoda/Legends
 Kindro_Nimmel
 Tingel
-Category:Galactic_Alliance
 Uleeta
 Nom_Anor
-Category:Biological_science_droid_models
 Security_Domination_Interface
 Lore_Keeper
 Iolu
@@ -30903,7 +30231,6 @@ Keiran_Halcyon
 Hanc_Thorben
 Ronnan_Tyla_Vedij
 Berl_(stormtrooper)
-Category:Human_replica_droids
 Radiation_zone_assault_trooper
 Dequc
 Dee%27ja_Peak_Capitol
@@ -30938,7 +30265,6 @@ Sorn_Argos
 CT-3636
 Tilenna
 Jorran
-Category:Galactic_Alliance_Defense_Force_members
 Kannen_Doom
 Advanced_Scout_(Royal_Naboo)
 Tion_Medon/Legends
@@ -30948,7 +30274,6 @@ Colnor
 5-BT_Threat_Analysis_Droid
 Adnama
 Geoff_Bell
-Category:Smashball
 Logic_module
 Scar_Blenner
 Zenzo
@@ -30999,7 +30324,6 @@ T-3PO_(blue)
 Gilp
 Ixian_Rovieda
 Vin_Feal
-Category:Besadii_kajidic
 Tora
 Torn
 Rill
@@ -31058,7 +30382,6 @@ Governor_of_Naboo
 TV-94B
 Prakkath
 Nevik
-Category:Lightsaber_combat_instructors
 Belezaboth_Ourn
 Devon_Fuller
 Hokker
@@ -31104,7 +30427,6 @@ Mendel_Baudo
 Trapper/Legends
 Whist
 Ke_Daiv
-Category:Humanoids
 Keren_Grand_Arch
 Ay%27Nat
 Garik_(major)
@@ -31225,7 +30547,6 @@ Unidentified_recon_droid_(Ryloth)
 Davik%27s_agent
 Willrow_Hood
 Jona_Grumby
-Category:Droid_vehicles
 Roo-Roo_Page/Canon
 Finis_Valorum/Legends
 Gra%27pa
@@ -31239,7 +30560,6 @@ Gennad_Rozhdenst
 CB-2B_Maintenance_Droid
 Otua_Blank/Legends
 Shynne
-Sabine_Wren%27s_mother
 AR-X9_prototype_droid
 Ander_Onos
 Unidentified_elderly_Jedi_Master
@@ -31250,7 +30570,6 @@ Yadira_Ban
 Marty
 Seelah_Korsin%27s_father
 Unidentified_Imperial_spy
-Category:Rebel_Alliance
 Martz
 Chair_of_xenopsychiatric_medicine
 Raining_Leaves_Clan
@@ -31383,7 +30702,6 @@ Lourdes
 Sublight_survey_droid
 Minister_of_Commerce_(Garos_IV)
 Hedrow
-Category:Jedi_trainees
 Ahlya
 Chief_of_Naval_Operations
 Konya_Suladi
@@ -31434,7 +30752,6 @@ F-22-RGKx
 Spek-Man
 Gungan_Scout_Camp
 Paltonae
-Category:Members_of_the_Shroud%27s_organization
 Unidentified_Rebel_Vanguard_(Second_Battle_of_Sullust)
 Rocket_battle_droid
 Cope_Shykrill
@@ -31445,7 +30762,6 @@ Valet_droid
 Edallia_Monotheer
 SRG-87_railgun_drone
 Jreely_Toomb
-Category:Sith_organizations
 Huff_Darklighter
 ST0-48
 Chrenn
@@ -31625,11 +30941,9 @@ Deron
 Head_of_manufacture
 Knumai
 Unidentified_GenoHaradan_assassin
-Category:Astromech_droids
 Jedi_Peacekeeper
 Nysad
 Unidentified_female_Weequay_bounty_hunter
-Category:Naboo_system
 Mote%C3%A9
 Jicoln_Cadera%27s_wife
 Andronikos_Revel
@@ -31656,7 +30970,6 @@ Jobal_Rapier
 Kosh_Teradoc
 Puzell
 Rathe_Camalon
-Category:Art
 G-1_starfighter
 Baragwin_droid_shield
 Mase_(Rebel)
@@ -31692,7 +31005,6 @@ KD-36_Bioweapon_Dispersal_Drone
 DA-1
 Adrick
 Christo
-Category:Star_Cabal
 Pilot_droid/Legends
 Unidentified_Raptor_1
 Sli%27woon_Biul
@@ -31835,7 +31147,6 @@ Tanis_Hal
 Flingeld
 Voxchip
 Wehda_Jochi
-Category:Nanny_droids
 Gorakus
 Geologist
 Isstra_Dirus
@@ -31854,7 +31165,6 @@ Unidentified_Outcast_2
 Unidentified_Mandalorian_clan_(bomas)
 Feero
 Chasa
-Category:Resistance_Starfighter_Corps_personnel
 Cos_Mastruk
 Rycus_Kilran
 Steadfast_(tank)
@@ -31882,7 +31192,6 @@ S-4S0
 Sha_Koon
 Harvester_droid/Legends
 Lex_Dewiller
-Category:Corellian_Defense_Force_officers
 Charr
 Ace-6_droid_brain
 Jayhawk
@@ -31914,7 +31223,6 @@ Unidentified_Militiagung_3
 Unidentified_Militiagung_1
 Gaeriala_Boosin
 FL-1_Load_Lifter_Droid
-Category:Second-degree_droids
 Unidentified_Imperial_commander_(Kashyyyk)
 Adarian
 Avalon
@@ -31938,6 +31246,7 @@ Tooqui
 Vohrkrewel_Yahrkar
 Tweego
 Garret_(privateer)
+Unidentified_Ithorian_militia_member
 Gh%C3%B4sh
 O-MR1
 Tucker
@@ -31960,7 +31269,6 @@ Edcel_Bar_Gane/Legends
 Pharl_McQuarrie
 4SOS
 Padawan_Kesh
-Category:Dark_Jedi
 Ulldin
 Mok_Cadrak
 Fire_suppression_system
@@ -31971,7 +31279,6 @@ Mageye
 Petrak
 Greve
 Kassen
-Category:Galactic_Republic_admirals_and_generals
 Mandalore_the_Avenger
 Darklighter_family
 Tracer_(captain)
@@ -32108,7 +31415,6 @@ Sluggo_the_Hutt
 Alli_Krieger%27s_sister
 Dewback
 Cabaril
-Category:Rebaxan_Columni_products
 Nalco_Farell
 Rikkh
 Ph%27Olla
@@ -32136,6 +31442,7 @@ Collus
 Cornevero_Dawlton
 Directive_7
 Arratan
+Monarch_of_Shu-Torun
 Gor%27telp
 MD-2_medical_droid
 Tosh_(Chev)
@@ -32174,8 +31481,6 @@ Bravo_Squad_cadet_4/Legends
 Jolam
 Loramarr
 G21/Legends
-Category:Killik_culture
-Category:Translator_droids
 Jorus_C%27baoth
 Heavy_super_battle_droid
 Kuma_Nai
@@ -32193,7 +31498,6 @@ Sali_Winger
 Steng
 C-series_protocol_droid
 Korin_Norrus
-Category:Unidentified_individuals
 Organization_for_Droid_and_Machine_Abuse
 Samuro
 Rotta/Legends
@@ -32213,7 +31517,6 @@ Krepkit
 Nalan
 Basso
 Koobis_Nu
-Category:Imperial_Security_Bureau
 Azabi
 Throne_room_(Theed_Royal_Palace)/Canon
 Reid_Gandon
@@ -32248,9 +31551,7 @@ Onkya
 Soor_Kal%27ir
 Zi%27am
 Unidentified_Ugnaught_worker
-Sabine_Wren%27s_brother
 Jedi_Diplomat
-Category:Imperial_officers
 Grotthu
 Arvel_Trace
 Elihsu
@@ -32298,7 +31599,6 @@ ASP-4
 Meteor_(Havoc_Squad)
 Corona_Three
 Holographic_Knights
-Category:Sith_Lords_of_the_resurgent_Sith_Empire
 Lurll
 Hahrynyar
 Galathos
@@ -32360,7 +31660,6 @@ Spidertaur
 R-97_Quartermaster_droid
 Bright_Hope_hacker_droid
 Vorlo_Stragen
-Category:Dark_Lords_of_the_Sith
 Hondo_Bador
 Lake_Retreat_Hotel
 Nothoiin_cartel
@@ -32372,9 +31671,7 @@ House_Kellermin
 Custo_Ramak
 Aldar_Beedo
 Unidentified_OOM_command_battle_droid_3_(Teth)
-Category:Supercomputers
 Hartke
-Category:Culture_of_Bespin
 Dafyd
 Defel/Legends
 Marny
@@ -32400,7 +31697,6 @@ Scar_(clone)
 Linear_Miasma_Scientists
 Lord_of_the_Mind%27s_Eye
 Christopher_Patrick_Nolan
-Category:Military_officers_of_the_Sith_Empire
 Munsk
 Iris
 The_Billtops
@@ -32423,7 +31719,6 @@ Yancy
 Castas
 Blackmoon_Eleven
 Commander_of_Coruscant_Security
-Category:Ruusanians
 Rroggerr
 Kibilini_Smugglers%27_Guild
 Yanci
@@ -32465,6 +31760,7 @@ Unidentified_Imperial_commander_(Executor,_Coruscant)
 Unidentified_clone_naval_officer_2_(Citadel)
 Swoop_gang
 Unidentified_Mrlssi_investigator
+IT-000-XZ_1594
 Frobb
 EVS_Construction_Droid
 Minister_of_Commerce
@@ -32516,13 +31812,11 @@ Nocombackie_Law
 Trok
 Shannon_Voorson
 Becca_Westone
-Category:Mercenary_units
 Lodani
 Greedo/Legends
 Joe_Thomlinson
 Unidentified_Daimanate_flight_commander
 Unidentified_Mandalorian_(HK-47)
-Category:Individuals_by_faction
 Tinketh_Fo
 Calo_Nord
 President_of_the_Senate
@@ -32534,7 +31828,6 @@ Bolban
 Unidentified_Imperial_commander_(Imperial_Interdictor)
 The_Unknown_Master
 Anetia_Kah%27ryn
-Category:Rodian_culture
 Basile
 Geonosian_Queen_Caste
 Mac_Rytin
@@ -32553,7 +31846,6 @@ Ovakar
 Makoon
 Unidentified_Czerka_mining_team_captain
 Pablo
-Category:Imperial_Intelligence
 Lobot
 Waks_Burr
 Tror
@@ -32603,7 +31895,6 @@ Dengar/Legends
 Airen_Cracken/Legends
 Sianna_Sekko
 Trud
-Category:Cybernetics
 Drac_Gerrat
 Jhorval
 Unidentified_Hardexian_ambassador
@@ -32626,7 +31917,6 @@ Khione
 Fliry_Vorru
 Allandria_Evlan
 Dubeh
-Category:Families
 Rav_Horan
 Cory_Herndon
 Zovius_Mendu
@@ -32644,7 +31934,6 @@ Jafer_Torles
 Hirken_family
 Sihha
 Invisible_Market
-Category:Galactic_Republic_military_officers
 Government_Education_Center
 Leemoth
 Imogh
@@ -32671,7 +31960,6 @@ Vara_Karathas
 Fae_Coven
 Hunter
 Narbuj_Desilijic_Preor
-Category:Em%27liy_culture
 Sunder
 Bhotur
 Battle_Group_of_Yun-Txiin
@@ -32692,7 +31980,6 @@ Walker_Luskeske
 The_Dragon
 Kensaric
 Kraken/Legends
-Category:Battles_in_the_Mid_Rim
 Netula_Pahn
 Thi_Xon_Yimmon
 Mad_Gass%27kin
@@ -32753,10 +32040,8 @@ Tad_Belanger
 Ibellia_Ran%27s_mother
 Bislav_Merril
 Mercenary_enclave
-Category:Merchants
 Jerren
 Alduq_Besene
-Category:Droid_revolts
 Shil_Tervo
 Unidentified_Human_Dark_Jedi
 V-Mina
@@ -32808,7 +32093,6 @@ Novatrooper
 Dahal
 Butler_droid
 Bufus_Ritsomas
-Category:Sith_Lords_of_the_One_Sith
 Markos_Rist
 Akindra
 Zygerrian_Slavers_Guild
@@ -32817,7 +32101,6 @@ Jackar_Bowmani
 Rak%27k
 Latara
 Klavisor
-Category:Supervisor_droids
 Jerrit
 Celeste_Morne
 Raymas_Daal
@@ -32829,7 +32112,6 @@ Bator
 M8-3R_Astromech_Droid
 Red_Rishyk
 Chompers_the_Undying
-Category:Assassin_droid_models
 Tilden_Kaah
 Ember_Chankeli
 Cassel
@@ -32860,7 +32142,6 @@ Kaaver_Tapps
 Mankuskett
 Gladiator
 Detiz
-Category:Administrative_droids
 Nurse_(droid)
 Kymn
 Chen_Ming-di
@@ -32915,7 +32196,6 @@ Fiver
 Tythan
 Naja_Delan
 Blatta
-Category:Je%27daii
 Rek_(enforcer)
 Reye_Nenilin
 Jerrod
@@ -32958,7 +32238,6 @@ Clone_marshal_commander/Legends
 Devin
 Allian
 KLR-B1
-Category:Individuals_by_family
 KLR-B2
 Unidentified_Kubaz_chef
 KLR-B3
@@ -33018,7 +32297,6 @@ Borte_Belgoth
 Nida_Korsin%27s_consort
 Fnast
 Regenald_Hanniper_Snopps_III
-Category:Confederacy_of_Independent_Systems
 Nest_Leader
 Trill_(Force_Hound)
 Bedhead
@@ -33084,7 +32362,6 @@ Udanara
 Kirbat
 Private
 G2-4T
-Category:Planetary_leaders
 Helpers
 Horil_Damlo
 Utonk_Hid
@@ -33109,7 +32386,6 @@ G2-3B
 Sarell
 Hacina
 Nace
-Category:Republic_Navy_personnel
 Gar_Berra
 Unidentified_Sanyassan_goon
 Keos_Myto
@@ -33118,7 +32394,6 @@ Q2-B3KO
 Dur_Gejjen
 Kin-Ya_Dosun
 Diplomat/Legends
-Category:Droid_tank_classes
 Imperial_sentry_droid
 Hart-and-Parn_Gorra-Fiolla
 Plako
@@ -33177,7 +32452,6 @@ Unidentified_Nikto_dark_side_adept
 Snit_(dewback)
 Survey_drone
 Ran_Harva
-Category:Jelucani
 L._Fraig
 Bentilais_san_Sk%27ar
 Hondo_Ohnaka%27s_mother
@@ -33195,7 +32469,6 @@ Customs_Inspector
 Amber_Jevanche
 Corellian
 Jendon
-Category:Duros_culture
 Egon
 Kentor_Sarne
 Han_Solo/Legends
@@ -33209,7 +32482,6 @@ Dojundo
 CT-12/74
 Unidentified_Yuuzhan_Vong_priestess
 Heavy_assault_trooper
-Category:Coruscanti
 Aay%27han
 Torv_Keist
 Dieben
@@ -33552,7 +32824,6 @@ Roolek_clan
 Imperial_Senate_Guard
 Science_officer/Legends
 Foocl%27d
-Category:Republic_Army_enlisted_personnel
 Stormwing
 GXR-7_command_droid
 Filian
@@ -33567,7 +32838,6 @@ R2-KT
 R2-L3
 Sonoreceptor
 Tanye_Trila
-Category:Admirals_and_generals
 Ilanka
 Kreet%27ah
 Kral_(Alliance)
@@ -33576,7 +32846,6 @@ Rose_Maanki
 R2-M3
 Biologist/Legends
 2-1B_technical_droid
-Category:Finance
 Falleen
 R2-M5
 Fu%27Jessom
@@ -33662,7 +32931,6 @@ Guard_K23M9
 Olaris_Rhea
 Wishful_Thinking
 Intelligence_Commander
-Category:Twi%27lek_culture
 Paltr_Carvin
 Cinto_Alaras
 Padra
@@ -33712,7 +32980,6 @@ Baze_Malbus
 Septaas
 Mawin
 Riiken
-Category:Imperial_governors
 Festival_of_Light
 A3_(droid)
 Ramesh
@@ -33763,7 +33030,6 @@ Pinprick
 Clandes_Industrial
 Bofa_Treat_Gang
 Meteor_Six
-Category:Separatist_military_members
 Bone_Kings
 Maximian_Ajax
 Ross_(lieutenant)
@@ -33839,7 +33105,6 @@ Kellin
 Unidentified_Dabi_bartender
 Darth_Aruk
 Unidentified_Hutt_(medpacs)
-Category:Pilot_droids
 Lev_Xestra
 Firehawk
 Nomi_Sunrider
@@ -33937,7 +33202,6 @@ Pleck
 Fixer
 Murtog
 The_Tyrant
-Category:Alliance_Starfighter_Corps_personnel
 Santigo_Milon
 Galfridian_family
 Chop_Harlison
@@ -34052,7 +33316,6 @@ Police_droid/Legends
 Bantha
 Unidentified_Death_Star_II_gunner
 Sy_Snootles
-Category:Chadra-Fan_culture
 Brak_Dunell
 PD-28
 SM-series_scavenger_droid
@@ -34129,7 +33392,6 @@ Taisdan
 Broan_Danurs
 Zac%27ryah_Vos
 Builder_Droid_BD-17
-Category:Exploration_droid_models
 Gunaray_Dod
 JK-13_security_droid
 Sebatyne_nest
@@ -34186,7 +33448,6 @@ Ha%27adj
 Nakha_Urus/Legends
 Unidentified_Corellian_smuggler
 Da-Shek_Yalaa
-Category:Gree_technology
 Owpa_Awoz
 Root
 Nima%27tar
@@ -34206,7 +33467,6 @@ Rory
 Laramont
 Mark_IV_recon_droid
 Hovus_Jorrick
-Category:Government_figures
 Gost
 Waldron
 Stemzee
@@ -34239,7 +33499,6 @@ Zone_Director
 Condaker_Blathos
 Gian_speeder
 Positronic_processor
-Category:Racers
 Races-the-Water-Bringing-Wind
 Baradis_(Galactic_Alliance)
 V-series_supervisor_droid
@@ -34253,7 +33512,6 @@ Battle_Group_of_Yun-Yuuzhan
 RS-17
 Kris_Wahl
 Je%27har
-Category:Coruscant_Guard
 Daksh
 Bistan
 Mattias_Ve%27Shra
@@ -34263,7 +33521,6 @@ Unidentified_Imperial_colonel
 Bio_agent_test_droid
 Digger
 Dakarus_Cridmeen
-Category:Translators_and_interpreters
 R2-4B
 Darth_Gorgos
 G-4T
@@ -34357,7 +33614,6 @@ Col_Serra
 Unidentified_crime_lord_(Raisa)
 R-97
 Shura_(officer)
-Category:Droids_of_unspecified_degree
 Keikodi
 Desilijic/Legends
 R2-B3
@@ -34444,7 +33700,6 @@ Luxury_waiter_droid
 YI-5_Surveillance/Interrogation_droid
 Saber_Squadron_(Invid)
 Recon
-Category:Galactic_Alliance_Senators
 Unidentified_Vurk_warrior
 T6-D4
 Grey_Leader
@@ -34497,7 +33752,6 @@ Squire
 VenHalgon
 Malkor_Trel
 Phileas
-Category:Imperial_Security_Bureau_personnel
 Treeska
 Zherron
 Inspector/Legends
@@ -34535,7 +33789,6 @@ Agent_ZNT-8
 Quorrom
 R2-B7
 Rojene_Eborsisk
-Category:Security_droid_models
 Horace_Korr
 R2-D1
 R2-D2
@@ -34577,7 +33830,6 @@ Laramus_Base_Irregulars
 Junior_Lieutenant/Legends
 Ion_surge_shielding
 R2-F2
-Category:Swoop_racing_teams
 R2-F7
 Ailyn_Vel
 Ellin_Lah
@@ -34599,7 +33851,6 @@ Garryg
 Pure_Sabacc_(Marauder-class)
 Unidentified_clone_trooper_sergeant_(Malastare)
 Brovto
-Category:Stormtroopers_of_Darth_Krayt%27s_Galactic_Empire
 Ferlem_Kie%27hintack
 Corwin
 Biddeck-Va
@@ -34623,7 +33874,6 @@ Thann_Mithric
 Ta%27Veel
 Byph/Legends
 ID-75_Heavy_Construction_Droid
-Category:Grav-ball
 Greeata_Jendowanian/Legends
 Zalem
 Translator_unit
@@ -34656,7 +33906,6 @@ Ommin%27s_father
 V2A_DAZ/Canon
 Alpiett_Gredge
 Begol_Reigel
-Category:Places_of_learning
 Jelcho
 Perry
 Spirakris_Zarem%27s_father
@@ -34673,7 +33922,6 @@ Tarandon
 Vermilion_(Rebel_Alliance)
 Pashna_Veyaad
 Dorston
-Category:Military_personnel
 Ottethan_warlord
 Kenner_Loring
 Hassla%27tak
@@ -34691,7 +33939,6 @@ Garray
 295.902/V8
 Sheron
 Plasma_Energy_Engineering
-Category:Twi%27leks
 Grand_Inquisitor/Legends
 Unidentified_Dashade_Sith
 Nen_Yim
@@ -34701,7 +33948,6 @@ Darth_Luft
 Jor_Ul_Kurax
 Jonas_Davan
 Horton_Salm/Legends
-Category:Post-Ruusan_Jedi
 Maydh
 Unidentified_Aqualish_mechanic_(Mon_Gazza)
 Urup_Fal%27co
@@ -34734,16 +33980,13 @@ Unidentified_Twi%27lek_Jedi_(Geonosis)
 Otoh_Gunga_Zoological_Research_Facility
 Saduu_Nagag
 Jonoin
-Unidentified_subaltern
 Narrin
-Category:Sith_Lords
+Unidentified_subaltern
 Unidentified_Weequay_guard
 Trron_Selus
 Reese_(Alliance)
 PK-2M_mining_droid
-Category:Balmorrans
 Vilus_Garr
-Category:Labor_specialist_droid_models
 Automated_fire_extinguisher
 Keeling
 Krespuckle_the_Ever-Hungry
@@ -34880,7 +34123,6 @@ Clan_Fenn
 Blujay
 Xucaabo
 Ikito_Elfwannabe
-Category:Galactic_Republic_military_personnel
 Meen_Burtak
 Stev_Brygies
 Lieutenant_colonel
@@ -34943,11 +34185,9 @@ Nason
 Class-one_scientific_research_unit
 Racer_A2D-3
 Unidentified_B1_battle_droid_(Lucrehulk-class_Droid_Control_Ship)
-Category:Mercenaries
 Bo-Dum
 Sathina_Genz
 Senate_Security_Officer
-Category:Adnerem_culture
 Eekar_Oki/Legends
 Flandon_Sweeg
 Lom_Melams
@@ -34983,7 +34223,6 @@ Otoh_Raban
 Arikakon_Baraka
 Carsa
 Freebooter%27s_Trade_Union
-Category:Scientists
 Unidentified_B1_battle_droid_3_(Munificent-class_star_frigate)
 Unidentified_Coruscant_Guard_(docks)
 Dodra_F%27ass
@@ -35000,7 +34239,6 @@ Alor-Wan
 Laird_Gustavu
 Clan_Fett
 Del_Binjitt
-Category:Yuuzhan_Vong_warriors
 Burrk
 Cameron/Legends
 Izzat
@@ -35043,7 +34281,6 @@ Team_SoroSuub
 Unidentified_Imperial_governor_(Chandrila)
 Buroy
 Charger/Legends
-Category:Automata_Galactica_products
 Fizik
 Restraining_bolt
 Portin
@@ -35082,7 +34319,6 @@ Burne
 Omana_Tragg
 Portha
 Brok_(Belsavis)
-Category:Korunnai_culture
 Hark%27r
 Heat_induction_unit
 Margani_Altis
@@ -35121,7 +34357,6 @@ Owen_Lars
 Shonn_Volta
 Kintan_Kings
 Fuz%27een
-Category:Alliance_Military_enlisted_personnel
 Porter
 Flash
 BLX_labor_droid
@@ -35151,7 +34386,6 @@ Nu_Toreena
 TDL-3.5
 Kaernor_Belasstie
 Cjaalysce_Beal
-Category:Ciutric_Hegemony_members
 Mantoid
 Halgir
 Karrison_Lee
@@ -35201,7 +34435,6 @@ Tol_dosLla
 Tiebo
 Eirta%C3%A9/Legends
 Narsk_Ka%27hane%27s_aunt
-Category:Criminal_organizations
 Reeft
 Dezon
 HHG-RX
@@ -35271,7 +34504,6 @@ Repair_drone
 Kamlin%27s_sister
 Khaat_Qiyn
 Victra_Sinde
-Category:Advanced_Recon_Commandos
 Noble/Legends
 Jack_hammer
 Jempa/Legends
@@ -35338,7 +34570,6 @@ IT-O_26_Interrogation_Droid
 Kanika_T%27dell
 AT-RT_driver/Legends
 Jeff_Pill
-Category:First_Order
 J%27ane_Khan
 Elders_(Skakoan)
 Gungan_paint_ball
@@ -35348,7 +34579,6 @@ DA-series_droid
 Ralthar_Sitan
 Crawl-carrier
 Wain_Andrell
-Category:Corporate_Sector_Authority
 Arhul_Manaxa
 Thuugar
 Unidentified_Outer_Rim_cyberneticist
@@ -35378,7 +34608,6 @@ Velantia
 Nele
 Bargos_(Hutt)
 Sergus_Lanox
-Category:Heads_of_state_of_the_Galactic_Empire
 Ralltiir/Legends
 Marcus_Gaw
 Murtag
@@ -35410,7 +34639,6 @@ Gorm_Rons
 M835_lubricant_container
 Pleni
 Romm_(Human)
-Category:Products_by_company
 Broclin
 Yemm
 Yellow_repair_droid
@@ -35505,7 +34733,6 @@ Rigis_Corazon
 Tiero
 Perit
 Travik
-Category:Peace_Brigaders
 Unidentified_Mandalorian_police_officer
 IT-O_Interrogator
 Chidee_Na_Maak
@@ -35527,7 +34754,6 @@ Uvell
 Graw
 Gretta_Spinbalio
 Neti
-Category:Medicine
 TX-567
 Berila
 Kavafi
@@ -35549,16 +34775,13 @@ Ghilron_pirates
 Arhul_Narra
 Kolig
 Worker_caste
-Category:Moffs_of_the_Imperial_Remnant
 Capture_Permit
 Mess_Boulanger
 Voss_Parck%27s_grandfather
 Dug_cavalier
 Unidentified_elderly_Chadra-Fan
 MK-series_maintenance_droid
-Category:Sith_military_officers
 Faron_Tolis
-Category:Merchant_droids
 Neva
 Nor_Wedd
 Max_(Makeb)
@@ -35654,7 +34877,6 @@ Wetland_assault_stormtrooper
 Linder
 Rebel_technician
 Piggie_and_the_Orbiting_Nasties
-Category:Jedi_Consulars
 Eldo
 ERD-LL
 Nemlix
@@ -35678,7 +34900,6 @@ Cy_Yunga
 CT-5385
 Brentaal_Houses
 Ephin_Sarreti
-Category:Financial_professionals
 Unidentified_clone_trooper_pilot_(Florrum)
 Janus_Greejatus
 Ahalas_Svindren
