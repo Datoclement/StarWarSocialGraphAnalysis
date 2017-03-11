@@ -7,6 +7,7 @@ public class SocialGraph{
 
     SocialGraph(String name, int depth, CharacterTable ct){
 		System.out.println('mergetest');
+		int i = 0;
     }
 
     public void writeInFile(String filename){}
