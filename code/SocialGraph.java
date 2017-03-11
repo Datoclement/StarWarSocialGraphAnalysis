@@ -6,7 +6,8 @@ public class SocialGraph{
     Map<String, Integer> depths;
 
     SocialGraph(String name, int depth, CharacterTable ct){
-
+        int i = 0;
+        i += 10;
     }
 
     public void writeInFile(String filename){}
