@@ -6,7 +6,7 @@ public class SocialGraph{
     Map<String, Integer> depths;
 
     SocialGraph(String name, int depth, CharacterTable ct){
-
+		System.out.println('mergetest');
     }
 
     public void writeInFile(String filename){}
