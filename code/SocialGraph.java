@@ -5,13 +5,11 @@ import java.io.*;
 
 public class SocialGraph{
 
-    final LinkedBlockingQueue<String> neighbors;
-    final Map<String, Integer> depths;
+    final Map<Integer, LinkedBlockingQueue<String> > depths;
 
     SocialGraph(String root, int depth, CharacterTable ct){
 
-        neighbors = new LinkedBlockingQueue<String>();
-        depths = new HashMap<String,Integer>();
+        depths = new HashMap<Integer, LinkedBlockingQueue<String> >();
         Map<String,LinkedList<String> > socialGraphComplete = ct.characters;
 
         LinkedBlockingQueue<String> queue = new LinkedBlockingQueue<String>();
@@ -19,8 +17,8 @@ public class SocialGraph{
         Set<String> visited = Collections.newSetFromMap(new ConcurrentHashMap<String,Boolean>());
         int n = Runtime.getRuntime().availableProcessors();
         queue.add(root);
-        for(int i=0;i<=depth;i++){
-
+        for(int i=0;i<depth;i++){
+            depths.put(i+1,new LinkedBlockingQueue<String>());
             Thread[] ts = new Thread[n];
             final int id = i;
             final LinkedBlockingQueue<String> q = queue;
@@ -36,8 +34,7 @@ public class SocialGraph{
                                     if(visited.contains(s))continue;
                                     visited.add(s);
                                     nq.put(s);
-                                    neighbors.put(s);
-                                    depths.put(s,id+1);
+                                    depths.get(id+1).put(s);
                                 }
                             }
                         }
@@ -63,8 +60,11 @@ public class SocialGraph{
             out = new PrintWriter(filename);
         }
         catch(Exception e){e.printStackTrace();}
-        for(String s : neighbors){
-            out.println(s+", "+depths.get(s));
+        for(int i=1;i<depths.size();i++){
+            LinkedList<String> cur = new LinkedList<String>(depths.get(i));
+            Collections.sort(cur);
+            for(String s : cur)
+                out.println(s+", "+i);
         }
         out.close();
     }

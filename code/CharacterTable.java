@@ -17,14 +17,8 @@ public class CharacterTable{
             while((line = in.readLine()) != null){
                 String[] informations = line.split(" ");
                 characters.put(informations[0],new LinkedList<String>());
-                if(informations[0]=="Yoda"){
-                    System.out.println("get yoda");
-                    for(int i=0;i<informations.length;i++){
-                        System.out.println(informations);
-                    }
-                }
                 for(int i=1;i<informations.length;i++){
-                    if(informations[i]!=""){
+                    if(!informations[i].equals("")){
                         characters.get(informations[0]).add(informations[i]);
                     }
                 }
