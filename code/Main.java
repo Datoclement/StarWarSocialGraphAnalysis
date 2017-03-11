@@ -6,11 +6,9 @@ public class Main{
         int depth = Integer.parseInt(args[1]);
         String filename = args[2];
 
-        String characterTableFile;
+        String characterTableFile = "socialGraphComplete.txt";
         CharacterTable ct = new CharacterTable(characterTableFile);
-
         SocialGraph sg = new SocialGraph(name, depth, ct);
-
         sg.writeInFile(filename);
     }
 }

@@ -1,12 +1,15 @@
+import java.util.*;
+
 public class SocialGraph{
 
-    String root;
-    ArrayList<String> neighbors;
+    LinkedList<String> neighbors;
     Map<String, Integer> depths;
 
-    SocialGraph(root, depth, ct){
+    SocialGraph(String name, int depth, CharacterTable ct){
 
     }
+
+    public void writeInFile(String filename){}
 }
 
 // <div class="header-column header-title">
