@@ -10,7 +10,7 @@ public class CharacterScraper{
 
     HashSet<String> visited;
 
-    String characterTableFile = "characterTableFile.txt";
+    String characterTableFile = "test.txt";
 
     public CharacterScraper(){
 

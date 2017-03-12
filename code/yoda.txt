@@ -904,6 +904,7 @@ Medical_droid/Legends, 2
 Mee_Deechi, 2
 Meebur_Gascon, 2
 Melch, 2
+Melch, 2
 Mellowyn, 2
 Melodic_Order, 2
 Memory_core, 2
@@ -1241,6 +1242,7 @@ Steela_Gerrera, 2
 Stormtrooper, 2
 Stormtrooper_(First_Order), 2
 Stormtrooper_Corps, 2
+Stormtrooper_commander, 2
 Stormtrooper_commander, 2
 Strunk, 2
 Styles, 2
@@ -11313,7 +11315,6 @@ Kras%27dohk, 4
 Kras%27ka_Lo%27lar, 4
 Krash, 4
 Krass_family, 4
-Krass_family, 4
 Krassis_Trelix, 4
 Kratas, 4
 Krath_(mythology), 4
@@ -11812,6 +11813,7 @@ Marr_Idi-Shael, 4
 Marsune%27s_base, 4
 Marsune%27s_gang, 4
 Marsune_and_Gallo, 4
+Marsune_and_Gallo, 4
 Mart_Stevez, 4
 Martio_Batch, 4
 Marvasa%27s_Marauders, 4
@@ -12044,7 +12046,6 @@ Morp_droid, 4
 Morr, 4
 Mors_Demanna, 4
 Morsel, 4
-Morto, 4
 Morto, 4
 Morvet_Storm, 4
 Mos_Eisley_bafforr_grove, 4
@@ -13270,6 +13271,7 @@ Samuel_Raider, 4
 Samuel_Tomas_Gillespee, 4
 San_Hill_(Human), 4
 Sanani, 4
+Sand, 4
 Sand, 4
 Sander, 4
 Sander_Delvardus%27s_wife, 4
