@@ -15,25 +15,27 @@ import characterscraper.*;
  */
 public class CompleteSocialGraphMaker {
 
-    HashSet<String> Characters;
-    ArrayList<String> characters;//ordered
-    ArrayList<HashSet<String>> neighbors;
-    int number;
+    public LinkedBlockingQueue<String> Characters;
+    public HashMap<String, HashSet<String>> Neighbors;
     String characterTableFile = "../characterTableFile.txt";
 
     CompleteSocialGraphMaker() throws IOException{
         //read characters from the file and store them into Hashset Characters
-        this.Characters = new HashSet<String>(new CharacterTableReader().getList());
 
-        this.number = this.Characters.size();
+        this.Characters = new LinkedBlockingQueue<String>(); 
+        this.Neighbors = new HashMap<String, HashSet<String>>();
 
-        this.characters = new ArrayList<String>();
-        this.neighbors = new ArrayList<HashSet<String>>();
-
+        BufferedReader data = new BufferedReader(new FileReader(characterTableFile));
+        String Character = data.readLine();
+        while(Character != null){
+            this.Characters.add(Character);
+            Character = data.readLine();
+        }
+        data.close();
+        
         for(String c : this.Characters){
-            this.characters.add(c);
             HashSet<String> n = this.findNeighbors(c);
-            this.neighbors.add(n);
+            this.Neighbors.put(c, n);
             System.out.println(c + " " + n.size());
         }
     }
