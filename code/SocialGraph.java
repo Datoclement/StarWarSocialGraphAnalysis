@@ -8,11 +8,9 @@ public class SocialGraph{
 
     final Map<Integer, Set<String> > depths;
 
-    SocialGraph(String root, int depth, CharacterTable ct){
+    SocialGraph(String root, int depth, Map<String, LinkedList<String>> csg){
 
         depths = new HashMap<Integer, Set<String> >();
-        Map<String,LinkedList<String> > socialGraphComplete = ct.characters;
-
         LinkedBlockingQueue<String> queue = new LinkedBlockingQueue<String>();
         LinkedBlockingQueue<String> next = new LinkedBlockingQueue<String>();
         Set<String> visited = Collections.newSetFromMap(new ConcurrentHashMap<String,Boolean>());
@@ -31,7 +29,7 @@ public class SocialGraph{
                         String cur = "";
                         try{
                             while((cur = q.poll())!=null){
-                                LinkedList<String> nei = socialGraphComplete.get(cur);
+                                LinkedList<String> nei = csg.get(cur);
                                 for(String s : nei){
                                     if(visited.contains(s))continue;
                                     visited.add(s);

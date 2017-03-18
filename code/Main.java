@@ -1,6 +1,6 @@
 import java.io.*;
 import CharacterScraper.*;
-import CompleteSocialGraph.*;
+import CompleteSocialGraph.CompleteSocialGraphReader;
 
 public class Main{
 
@@ -37,8 +37,8 @@ public class Main{
         String filename = args[2];
 
 
-        CharacterTable csg = new CompleteSocialGraphReader();
-        SocialGraph sg = new SocialGraph(name, depth, csg);
+        CompleteSocialGraphReader csgr = new CompleteSocialGraphReader();
+        SocialGraph sg = new SocialGraph(name, depth, csgr.graph);
 
         String ctf = "characterTableFile.txt";
         StarWarSocialGraph sg = new StarWarSocialGraph(name, depth, ctf);
