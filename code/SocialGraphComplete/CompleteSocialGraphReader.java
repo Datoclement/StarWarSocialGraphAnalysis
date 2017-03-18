@@ -1,11 +1,11 @@
 import java.util.*;
 import java.io.*;
 
-public class CharacterTable{
+public class CompleteSocialGraphReader{
 
     public Map<String, LinkedList<String>> characters;
 
-    CharacterTable(String tableFile){
+    CompleteSocialGraphReader(String tableFile){
 
         characters = new HashMap<String, LinkedList<String>>();
 
@@ -30,6 +30,7 @@ public class CharacterTable{
 
 
     public static void main(String[] args){
-        CharacterTable ct = new CharacterTable("socialGraphComplete.txt");
+        CompleteSocialGraphReader ct =
+                new CompleteSocialGraphReader("socialGraphComplete.txt");
     }
 }
