@@ -8,6 +8,7 @@ public abstract class CharacterScraper{
 
     Set<String> table;
 
+    String characterTableFile = "../characterTableFile.txt";
     /**
      * save the table content in a file
      */

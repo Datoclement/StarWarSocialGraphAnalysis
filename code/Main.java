@@ -1,9 +1,11 @@
+import java.io.*;
+import CharacterScraper.*;
 public class Main{
 
-    public static void main(String[] args){
+    public static void main(String[] args) throws IOException{
 
         String name = args[0];
-        System.out.println(name);
+
         if(name.equals("preprocess")){
             // preprocess benchmark
             System.out.println("Running a test for different preprocesses methods...");
@@ -28,11 +30,14 @@ public class Main{
 
         int depth = Integer.parseInt(args[1]);
         String filename = args[2];
-        String characterTableFile = "socialGraphComplete.txt";
-        CharacterTable ct = new CharacterTable(characterTableFile);
+
+        // String characterTableFile = "socialGraphComplete.txt";
+        // CharacterTable ct = new CharacterTable(characterTableFile);
+        // SocialGraph sg = new SocialGraph(name, depth, ct);
 
 
-        SocialGraph sg = new SocialGraph(name, depth, ct);
+        String characterTableFile = "characterTableFile.txt";
+        StarWarSocialGraph sg = new StarWarSocialGraph(name, depth, characterTableFile);
         sg.writeInFile(filename);
 
         System.out.println("Tips: run \"java Main preprocess\" can see a test on the preprocess");

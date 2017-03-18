@@ -11,8 +11,6 @@ public class ConcurrentCharacterScraper extends CharacterScraper{
 
     final Set<String> visited;
 
-    String characterTableFile = "test.txt";
-
     public ConcurrentCharacterScraper(){
 
         this.table = Collections.newSetFromMap(new ConcurrentHashMap<String,Boolean>(40000));

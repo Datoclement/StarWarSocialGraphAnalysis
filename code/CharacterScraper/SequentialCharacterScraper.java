@@ -8,8 +8,6 @@ public class SequentialCharacterScraper extends CharacterScraper{
 
     HashSet<String> visited;
 
-    String characterTableFile = "test.txt";
-
     public SequentialCharacterScraper(){
 
         this.table = new HashSet<String>(40000);
