@@ -8,7 +8,7 @@ public class Main{
 
         if(name.equals("preprocess")){
             // preprocess benchmark
-            System.out.println("Running a test for different preprocesses methods...");
+            System.out.println("Running a test for different preprocess methods...");
             System.out.println("It takes about 4 minutes in total...");
             CharacterScraper cs;
             long t1 = System.nanoTime();
