@@ -1,3 +1,5 @@
+package characterscraper;
+
 import java.util.*;
 import java.nio.file.*;
 import java.nio.charset.Charset;
@@ -7,7 +9,7 @@ import java.nio.charset.Charset;
  */
 public abstract class CharacterScraper{
 
-    Set<String> list;
+    public Set<String> list;
 
     String characterTableFile = "../characterTableFile.txt";
 

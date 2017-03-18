@@ -1,6 +1,6 @@
 import java.io.*;
-import CharacterScraper.*;
-import CompleteSocialGraph.CompleteSocialGraphReader;
+import characterscraper.*;
+import completesocialgraph.*;
 
 public class Main{
 
@@ -21,9 +21,9 @@ public class Main{
             csc = new ConcurrentCharacterScraper();
             long t3 = System.nanoTime();
             System.out.println("Sequential preprocess time: "+(t2-t1)/1000000+"ms.");
-            System.out.println(css.table.size()+" characters are found.");
+            System.out.println(css.list.size()+" characters are found.");
             System.out.println("Concurrent preprocess time: "+(t3-t2)/1000000+"ms.");
-            System.out.println(csc.table.size()+" characters are found.");
+            System.out.println(csc.list.size()+" characters are found.");
             return;
         }
         if(args.length>3){
@@ -37,12 +37,12 @@ public class Main{
         String filename = args[2];
 
 
-        CompleteSocialGraphReader csgr = new CompleteSocialGraphReader();
-        SocialGraph sg = new SocialGraph(name, depth, csgr.graph);
+        // CompleteSocialGraphReader csgr = new CompleteSocialGraphReader();
+        // SocialGraph sg = new SocialGraph(name, depth, csgr.graph);
 
         String ctf = "characterTableFile.txt";
-        StarWarSocialGraph sg = new StarWarSocialGraph(name, depth, ctf);
-        sg.writeInFile(filename);
+        StarWarSocialGraph swsg = new StarWarSocialGraph(name, depth, ctf);
+        swsg.writeInFile(filename);
 
         System.out.println("Tips: run \"java Main preprocess\" can see a test on the preprocess");
     }

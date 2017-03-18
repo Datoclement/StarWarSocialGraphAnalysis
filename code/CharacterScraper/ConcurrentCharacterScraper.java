@@ -1,3 +1,5 @@
+package characterscraper;
+
 import java.io.*;
 import java.net.*;
 import java.util.*;
@@ -6,14 +8,18 @@ import java.util.concurrent.atomic.*;
 import java.lang.*;
 import java.nio.file.*;
 import java.nio.charset.Charset;
+import util.*;
 
+/**
+ * A concurrent extension of the CharacterScraper
+ */
 public class ConcurrentCharacterScraper extends CharacterScraper{
 
     final Set<String> visited;
 
     public ConcurrentCharacterScraper(){
 
-        this.table = Collections.newSetFromMap(new ConcurrentHashMap<String,Boolean>(40000));
+        this.list = Collections.newSetFromMap(new ConcurrentHashMap<String,Boolean>(40000));
 
         this.visited = Collections.newSetFromMap(new ConcurrentHashMap<String,Boolean>(40000));
 
@@ -67,7 +73,6 @@ public class ConcurrentCharacterScraper extends CharacterScraper{
         }
         catch(Exception e){e.printStackTrace();}
     }
-
 
     public static void main(String[] args){
 

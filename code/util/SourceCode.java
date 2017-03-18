@@ -1,3 +1,5 @@
+package util;
+
 import java.io.*;
 import java.net.*;
 import java.util.*;
@@ -10,7 +12,7 @@ public class SourceCode{
 
     public String content;
 
-    SourceCode(String path){
+    public SourceCode(String path){
 
         content = "";
 

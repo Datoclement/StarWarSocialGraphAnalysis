@@ -1,14 +1,16 @@
+package completesocialgraph;
+
 import java.util.*;
 import java.io.*;
 
 public class CompleteSocialGraphReader{
 
-    public Map<String, LinkedList<String>> characters;
+    public Map<String, LinkedList<String>> graph;
     private String graphfile = "../socialGraphComplete.txt";
 
     public CompleteSocialGraphReader(){
 
-        characters = new HashMap<String, LinkedList<String>>();
+        graph = new HashMap<String, LinkedList<String>>();
 
         BufferedReader in = null;
         try{
@@ -17,10 +19,10 @@ public class CompleteSocialGraphReader{
             // System.out.println("test");
             while((line = in.readLine()) != null){
                 String[] informations = line.split(" ");
-                characters.put(informations[0],new LinkedList<String>());
+                graph.put(informations[0],new LinkedList<String>());
                 for(int i=1;i<informations.length;i++){
                     if(!informations[i].equals("")){
-                        characters.get(informations[0]).add(informations[i]);
+                        graph.get(informations[0]).add(informations[i]);
                     }
                 }
             }
