@@ -64,11 +64,11 @@ public class ConcurrentCharacterScraper extends CharacterScraper{
                         //     System.out.println("http://starwars.wikia.com/wiki/"+str);
                         //     return;
                         // }
-                        System.out.println(Thread.currentThread().getName());
-                        System.out.println(
-                                ConcurrentCharacterScraper.this.table.size());
-                        System.out.println(
-                                ConcurrentCharacterScraper.this.visited.size());
+                        // System.out.println(Thread.currentThread().getName());
+                        // System.out.println(
+                        //         ConcurrentCharacterScraper.this.table.size());
+                        // System.out.println(
+                        //         ConcurrentCharacterScraper.this.visited.size());
                     }
                 }
             });

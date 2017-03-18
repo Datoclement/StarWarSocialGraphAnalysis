@@ -40,8 +40,8 @@ public class SequentialCharacterScraper extends CharacterScraper{
             //     return;
             // }
 
-            System.out.println(this.table.size());
-            System.out.println(this.visited.size());
+            // System.out.println(this.table.size());
+            // System.out.println(this.visited.size());
         }
     }
 
