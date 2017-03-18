@@ -6,11 +6,11 @@ import java.net.*;
 
 public class SocialGraph{
 
-    final Map<Integer, LinkedBlockingQueue<String> > depths;
+    final Map<Integer, Set<String> > depths;
 
     SocialGraph(String root, int depth, CharacterTable ct){
 
-        depths = new HashMap<Integer, LinkedBlockingQueue<String> >();
+        depths = new HashMap<Integer, Set<String> >();
         Map<String,LinkedList<String> > socialGraphComplete = ct.characters;
 
         LinkedBlockingQueue<String> queue = new LinkedBlockingQueue<String>();
@@ -20,7 +20,7 @@ public class SocialGraph{
         queue.add(root);
         visited.add(root);
         for(int i=0;i<depth;i++){
-            depths.put(i+1,new LinkedBlockingQueue<String>());
+            depths.put(i+1,Collections.newSetFromMap(new ConcurrentHashMap<String,Boolean>()));
             Thread[] ts = new Thread[n];
             final int id = i;
             final LinkedBlockingQueue<String> q = queue;
@@ -36,7 +36,7 @@ public class SocialGraph{
                                     if(visited.contains(s))continue;
                                     visited.add(s);
                                     nq.put(s);
-                                    depths.get(id+1).put(s);
+                                    depths.get(id+1).add(s);
                                 }
                             }
                         }
@@ -62,7 +62,7 @@ public class SocialGraph{
             out = new PrintWriter(filename);
         }
         catch(Exception e){e.printStackTrace();}
-        for(int i=1;i<depths.size();i++){
+        for(int i=1;i<=depths.size();i++){
             LinkedList<String> cur = new LinkedList<String>(depths.get(i));
             Collections.sort(cur);
             for(String s : cur)
@@ -74,5 +74,3 @@ public class SocialGraph{
         out.close();
     }
 }
-
-// <div class="header-column header-title">
