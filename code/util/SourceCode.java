@@ -6,12 +6,22 @@ import java.util.*;
 import java.nio.file.*;
 import java.nio.charset.Charset;
 
+/**
+ * A class to get the source code of Wookiepedia pages
+ */
 public class SourceCode{
 
     String prefix = "http://starwars.wikia.com/wiki/";
 
+    /**
+     * Where source code are stored
+     */
     public String content;
 
+    /**
+     * Get the source code from the address prefix+path
+     * @param path the file name of destination
+     */
     public SourceCode(String path){
 
         content = "";

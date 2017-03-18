@@ -3,9 +3,19 @@ package completesocialgraph;
 import java.util.*;
 import java.io.*;
 
+/**
+ * A class to get the complete social graph from the local file
+ */
 public class CompleteSocialGraphReader{
 
-    public Map<String, LinkedList<String>> graph;
+    /**
+     * Structure to store the social graph
+     */
+    private Map<String, LinkedList<String> > graph;
+
+    /**
+     * Path to the local file
+     */
     private String graphfile = "../socialGraphComplete.txt";
 
     public CompleteSocialGraphReader(){
@@ -31,7 +41,7 @@ public class CompleteSocialGraphReader{
 
     }
 
-
+    public Map<String, LinkedList<String> > getGraph(){return this.graph;}
     // public static void main(String[] args){
     //     CompleteSocialGraphReader csg = new CompleteSocialGraphReader();
     // }

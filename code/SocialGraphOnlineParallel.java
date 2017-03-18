@@ -1,23 +1,20 @@
+import java.io.*;
+import java.lang.*;
 import java.util.*;
 import java.util.concurrent.*;
-import java.lang.*;
-import java.io.*;
 
-public class StarWarSocialGraph{
-	final Map<Integer, LinkedBlockingQueue<String> > result;
-	final HashSet<String> Characters;
+/**
+ * A class to get the social graph centred by some given character
+ * Parallel and offline version
+ */
+public class SocialGraphOnlineParallel{
+    final Map<Integer, LinkedBlockingQueue<String> > result;
+    final HashSet<String> characters;
 
-	StarWarSocialGraph(String root, int depth, String characterTableFile) throws IOException{
-		this.result = new HashMap<Integer, LinkedBlockingQueue<String> >();
+    SocialGraphOnlineParallel(String root, int depth, List<String> ct) throws IOException{
+        this.result = new HashMap<Integer, LinkedBlockingQueue<String> >();
 
-		this.Characters = new HashSet<String>();
-		BufferedReader data = new BufferedReader(new FileReader(characterTableFile));
-    	String Character = data.readLine();
-    	while(Character != null){
-    		this.Characters.add(Character);
-    		Character = data.readLine();
-    	}
-    	if(data != null) data.close();
+        this.characters = new HashSet<String>(ct);
 
         LinkedBlockingQueue<String> queue = new LinkedBlockingQueue<String>();
         LinkedBlockingQueue<String> next = new LinkedBlockingQueue<String>();
@@ -37,7 +34,14 @@ public class StarWarSocialGraph{
                     public void run(){
                         String cur = "";
                         try{
-                            while((cur = q.poll())!=null){
+							String str = null;
+                            while(true){
+								str = queue.poll();
+								if(str==null){
+									Thread.sleep(300);
+									str = queue.poll();
+									if(str==null)break;
+								}
                                 LinkedList<String> nei = new LinkedList<String>(findNeighbors(cur));
                                 for(String s : nei){
                                     if(visited.contains(s))continue;
@@ -64,22 +68,22 @@ public class StarWarSocialGraph{
         }
     }
 
-	public HashSet<String> findNeighbors(String Character){
-    	HashSet<String> n = new HashSet<String>();
-    	String PageData = new SourceCode(Character).content;
-    	int head = PageData.indexOf("<article");
-    	int tail = PageData.indexOf("</article>", head);
-    	int cur = head;
-    	while(true){
-    		cur = PageData.indexOf("\"/wiki/", cur+1);
-    		if((cur == -1) || (cur > tail)) return n;
-    		cur += 7;
-    		int end = PageData.indexOf('\"', cur+1);
-    		String url = PageData.substring(cur, end);
-    		if(this.Characters.contains(url))
-    			n.add(url);
-    	}
-	}
+    public HashSet<String> findNeighbors(String Character){
+        HashSet<String> n = new HashSet<String>();
+        String pageData = new SourceCode(Character).content;
+        int head = pageData.indexOf("<article");
+        int tail = pageData.indexOf("</article>", head);
+        int cur = head;
+        while(true){
+            cur = pageData.indexOf("\"/wiki/", cur+1);
+            if((cur == -1) || (cur > tail)) return n;
+            cur += 7;
+            int end = pageData.indexOf('\"', cur+1);
+            String url = pageData.substring(cur, end);
+            if(this.characters.contains(url))
+                n.add(url);
+        }
+    }
 
     public void writeInFile(String filename){
         PrintWriter out = null;

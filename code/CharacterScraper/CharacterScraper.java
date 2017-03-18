@@ -9,17 +9,23 @@ import java.nio.charset.Charset;
  */
 public abstract class CharacterScraper{
 
-    public Set<String> list;
+    /**
+     * Structure to store the found characters
+     */
+    protected Set<String> list;
 
+    /**
+     * Path to store the result
+     */
     String characterTableFile = "../characterTableFile.txt";
 
     /**
-     * find all the subcatagories indicated in the source code
+     * find all the subcategories indicated in the source code
      * and add them to q
      * @param  psc a string that contains the source code of a webpage
-     * @param    q a queue that stores the subcatagories that are to visit later
+     * @param    q a queue that stores the subcategories that are to visit later
      */
-    void findSubCatagories(String psc, Queue<String> q){
+    void findSubCategories(String psc, Queue<String> q){
 
         int head = psc.indexOf("mw-subcategories");
         if(head == -1)return;
@@ -43,7 +49,7 @@ public abstract class CharacterScraper{
 
     /**
      * find all the characters indicated in the source code
-     * and add them to list (where we store all the characters' names)
+     * and add them to list
      * @param  psc a string that contains the source code of a webpage
      */
     boolean findCharacters(String psc){
@@ -80,4 +86,6 @@ public abstract class CharacterScraper{
             e.printStackTrace();
         }
     }
+
+    public Set<String> getList(){return this.list;}
 }

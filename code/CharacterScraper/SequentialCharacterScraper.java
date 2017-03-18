@@ -6,6 +6,7 @@ import java.util.*;
 import java.nio.file.*;
 import java.nio.charset.Charset;
 import util.*;
+
 /**
  * A sequential extension of the CharacterScraper
  */
@@ -33,7 +34,7 @@ public class SequentialCharacterScraper extends CharacterScraper{
 
             String pageSourceCode = new SourceCode(str).content;
 
-            this.findSubCatagories(pageSourceCode,q);
+            this.findSubCategories(pageSourceCode,q);
             this.findCharacters(pageSourceCode);
         }
     }

@@ -4,11 +4,24 @@ import java.lang.*;
 import java.io.*;
 import java.net.*;
 
-public class SocialGraph{
+/**
+ * A class to get the social graph centred by some given character
+ * Parallel and offline version
+ */
+public class SocialGraphOfflineParallel{
 
+    /**
+     * Structure to store the result, mapping each integer i to
+     * the group of persons that are i-distant to the root
+     */
     final Map<Integer, Set<String> > depths;
 
-    SocialGraph(String root, int depth, Map<String, LinkedList<String>> csg){
+    /**
+     * @param root the person from whom the social graph begins
+     * @param depth the limit depth of searching
+     * @param csg the local complete social graph
+     */
+    SocialGraphOfflineParallel(String root, int depth, Map<String, LinkedList<String>> csg){
 
         depths = new HashMap<Integer, Set<String> >();
         LinkedBlockingQueue<String> queue = new LinkedBlockingQueue<String>();
@@ -28,7 +41,14 @@ public class SocialGraph{
                     public void run(){
                         String cur = "";
                         try{
-                            while((cur = q.poll())!=null){
+                            String str = null;
+                            while(true){
+                                str = queue.poll();
+                                if(str==null){
+                                    Thread.sleep(300);
+                                    str = queue.poll();
+                                    if(str==null)break;
+                                }
                                 LinkedList<String> nei = csg.get(cur);
                                 for(String s : nei){
                                     if(visited.contains(s))continue;
@@ -54,6 +74,10 @@ public class SocialGraph{
         }
     }
 
+    /**
+     * save the result to the given destination
+     * @param filename the destination
+     */
     public void writeInFile(String filename){
         PrintWriter out = null;
         try{

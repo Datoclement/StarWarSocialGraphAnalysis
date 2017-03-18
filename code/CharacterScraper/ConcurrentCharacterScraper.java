@@ -57,7 +57,7 @@ public class ConcurrentCharacterScraper extends CharacterScraper{
 
                         String pageSourceCode = new SourceCode(str).content;
 
-                        ConcurrentCharacterScraper.this.findSubCatagories(
+                        ConcurrentCharacterScraper.this.findSubCategories(
                                 pageSourceCode,q);
                         ConcurrentCharacterScraper.this.findCharacters(
                                 pageSourceCode);
