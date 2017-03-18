@@ -2,6 +2,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.lang.*;
 import java.io.*;
+import java.net.*;
 
 public class SocialGraph{
 
@@ -17,6 +18,7 @@ public class SocialGraph{
         Set<String> visited = Collections.newSetFromMap(new ConcurrentHashMap<String,Boolean>());
         int n = Runtime.getRuntime().availableProcessors();
         queue.add(root);
+        visited.add(root);
         for(int i=0;i<depth;i++){
             depths.put(i+1,new LinkedBlockingQueue<String>());
             Thread[] ts = new Thread[n];
@@ -64,7 +66,10 @@ public class SocialGraph{
             LinkedList<String> cur = new LinkedList<String>(depths.get(i));
             Collections.sort(cur);
             for(String s : cur)
-                out.println(s+", "+i);
+                try{
+                    out.println(URLDecoder.decode(s,"UTF-8").replace("_"," ")+", "+i);
+                }
+                catch(Exception e) {e.printStackTrace();}
         }
         out.close();
     }
