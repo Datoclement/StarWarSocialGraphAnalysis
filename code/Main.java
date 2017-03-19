@@ -1,6 +1,7 @@
 import java.io.*;
 import characterscraper.*;
 import completesocialgraph.*;
+import socialgraph.*;
 
 public class Main{
 
@@ -40,10 +41,10 @@ public class Main{
         CompleteSocialGraphReader csgr = new CompleteSocialGraphReader();
         SocialGraphOfflineParallel sg = new SocialGraphOfflineParallel(
                 name, depth, csgr.getGraph());
-
-        SocialGraphOnlineParallel swsg = new SocialGraphOnlineParallel(
-                name, depth, new CharacterTableReader().getList());
-        swsg.writeInFile(filename);
+        sg.writeInFile(filename);
+        // SocialGraphOnlineParallel swsg = new SocialGraphOnlineParallel(
+        //         name, depth, new CharacterTableReader().getList());
+        // swsg.writeInFile(filename);
 
         System.out.println("Tips: run \"java Main preprocess\" can see a test on the preprocess");
     }

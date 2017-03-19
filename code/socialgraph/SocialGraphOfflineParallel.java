@@ -1,30 +1,39 @@
-import java.io.*;
-import java.lang.*;
+package socialgraph;
+
 import java.util.*;
 import java.util.concurrent.*;
+import java.lang.*;
+import java.io.*;
+import java.net.*;
 
 /**
  * A class to get the social graph centred by some given character
  * Parallel and offline version
  */
-public class SocialGraphOnlineParallel{
-    final Map<Integer, LinkedBlockingQueue<String> > result;
-    final HashSet<String> characters;
+public class SocialGraphOfflineParallel{
 
-    SocialGraphOnlineParallel(String root, int depth, List<String> ct) throws IOException{
-        this.result = new HashMap<Integer, LinkedBlockingQueue<String> >();
+    /**
+     * Structure to store the result, mapping each integer i to
+     * the group of persons that are i-distant to the root
+     */
+    final Map<Integer, Set<String> > depths;
 
-        this.characters = new HashSet<String>(ct);
+    /**
+     * @param root the person from whom the social graph begins
+     * @param depth the limit depth of searching
+     * @param csg the local complete social graph
+     */
+    public SocialGraphOfflineParallel(String root, int depth, Map<String, LinkedList<String>> csg){
 
+        depths = new HashMap<Integer, Set<String> >();
         LinkedBlockingQueue<String> queue = new LinkedBlockingQueue<String>();
         LinkedBlockingQueue<String> next = new LinkedBlockingQueue<String>();
         Set<String> visited = Collections.newSetFromMap(new ConcurrentHashMap<String,Boolean>());
         int n = Runtime.getRuntime().availableProcessors();
         queue.add(root);
         visited.add(root);
-
-        for(int i=0; i<depth; i++){
-            result.put(i+1, new LinkedBlockingQueue<String>());
+        for(int i=0;i<depth;i++){
+            depths.put(i+1,Collections.newSetFromMap(new ConcurrentHashMap<String,Boolean>()));
             Thread[] ts = new Thread[n];
             final int id = i;
             final LinkedBlockingQueue<String> q = queue;
@@ -32,7 +41,7 @@ public class SocialGraphOnlineParallel{
             for(int j=0;j<n;j++){
                 ts[j] = new Thread(new Runnable(){
                     public void run(){
-                        String cur = "";
+                        String cur = null;
                         try{
                             while(true){
                                 cur = q.poll();
@@ -41,13 +50,12 @@ public class SocialGraphOnlineParallel{
                                     cur = q.poll();
                                     if(cur==null)break;
                                 }
-                                LinkedList<String> nei = new LinkedList<String>(findNeighbors(cur));
+                                LinkedList<String> nei = csg.get(cur);
                                 for(String s : nei){
                                     if(visited.contains(s))continue;
                                     visited.add(s);
                                     nq.put(s);
-                                    result.get(id+1).put(s);
-                                    System.out.println(s + ", " + id);
+                                    depths.get(id+1).add(s);
                                 }
                             }
                         }
@@ -67,34 +75,24 @@ public class SocialGraphOnlineParallel{
         }
     }
 
-    public HashSet<String> findNeighbors(String Character){
-        HashSet<String> n = new HashSet<String>();
-        String pageData = new SourceCode(Character).content;
-        int head = pageData.indexOf("<article");
-        int tail = pageData.indexOf("</article>", head);
-        int cur = head;
-        while(true){
-            cur = pageData.indexOf("\"/wiki/", cur+1);
-            if((cur == -1) || (cur > tail)) return n;
-            cur += 7;
-            int end = pageData.indexOf('\"', cur+1);
-            String url = pageData.substring(cur, end);
-            if(this.characters.contains(url))
-                n.add(url);
-        }
-    }
-
+    /**
+     * save the result to the given destination
+     * @param filename the destination
+     */
     public void writeInFile(String filename){
         PrintWriter out = null;
         try{
             out = new PrintWriter(filename);
         }
         catch(Exception e){e.printStackTrace();}
-        for(int i=1;i<=result.size();i++){
-            LinkedList<String> cur = new LinkedList<String>(result.get(i));
+        for(int i=1;i<=depths.size();i++){
+            LinkedList<String> cur = new LinkedList<String>(depths.get(i));
             Collections.sort(cur);
             for(String s : cur)
-                out.println(s+", "+i);
+                try{
+                    out.println(URLDecoder.decode(s,"UTF-8").replace("_"," ")+", "+i);
+                }
+                catch(Exception e) {e.printStackTrace();}
         }
         out.close();
     }
