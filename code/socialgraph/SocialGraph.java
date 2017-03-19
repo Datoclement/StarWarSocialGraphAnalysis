@@ -22,6 +22,11 @@ public abstract class SocialGraph{
 
     public Map<Integer,Set<String> > getResult(){return result;}
 
+    /**
+     * To search the social graph with sequential method
+     * @param root the person from whom the social graph begins
+     * @param depth the limit depth of searching
+     */
     protected void searchSequential(String root,int depth){
         Queue<String> queue = new LinkedList<String>();
         Set<String> visited = new HashSet<String>();

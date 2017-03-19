@@ -4,7 +4,7 @@ import java.util.*;
 import util.*;
 
 /**
- * Parallel and online version of SocialGraph
+ * Online and sequential version of SocialGraph
  */
 public class SocialGraphOnlineSequential extends SocialGraph{
 

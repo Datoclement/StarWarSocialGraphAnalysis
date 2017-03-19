@@ -16,6 +16,7 @@ public class Main{
             return;
         }
         if(name.equals("completegraph")){
+            completegraph_benchmark();
             return;
         }
         if(name.equals("online")){
@@ -67,6 +68,10 @@ public class Main{
         System.out.println(css.getList().size()+" characters are found.");
         System.out.println("Concurrent preprocess time: "+(t3-t2)/1000000+"ms.");
         System.out.println(csc.getList().size()+" characters are found.");
+    }
+
+    static void completegraph_benchmark(){
+
     }
 
     static void offline_benchmark(String name,int depth,String filename){

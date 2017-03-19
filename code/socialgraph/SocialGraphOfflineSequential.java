@@ -2,6 +2,9 @@ package socialgraph;
 
 import java.util.*;
 
+/**
+ * Offline and sequential version of SocialGraph
+ */
 public class SocialGraphOfflineSequential extends SocialGraph{
 
     /**
