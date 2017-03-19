@@ -1,11 +1,9 @@
 package completesocialgraph;
 
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.IOException;
-import java.io.PrintWriter;
-import java.util.ArrayList;
-import java.util.HashSet;
+import java.io.*;
+import java.util.*;
+import java.util.concurrent.*;
+
 import util.*;
 import characterscraper.*;
 
@@ -15,34 +13,26 @@ import characterscraper.*;
  */
 public class CompleteSocialGraphMaker {
 
-    public LinkedBlockingQueue<String> Characters;
-    public HashMap<String, HashSet<String>> Neighbors;
+    public HashSet<String> characters;
+    public HashMap<String, HashSet<String>> neighbors;
     String characterTableFile = "../characterTableFile.txt";
 
     CompleteSocialGraphMaker() throws IOException{
         //read characters from the file and store them into Hashset Characters
 
-        this.Characters = new LinkedBlockingQueue<String>(); 
-        this.Neighbors = new HashMap<String, HashSet<String>>();
+        this.characters = new HashSet<String>(new CharacterTableReader().getList());
+        this.neighbors = new HashMap<String, HashSet<String>>();
 
-        BufferedReader data = new BufferedReader(new FileReader(characterTableFile));
-        String Character = data.readLine();
-        while(Character != null){
-            this.Characters.add(Character);
-            Character = data.readLine();
-        }
-        data.close();
-        
-        for(String c : this.Characters){
+        for(String c : this.characters){
             HashSet<String> n = this.findNeighbors(c);
-            this.Neighbors.put(c, n);
-            System.out.println(c + " " + n.size());
+            this.neighbors.put(c, n);
+            // System.out.println(c + " " + n.size());
         }
     }
 
-    public HashSet<String> findNeighbors(String Character){
+    public HashSet<String> findNeighbors(String character){
         HashSet<String> n = new HashSet<String>();
-        String pageData = new SourceCode(Character).content;
+        String pageData = new SourceCode(character).content;
         int head = pageData.indexOf("<article");
         int tail = pageData.indexOf("</article>", head);
         int cur = head;
@@ -52,20 +42,20 @@ public class CompleteSocialGraphMaker {
             cur += 7;
             int end = pageData.indexOf('\"', cur+1);
             String url = pageData.substring(cur, end);
-            if(this.Characters.contains(url))
+            if(this.characters.contains(url))
                 n.add(url);
         }
     }
 
     void save(){
         try{
-            ArrayList<HashSet<String> > n = this.neighbors;
-            ArrayList<String> c = this.characters;
+            // HashMap<String, HashSet<String> > n = this.neighbors;
+            // HashSet<String> c = this.characters;
             PrintWriter out = new PrintWriter("SocialGraphComplete.txt");
-            for(int i=0; i < c.size(); i++){
-                    out.print(c.get(i)+"    ");
-                    for(String s : n.get(i)){
-                        out.print(s + " ");
+            for(String character:this.characters){
+                    out.print(character+"    ");
+                    for(String n : this.neighbors.get(character)){
+                        out.print(n + " ");
                     }
                     out.println();
                     out.flush();
