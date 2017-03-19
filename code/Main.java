@@ -38,7 +38,8 @@ public class Main{
 
 
         CompleteSocialGraphReader csgr = new CompleteSocialGraphReader();
-        SocialGraphOfflineParallel sg = new SocialGraphOfflineParallel(name, depth, csgr.getGraph());
+        SocialGraphOfflineParallel sg = new SocialGraphOfflineParallel(
+                name, depth, csgr.getGraph());
 
         SocialGraphOnlineParallel swsg = new SocialGraphOnlineParallel(
                 name, depth, new CharacterTableReader().getList());

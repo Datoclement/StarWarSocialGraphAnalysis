@@ -39,15 +39,14 @@ public class SocialGraphOfflineParallel{
             for(int j=0;j<n;j++){
                 ts[j] = new Thread(new Runnable(){
                     public void run(){
-                        String cur = "";
+                        String cur = null;
                         try{
-                            String str = null;
                             while(true){
-                                str = queue.poll();
-                                if(str==null){
+                                cur = q.poll();
+                                if(cur==null){
                                     Thread.sleep(300);
-                                    str = queue.poll();
-                                    if(str==null)break;
+                                    cur = q.poll();
+                                    if(cur==null)break;
                                 }
                                 LinkedList<String> nei = csg.get(cur);
                                 for(String s : nei){

@@ -16,7 +16,7 @@ public class CompleteSocialGraphReader{
     /**
      * Path to the local file
      */
-    private String graphfile = "../socialGraphComplete.txt";
+    private String graphfile = "completesocialgraph/socialGraphComplete.txt";
 
     public CompleteSocialGraphReader(){
 
@@ -42,7 +42,4 @@ public class CompleteSocialGraphReader{
     }
 
     public Map<String, LinkedList<String> > getGraph(){return this.graph;}
-    // public static void main(String[] args){
-    //     CompleteSocialGraphReader csg = new CompleteSocialGraphReader();
-    // }
 }

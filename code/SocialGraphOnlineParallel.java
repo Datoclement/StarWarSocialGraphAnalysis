@@ -34,14 +34,13 @@ public class SocialGraphOnlineParallel{
                     public void run(){
                         String cur = "";
                         try{
-							String str = null;
                             while(true){
-								str = queue.poll();
-								if(str==null){
-									Thread.sleep(300);
-									str = queue.poll();
-									if(str==null)break;
-								}
+                                cur = q.poll();
+                                if(cur==null){
+                                    Thread.sleep(300);
+                                    cur = q.poll();
+                                    if(cur==null)break;
+                                }
                                 LinkedList<String> nei = new LinkedList<String>(findNeighbors(cur));
                                 for(String s : nei){
                                     if(visited.contains(s))continue;

@@ -7,7 +7,7 @@ import java.lang.*;
 public class CharacterTableReader{
 
     private List<String> list;
-    String characterTableFile = "../characterTableFile.txt";
+    String characterTableFile = "characterscraper/characterTableFile.txt";
 
     public CharacterTableReader(){
         this.list = new LinkedList<String>();
