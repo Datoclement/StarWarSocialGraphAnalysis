@@ -6,17 +6,17 @@ import util.*;
 /**
  * Parallel and online version of SocialGraph
  */
-public class SocialGraphOnlineParallel extends SocialGraph{
+public class SocialGraphOnlineSequential extends SocialGraph{
 
     /**
      * list of names of characters
      */
     private HashSet<String> ct;
 
-    public SocialGraphOnlineParallel(String root, int depth, List<String> ct){
+    public SocialGraphOnlineSequential(String root, int depth, List<String> ct){
         super();
         this.ct = new HashSet<String>(ct);
-        this.searchParallel(root,depth);
+        this.searchSequential(root,depth);
     }
 
     protected LinkedList<String> findNeighbors(String character){

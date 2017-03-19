@@ -13,9 +13,9 @@ import characterscraper.*;
  */
 public class CompleteSocialGraphMaker {
 
-    public HashSet<String> characters;
-    public HashMap<String, HashSet<String>> neighbors;
-    String characterTableFile = "../characterTableFile.txt";
+    private HashSet<String> characters;
+    private HashMap<String, HashSet<String>> neighbors;
+    private String graphFile = "SocialGraphComplete.txt";
 
     CompleteSocialGraphMaker() throws IOException{
         //read characters from the file and store them into Hashset Characters
@@ -51,7 +51,7 @@ public class CompleteSocialGraphMaker {
         try{
             // HashMap<String, HashSet<String> > n = this.neighbors;
             // HashSet<String> c = this.characters;
-            PrintWriter out = new PrintWriter("SocialGraphComplete.txt");
+            PrintWriter out = new PrintWriter(graphFile);
             for(String character:this.characters){
                     out.print(character+"    ");
                     for(String n : this.neighbors.get(character)){
