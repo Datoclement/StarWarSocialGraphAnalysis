@@ -9,48 +9,15 @@ public class Main{
 
     public static void main(String[] args) throws IOException{
 
-        String name = args[0];
-
-        if(name.equals("scraper")){
-            scraper_benchmark();
-            return;
-        }
-        if(name.equals("completegraph")){
-            completegraph_benchmark();
-            return;
-        }
-        if(name.equals("online")){
-            if(args.length > 4){
-                changeToSpaceWarning();
-                return;
-            }
-
-            name = args[1];
-            int depth = Integer.parseInt(args[2]);
-            String filename = args[3];
-            online_benchmark(name,depth,filename);
-            return;
-        }
-
-        if(args.length>3){
-            changeToSpaceWarning();
-            return;
-        }
-
-        int depth = Integer.parseInt(args[1]);
-        String filename = args[2];
-        offline_benchmark(name,depth,filename);
-
-        // System.out.println("Using online concurrent method...");
-        // SocialGraph sgnp = new SocialGraphOnlineParallel(
-        //         name, depth, new CharacterTableReader().getList());
-        // sgnp.writeInFile(filename);
-        // long t3 = System.nanoTime();
-
-        System.out.println();
-        System.out.println("Tip 1: run \"java Main scraper\" can see a test on the character scraper.");
-        System.out.println("Tip 2: run \"java Main completegraph\" can see a test on the graph scraper.");
-        System.out.println("Tip 3: run \"java Main online CHARACTER_NAME DEPTH FILENAME\" can see a test on the online method.");
+        String flag = args[0];
+        if(flag.equals("scraper")) scraper_benchmark();
+        else if(flag.equals("completegraph")) completegraph_benchmark();
+        else if(flag.equals("online"))
+            if(args.length > 4) changeToSpaceWarning();
+            else online_benchmark(args);
+        else if(args.length > 3) changeToSpaceWarning();
+        else offline_benchmark(args);
+        usage_message();
     }
 
     static void scraper_benchmark(){
@@ -70,11 +37,12 @@ public class Main{
         System.out.println(csc.getList().size()+" characters are found.");
     }
 
-    static void completegraph_benchmark(){
+    static void completegraph_benchmark(){}
 
-    }
-
-    static void offline_benchmark(String name,int depth,String filename){
+    static void offline_benchmark(String[] args){
+        String name = args[0];
+        int depth = Integer.parseInt(args[1]);
+        String filename = args[2];
         System.out.println("Testing offline method...");
         long t1 = System.nanoTime();
         System.out.println("Using offline sequential method...");
@@ -112,7 +80,10 @@ public class Main{
         sgfs.writeInFile(filename);
     }
 
-    static void online_benchmark(String name,int depth,String filename){
+    static void online_benchmark(String[] args){
+        String name = args[1];
+        int depth = Integer.parseInt(args[2]);
+        String filename = args[3];
         System.out.println("Testing online method...");
         long t1 = System.nanoTime();
         System.out.println("Using online sequential method...");
@@ -153,5 +124,14 @@ public class Main{
     static void changeToSpaceWarning(){
         System.out.println("Error: Too many arguments");
         System.out.println("Please change space ' ' in name into '_'.");
+    }
+
+    static void usage_message(){
+        System.out.println();
+        System.out.println("usage:");
+        System.out.println("0: run \"java Main CHARACTER_NAME DEPTH FILENAME\" can see a test on the offline method.");
+        System.out.println("1: run \"java Main scraper\" can see a test on the character scraper.");
+        System.out.println("2: run \"java Main completegraph\" can see a test on the graph scraper.");
+        System.out.println("3: run \"java Main online CHARACTER_NAME DEPTH FILENAME\" can see a test on the online method.");
     }
 }
