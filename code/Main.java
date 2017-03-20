@@ -46,13 +46,11 @@ public class Main{
         System.out.println("Testing offline method...");
         long t1 = System.nanoTime();
         System.out.println("Using offline sequential method...");
-        SocialGraph sgfs = new SocialGraphOfflineSequential(
-                name, depth, new CompleteSocialGraphReader().getGraph());
+        SocialGraph sgfs = new SocialGraphOfflineSequential(name, depth);
         System.out.println("Offline sequential method finished.");
         long t2 = System.nanoTime();
         System.out.println("Using offline concurrent method...");
-        SocialGraph sgfp = new SocialGraphOfflineParallel(
-                name, depth, new CompleteSocialGraphReader().getGraph());
+        SocialGraph sgfp = new SocialGraphOfflineParallel(name, depth);
         System.out.println("Offline concurrent method finished.");
         long t3 = System.nanoTime();
 
@@ -87,13 +85,11 @@ public class Main{
         System.out.println("Testing online method...");
         long t1 = System.nanoTime();
         System.out.println("Using online sequential method...");
-        SocialGraph sgns = new SocialGraphOnlineSequential(
-                name, depth, new CharacterTableReader().getList());
+        SocialGraph sgns = new SocialGraphOnlineSequential(name, depth);
         System.out.println("Online sequentail method finished.");
         long t2 = System.nanoTime();
         System.out.println("Using online concurrent method...");
-        SocialGraph sgnp = new SocialGraphOnlineParallel(
-                name, depth, new CharacterTableReader().getList());
+        SocialGraph sgnp = new SocialGraphOnlineParallel(name, depth);
         System.out.println("Online concurrent method finished.");
         long t3 = System.nanoTime();
 

@@ -1,8 +1,9 @@
 package socialgraph;
 
 import java.util.*;
-import util.*;
 
+import util.*;
+import characterscraper.*;
 /**
  * Parallel and online version of SocialGraph
  */
@@ -13,9 +14,9 @@ public class SocialGraphOnlineParallel extends SocialGraph{
      */
     private HashSet<String> ct;
 
-    public SocialGraphOnlineParallel(String root, int depth, List<String> ct){
+    public SocialGraphOnlineParallel(String root, int depth){
         super();
-        this.ct = new HashSet<String>(ct);
+        this.ct = new HashSet<String>(new CharacterTableReader().getList());
         this.searchParallel(root,depth);
     }
 

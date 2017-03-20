@@ -1,8 +1,9 @@
 package socialgraph;
 
 import java.util.*;
-import util.*;
 
+import util.*;
+import characterscraper.*;
 /**
  * Online and sequential version of SocialGraph
  */
@@ -13,9 +14,9 @@ public class SocialGraphOnlineSequential extends SocialGraph{
      */
     private HashSet<String> ct;
 
-    public SocialGraphOnlineSequential(String root, int depth, List<String> ct){
+    public SocialGraphOnlineSequential(String root, int depth){
         super();
-        this.ct = new HashSet<String>(ct);
+        this.ct = new HashSet<String>(new CharacterTableReader().getList());
         this.searchSequential(root,depth);
     }
 

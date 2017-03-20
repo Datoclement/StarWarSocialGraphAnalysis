@@ -2,6 +2,8 @@ package socialgraph;
 
 import java.util.*;
 
+import completesocialgraph.*;
+
 /**
  * Offline and sequential version of SocialGraph
  */
@@ -12,9 +14,9 @@ public class SocialGraphOfflineSequential extends SocialGraph{
      */
     private Map<String, LinkedList<String>> csg;
 
-    public SocialGraphOfflineSequential(String root, int depth, Map<String, LinkedList<String>> csg){
+    public SocialGraphOfflineSequential(String root, int depth){
         super();
-        this.csg = csg;
+        this.csg = new CompleteSocialGraphReader().getGraph();
         this.searchSequential(root,depth);
     }
 
