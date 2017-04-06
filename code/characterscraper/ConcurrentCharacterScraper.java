@@ -28,14 +28,14 @@ public class ConcurrentCharacterScraper extends CharacterScraper{
         q.add("Category:Individuals");
 
         int n = Runtime.getRuntime().availableProcessors();
-        System.out.println("Processers: "+n);
+        System.out.println("Processors: "+n);
 
         AtomicInteger waitingThreads = new AtomicInteger(0);
 
         Thread[] ts = new Thread[n];
 
         for(int i=0;i<n;i++){
-            System.out.println("Processer "+i+" is created.");
+            System.out.println("Processor "+i+" is created.");
             ts[i] = new Thread(new Runnable(){
                 public void run(){
                     String str = "";
