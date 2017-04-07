@@ -81,7 +81,7 @@ public abstract class SocialGraph{
                             while(true){
                                 cur = q.poll();
                                 if(cur==null){
-                                    Thread.sleep(300);
+                                    Thread.sleep(10);
                                     cur = q.poll();
                                     if(cur==null)break;
                                 }

@@ -13,12 +13,22 @@ import characterscraper.*;
  */
 public class CompleteSocialGraphMaker {
 
+    /**
+     * Set of characters' names
+     */
     private HashSet<String> characters;
-    private HashMap<String, HashSet<String>> neighbors;
+
+    /**
+     * Structure to store the edges in the graph
+     */
+    private HashMap<String, HashSet<String> > neighbors;
+
+    /**
+     * destination to store the final social graph
+     */
     private String graphFile = "SocialGraphComplete.txt";
 
     CompleteSocialGraphMaker() throws IOException{
-        //read characters from the file and store them into Hashset Characters
 
         this.characters = new HashSet<String>(new CharacterTableReader().getList());
         this.neighbors = new HashMap<String, HashSet<String>>();
@@ -26,10 +36,12 @@ public class CompleteSocialGraphMaker {
         for(String c : this.characters){
             HashSet<String> n = this.findNeighbors(c);
             this.neighbors.put(c, n);
-            // System.out.println(c + " " + n.size());
         }
     }
 
+    /**
+     * to find neighbors of a given character
+     */
     public HashSet<String> findNeighbors(String character){
         HashSet<String> n = new HashSet<String>();
         String pageData = new SourceCode(character).content;
@@ -47,6 +59,9 @@ public class CompleteSocialGraphMaker {
         }
     }
 
+    /**
+     * to save the social graph into a local file
+     */
     void save(){
         try{
             // HashMap<String, HashSet<String> > n = this.neighbors;

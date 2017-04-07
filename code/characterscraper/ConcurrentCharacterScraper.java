@@ -1,13 +1,11 @@
 package characterscraper;
 
 import java.io.*;
-import java.net.*;
 import java.util.*;
 import java.util.concurrent.*;
 import java.util.concurrent.atomic.*;
 import java.lang.*;
-import java.nio.file.*;
-import java.nio.charset.Charset;
+
 import util.*;
 
 /**
@@ -44,7 +42,7 @@ public class ConcurrentCharacterScraper extends CharacterScraper{
                         str = q.poll();
                         if(str==null){
                             try{
-                                Thread.sleep(300);
+                                Thread.sleep(30);
                             }
                             catch(Exception e){e.printStackTrace();}
                             str = q.poll();

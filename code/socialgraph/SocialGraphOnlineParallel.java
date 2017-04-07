@@ -32,7 +32,7 @@ public class SocialGraphOnlineParallel extends SocialGraph{
             cur += 7;
             int end = pageData.indexOf('\"', cur+1);
             String url = pageData.substring(cur, end);
-            if(this.ct.contains(url))
+            if(this.ct.contains(url)&&!character.equals(url))
                 n.add(url);
         }
     }
