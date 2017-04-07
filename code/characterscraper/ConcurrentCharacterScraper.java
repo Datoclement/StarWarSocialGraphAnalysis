@@ -1,14 +1,12 @@
 package characterscraper;
 
-import java.io.*;
-import java.net.*;
-import java.util.*;
-import java.util.concurrent.*;
-import java.util.concurrent.atomic.*;
-import java.lang.*;
-import java.nio.file.*;
-import java.nio.charset.Charset;
-import util.*;
+import java.util.Collections;
+import java.util.Queue;
+import java.util.Set;
+import java.util.concurrent.ConcurrentHashMap;
+import java.util.concurrent.LinkedBlockingQueue;
+
+import util.SourceCode;
 
 /**
  * A concurrent extension of the CharacterScraper
@@ -30,7 +28,7 @@ public class ConcurrentCharacterScraper extends CharacterScraper{
         int n = Runtime.getRuntime().availableProcessors();
         System.out.println("Processors: "+n);
 
-        AtomicInteger waitingThreads = new AtomicInteger(0);
+        //AtomicInteger waitingThreads = new AtomicInteger(0);
 
         Thread[] ts = new Thread[n];
 

@@ -13,21 +13,41 @@ import characterscraper.*;
  */
 public class CompleteSocialGraphMaker {
 
-    private HashSet<String> characters;
-    private HashMap<String, HashSet<String>> neighbors;
-    private String graphFile = "SocialGraphComplete.txt";
+    private LinkedBlockingQueue<String> characters;
+    private ConcurrentHashMap<String, HashSet<String>> neighbors;
+    private String graphFile = "completesocialgraph/SocialGraphComplete.txt";
 
     CompleteSocialGraphMaker() throws IOException{
         //read characters from the file and store them into Hashset Characters
 
-        this.characters = new HashSet<String>(new CharacterTableReader().getList());
-        this.neighbors = new HashMap<String, HashSet<String>>();
+        this.characters = new LinkedBlockingQueue<String>(new CharacterTableReader().getList());
+        this.neighbors = new ConcurrentHashMap<String, HashSet<String>>();
 
-        for(String c : this.characters){
-            HashSet<String> n = this.findNeighbors(c);
-            this.neighbors.put(c, n);
-            // System.out.println(c + " " + n.size());
+        // for(String c : this.characters){
+        //     HashSet<String> n = this.findNeighbors(c);
+        //     this.neighbors.put(c, n);
+        //     // System.out.println(c + " " + n.size());
+        // }
+        int n = Runtime.getRuntime().availableProcessors();
+        Thread[] threads = new Thread[n];
+        for(int i = 0; i < n; i++){
+            threads[i] = new Thread(new Runnable(){
+                public void run(){
+                    String c = characters.poll();
+                    while(c != null){
+                        HashSet<String> n = findNeighbors(c);
+                        neighbors.put(c,n);
+                        c = characters.poll();
+                    }
+                }
+            });
+            threads[i].start();
         }
+        try{
+            for(int i=0;i<n;i++)
+                threads[i].join();
+        }
+        catch(Exception e){e.printStackTrace();}
     }
 
     public HashSet<String> findNeighbors(String character){
