@@ -21,7 +21,9 @@ public class SequentialCharacterScraper extends CharacterScraper{
 
         Queue<String> q = new LinkedList<String>();
 
-        q.add("Category:Individuals");
+        q.add(root);
+
+        int count = 0;
 
         while(!q.isEmpty()){
 
@@ -34,7 +36,10 @@ public class SequentialCharacterScraper extends CharacterScraper{
             String pageSourceCode = new SourceCode(str).content;
 
             this.findSubCategories(pageSourceCode,q);
-            this.findCharacters(pageSourceCode);
+            this.findCharacters(pageSourceCode,q);
+
+            count++;
+            System.out.println(count);
         }
     }
 

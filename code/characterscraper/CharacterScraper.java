@@ -17,7 +17,9 @@ public abstract class CharacterScraper{
     /**
      * Path to store the result
      */
-    String characterTableFile = "../characterTableFile.txt";
+    protected String characterTableFile = "characterscraper/characterTableFile.txt";
+
+    protected String root = "Category:Individuals_by_occupation";
 
     /**
      * find all the subcategories indicated in the source code
@@ -52,10 +54,10 @@ public abstract class CharacterScraper{
      * and add them to list
      * @param  psc a string that contains the source code of a webpage
      */
-    boolean findCharacters(String psc){
+    void findCharacters(String psc, Queue<String> q){
 
         int head = psc.indexOf("mw-pages");
-        if(head == -1)return false;
+        if(head == -1)return;
         int temp, tail;
         temp = tail = head+1;
         while(true){
@@ -63,24 +65,41 @@ public abstract class CharacterScraper{
             tail = psc.indexOf("</div>",tail+1);
             if(tail < temp)break;
         }
+        int sp = psc.indexOf("<h3> </h3>",head+1);
+        if(sp>=0 && sp < tail) head = psc.indexOf("<h3>",sp+1);
+        sp = psc.indexOf("wikia-paginator",head+1);
+        if(sp>=0 && sp < tail) {temp = tail; tail = sp;}
         int cur = head;
         while(true){
             cur = psc.indexOf("\"/wiki/",cur+1);
-            if(cur==-1 || cur>tail)return false;
+            if(cur==-1 || cur>tail)break;
             cur+=7;
             int end = psc.indexOf('\"',cur+1);
-            this.list.add(psc.substring(cur,end));
+            String cha = psc.substring(cur,end);
+            if(cha.indexOf("Unidentified")>=0)continue;
+            this.list.add(cha);
+        }
+        head = tail;
+        tail = temp;
+        cur = head;
+        while(true){
+            cur = psc.indexOf("\"/wiki/",cur+1);
+            if(cur==-1 || cur>tail)return;
+            cur+=7;
+            int end = psc.indexOf('\"',cur+1);
+            q.add(psc.substring(cur,end));
         }
     }
 
     /**
      * save the character list in the file indicated by characterTableFile
      */
-    void save(){
+    public void save(){
 
         Path file = Paths.get(characterTableFile);
         try{
             Files.write(file, list, Charset.forName("UTF-8"));
+            System.out.println("saved");
         }
         catch(Exception e){
             e.printStackTrace();

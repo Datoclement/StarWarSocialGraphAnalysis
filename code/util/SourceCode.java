@@ -37,6 +37,9 @@ public class SourceCode{
                 content += line;
             }
         }
+        catch(FileNotFoundException e){
+            System.out.println(path+" has no page.");
+        }
         catch(Exception e){
             System.out.println("Error :"+ e);
             e.printStackTrace();

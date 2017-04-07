@@ -3,6 +3,7 @@ package completesocialgraph;
 import java.io.*;
 import java.util.*;
 import java.util.concurrent.*;
+import java.util.concurrent.atomic.*;
 
 import util.*;
 import characterscraper.*;
@@ -26,9 +27,9 @@ public class CompleteSocialGraphMaker {
     /**
      * destination to store the final social graph
      */
-    private String graphFile = "socialGraphComplete.txt";
+    private String graphFile = "csg.txt";
 
-    CompleteSocialGraphMaker() throws IOException{
+    public CompleteSocialGraphMaker(){
 
         this.characters = new LinkedBlockingQueue<String>(new CharacterTableReader().getList());
         this.neighbors = new ConcurrentHashMap<String, HashSet<String>>();
@@ -40,18 +41,22 @@ public class CompleteSocialGraphMaker {
         // }
         int n = Runtime.getRuntime().availableProcessors();
         Thread[] threads = new Thread[n];
+        final AtomicInteger cnt = new AtomicInteger(0);
+
         for(int i = 0; i < n; i++){
-            threads[i] = new Thread(new Runnable(){
+            final int id = i;
+            threads[id] = new Thread(new Runnable(){
                 public void run(){
                     String c = characters.poll();
                     while(c != null){
                         HashSet<String> n = findNeighbors(c);
                         neighbors.put(c,n);
                         c = characters.poll();
+                        System.out.println("Thread "+id+" finish the "+cnt.incrementAndGet()+"-th characters.");
                     }
                 }
             });
-            threads[i].start();
+            threads[id].start();
         }
         try{
             for(int i=0;i<n;i++)

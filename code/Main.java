@@ -9,14 +9,17 @@ public class Main{
 
     public static void main(String[] args) throws IOException{
 
-        String flag = args[0];
-        if(flag.equals("scraper")) scraper_benchmark();
-        else if(flag.equals("completegraph")) completegraph_benchmark();
-        else if(flag.equals("online"))
-            if(args.length > 4) changeToSpaceWarning();
-            else online_benchmark(args);
-        else if(args.length > 3) changeToSpaceWarning();
-        else offline_benchmark(args);
+        if(args.length == 0);
+        else{
+            String flag = args[0];
+            if(flag.equals("scraper")) scraper_benchmark();
+            else if(flag.equals("completegraph")) completegraph_benchmark();
+            else if(flag.equals("online"))
+                if(args.length > 4) changeToSpaceWarning();
+                else online_benchmark(args);
+            else if(args.length > 3) changeToSpaceWarning();
+            else offline_benchmark(args);
+        }
         usage_message();
     }
 
@@ -35,9 +38,25 @@ public class Main{
         System.out.println(css.getList().size()+" characters are found.");
         System.out.println("Concurrent preprocess time: "+(t3-t2)/1000000+"ms.");
         System.out.println(csc.getList().size()+" characters are found.");
+        css.save();
     }
 
-    static void completegraph_benchmark(){}
+    static void completegraph_benchmark(){
+        System.out.println("Running a test for graph scraping program...");
+        // System.out.println("It takes about 4 minutes in total...");
+        CompleteSocialGraphMaker csg;
+        long t1 = System.nanoTime();
+        csg = new CompleteSocialGraphMaker();
+        // css = new SequentialCharacterScraper();
+        long t2 = System.nanoTime();
+        // csc = new ConcurrentCharacterScraper();
+        // long t3 = System.nanoTime();
+        System.out.println("Preprocess time: "+(t2-t1)/1000000+"ms.");
+        // System.out.println(css.getList().size()+" characters are found.");
+        // System.out.println("Concurrent preprocess time: "+(t3-t2)/1000000+"ms.");
+        // System.out.println(csc.getList().size()+" characters are found.");
+
+    }
 
     static void offline_benchmark(String[] args){
         String name = args[0];

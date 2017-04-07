@@ -1,75 +1,42 @@
-501st Legion, 1
+AZI-345211896246498721347, 1
 Admiral, 1
 Advanced Recon Commando, 1
 Ahsoka Tano, 1
-Akar-Deshu, 1
 Anakin Skywalker, 1
 Asajj Ventress, 1
-Astromech droid, 1
 Bail Organa, 1
-Barriss Offee, 1
-Battle droid, 1
-Battle of Naboo, 1
-Bounty hunter, 1
 CC-1004, 1
 CT-5385, 1
 CT-5555, 1
 CT-7567, 1
-Captain, 1
 Chewbacca, 1
 Chuang, 1
-Clone trooper, 1
-Cloning, 1
-Commander, 1
-Count, 1
-Dark Jedi, 1
-Dark Lord of the Sith, 1
-Darth, 1
 Darth Bane, 1
 Darth Maul, 1
 Darth Sidious, 1
-Dathomirian, 1
-Defender of the Home Tree, 1
 Depa Billaba, 1
 Dooku, 1
 Droideka, 1
 Ezra Bridger, 1
 Fifth Brother, 1
 Finis Valorum, 1
-Force-sensitive, 1
 Galactic Emperor, 1
 General, 1
-Grand Master, 1
 Grievous, 1
-Gungan, 1
-Hutt, 1
-Huyang, 1
 Inquisitorius, 1
-Invasion of Naboo, 1
 Jabba Desilijic Tiure, 1
 Jango Fett, 1
-Jedi General, 1
-Jedi Knight, 1
-Jedi Master, 1
-Jedi Temple Guard, 1
 Jocasta Nu, 1
 K'ungfu, 1
 Kanan Jarrus, 1
-Katooni, 1
-Katuunko, 1
 Ki-Adi-Mundi, 1
-King, 1
 Kylo Ren, 1
 Leia Organa, 1
 Letta Turmond, 1
 Luke Skywalker, 1
 Luminara Unduli, 1
 Mace Windu, 1
-Medical droid, 1
-Naboo, 1
-Nightsisters, 1
 Obi-Wan Kenobi, 1
-Padawan, 1
 Padmé Amidala, 1
 Plo Koon, 1
 Pyke Syndicate, 1
@@ -78,15 +45,10 @@ Quinlan Vos, 1
 R2-D2, 1
 Rey, 1
 Rig Nema, 1
-Rotta, 1
-Scavenger, 1
 Senator, 1
 Seventh Sister, 1
-Sexes, 1
 Shaak Ti, 1
 Sifo-Dyas, 1
-Sith Lord, 1
-Sith apprentice, 1
 Supreme Chancellor, 1
 Tarfful, 1
 The Grand Inquisitor, 1

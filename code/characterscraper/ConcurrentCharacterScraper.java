@@ -23,7 +23,7 @@ public class ConcurrentCharacterScraper extends CharacterScraper{
 
         Queue<String> q = new LinkedBlockingQueue<String>();
 
-        q.add("Category:Individuals");
+        q.add(root);
 
         int n = Runtime.getRuntime().availableProcessors();
         System.out.println("Processors: "+n);
@@ -58,7 +58,7 @@ public class ConcurrentCharacterScraper extends CharacterScraper{
                         ConcurrentCharacterScraper.this.findSubCategories(
                                 pageSourceCode,q);
                         ConcurrentCharacterScraper.this.findCharacters(
-                                pageSourceCode);
+                                pageSourceCode,q);
                     }
                 }
             });
