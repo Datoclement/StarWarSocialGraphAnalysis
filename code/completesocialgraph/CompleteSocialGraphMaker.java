@@ -26,7 +26,7 @@ public class CompleteSocialGraphMaker {
     /**
      * destination to store the final social graph
      */
-    private String graphFile = "SocialGraphComplete.txt";
+    private String graphFile = "socialGraphComplete.txt";
 
     CompleteSocialGraphMaker() throws IOException{
 
