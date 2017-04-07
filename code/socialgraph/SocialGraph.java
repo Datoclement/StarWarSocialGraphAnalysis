@@ -34,6 +34,7 @@ public abstract class SocialGraph{
         queue.add(root);
         visited.add(root);
         dist.put(root,0);
+        // System.out.println(visited.contains("Yoda"));
         while(true){
             String cur = queue.poll();
             int curdist = dist.get(cur);
@@ -43,7 +44,7 @@ public abstract class SocialGraph{
             }
             LinkedList<String> nei = findNeighbors(cur);
             for(String n:nei){
-                if(visited.contains(n))continue;
+                if(visited.contains(n)) continue;
                 visited.add(n);
                 dist.put(n,curdist+1);
                 if(n.indexOf("Legend")<0)

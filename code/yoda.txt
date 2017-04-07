@@ -1,91 +1,54 @@
-501st Legion, 1
+AZI-345211896246498721347, 1
 Admiral, 1
 Advanced Recon Commando, 1
 Ahsoka Tano, 1
-Akar-Deshu, 1
 Anakin Skywalker, 1
 Asajj Ventress, 1
-Astromech droid, 1
 Bail Organa, 1
-Barriss Offee, 1
-Battle droid, 1
-Battle of Naboo, 1
-Bounty hunter, 1
 CC-1004, 1
 CT-5385, 1
 CT-5555, 1
 CT-7567, 1
-Captain, 1
 Chewbacca, 1
 Chuang, 1
-Clone trooper, 1
-Cloning, 1
-Commander, 1
-Count, 1
-Dark Jedi, 1
-Dark Lord of the Sith, 1
-Darth, 1
 Darth Bane, 1
 Darth Maul, 1
 Darth Sidious, 1
-Dathomirian, 1
-Defender of the Home Tree, 1
 Depa Billaba, 1
 Dooku, 1
 Droideka, 1
 Ezra Bridger, 1
 Fifth Brother, 1
 Finis Valorum, 1
-Force-sensitive, 1
 Galactic Emperor, 1
 General, 1
-Grand Master, 1
 Grievous, 1
-Gungan, 1
-Hutt, 1
-Huyang, 1
 Inquisitorius, 1
-Invasion of Naboo, 1
 Jabba Desilijic Tiure, 1
 Jango Fett, 1
-Jedi General, 1
-Jedi Knight, 1
-Jedi Master, 1
-Jedi Temple Guard, 1
 Jocasta Nu, 1
 K'ungfu, 1
 Kanan Jarrus, 1
-Katooni, 1
-Katuunko, 1
 Ki-Adi-Mundi, 1
-King, 1
 Kylo Ren, 1
 Leia Organa, 1
 Letta Turmond, 1
 Luke Skywalker, 1
 Luminara Unduli, 1
 Mace Windu, 1
-Medical droid, 1
-Naboo, 1
-Nightsisters, 1
 Obi-Wan Kenobi, 1
-Padawan, 1
 Padmé Amidala, 1
 Plo Koon, 1
 Pyke Syndicate, 1
 Qui-Gon Jinn, 1
+Quinlan Vos, 1
 R2-D2, 1
 Rey, 1
 Rig Nema, 1
-Rotta, 1
-Scavenger, 1
 Senator, 1
 Seventh Sister, 1
-Sexes, 1
 Shaak Ti, 1
 Sifo-Dyas, 1
-Sith Lord, 1
-Sith apprentice, 1
 Supreme Chancellor, 1
 Tarfful, 1
 The Grand Inquisitor, 1
@@ -95,3 +58,678 @@ Tu-Anh, 1
 Wilhuff Tarkin, 1
 Wullf Yularen, 1
 Yoda's Jedi master, 1
+0-0-0, 2
+11-4D, 2
+224, 2
+4-A7, 2
+4-LOM, 2
+4A-7, 2
+99, 2
+AP-5, 2
+ARC-77, 2
+ASN-121, 2
+AT-AT pilot, 2
+Aang, 2
+Aayla Secura, 2
+Adelhard, 2
+Adi Gallia, 2
+Advanced Recon Force trooper, 2
+Advisor, 2
+Agen Kolar, 2
+Aggadeen, 2
+Agruss, 2
+Aide, 2
+Alaric (Sephi), 2
+Alecia Beck, 2
+Almec, 2
+Alton Kastle, 2
+Ambassador, 2
+Amda Wabo, 2
+Amita Fonti, 2
+Angrigo, 2
+Ansibella Delu, 2
+Antidar Williams, 2
+Antoc Merrick, 2
+Aqua droid, 2
+Archduke, 2
+Argyus, 2
+Arihnda Pryce, 2
+Arliz Hadrassian, 2
+Armitage Hux, 2
+Ask Aak, 2
+Assassin droid, 2
+Atai Molec, 2
+Attichitcuk, 2
+Aurelant, 2
+Aurra Sing, 2
+Auxi Kray Korbin, 2
+Azmorigan, 2
+B1-268, 2
+BB-8, 2
+BNI-393, 2
+BT-1, 2
+Bail Antilles, 2
+Bail Prestor Organa, 2
+Bala-Tik, 2
+Bannamu, 2
+Bec Lawise, 2
+Beck Ollet, 2
+Beebox, 2
+Beldorion, 2
+Belkor Dray, 2
+Beon Beonel, 2
+Berch Teller, 2
+Berisse Sai, 2
+Beru Whitesun Lars, 2
+Bib Fortuna, 2
+Big-Mouth, 2
+Biggs Darklighter, 2
+Black Krrsantan, 2
+Black Sun, 2
+Black Two, 2
+Black market, 2
+Blood Bone Order, 2
+Bo-Katan Kryze, 2
+Boba Fett, 2
+Boba Fett's syndicate, 2
+Boil, 2
+Bolla Ropal, 2
+Bon Yoth, 2
+Boomer (astromech droid), 2
+Boost, 2
+Borkus, 2
+Bossk, 2
+Boushh, 2
+Breha Organa, 2
+Bren Derlin, 2
+Brendol Hux, 2
+Bric, 2
+Brolis, 2
+Brom Titus, 2
+Brunson, 2
+Bruu Jun-Fan, 2
+By Bluss, 2
+Byrch Dyshkava, 2
+C-21 Highsinger, 2
+C-3PO, 2
+C1-10P, 2
+CC-10/994, 2
+CC-1010, 2
+CC-1138, 2
+CC-1993, 2
+CC-2224, 2
+CC-3636, 2
+CC-4477, 2
+CC-5052, 2
+CC-5576-39, 2
+CT-00-2010, 2
+CT-1157, 2
+CT-1409, 2
+CT-4040, 2
+CT-411, 2
+CT-5597, 2
+CT-6116, 2
+CT-782, 2
+Cad Bane, 2
+Cailey Fleming, 2
+Caluan Ematt, 2
+Cameron, 2
+Camie Marstrap, 2
+Captivator's crew, 2
+Captivator (droid), 2
+Car Affa, 2
+Carise Sindian, 2
+Carlist Rieekan, 2
+Carrie Fisher, 2
+Casiss, 2
+Cass, 2
+Cassio Tagge, 2
+Castas, 2
+Cato Parasitti, 2
+Cham Syndulla, 2
+Chancellor (New Republic), 2
+Chancellor (Rebel Alliance), 2
+Chardri Tage, 2
+Charger, 2
+Charko, 2
+Chasen Piian, 2
+Chava, 2
+Chelli Lona Aphra, 2
+Chi Cho, 2
+Chiron (lieutenant), 2
+Chong, 2
+Chopper (clone trooper), 2
+Christo, 2
+Chubor, 2
+Ciena Ree, 2
+Cikatro Vizago, 2
+Cin Drallig, 2
+Clan Saxon, 2
+Clan Vizsla, 2
+Clan Wren, 2
+Cliegg Lars, 2
+Clone SCUBA trooper, 2
+Clone cadet, 2
+Clone cold assault trooper, 2
+Clone commando, 2
+Clone marshal commander, 2
+Clone shock trooper, 2
+Clone trooper commander, 2
+Clone trooper pilot, 2
+Coburn, 2
+Coburn Sear, 2
+Colandrus, 2
+Coleman Trebor, 2
+Colt, 2
+Commando, 2
+Conan Antonio Motti, 2
+Conder Kyl, 2
+Cordé, 2
+Cornelius Evazan, 2
+Counselor to the Empire, 2
+Crest, 2
+Crime lord, 2
+Crix Madine, 2
+Crosshair, 2
+Crymorah syndicate, 2
+Cumberlayne Aresko, 2
+Cut Lawquane, 2
+Cylo, 2
+Cyrus (Jedi Academy), 2
+Dak Ralter, 2
+Dantum Roohd, 2
+Dao, 2
+Darth Bane's apprentice, 2
+Darth Caedus, 2
+Darth Plagueis, 2
+Darts D'Nar, 2
+Dashira Dobeq, 2
+Daultay Dofine, 2
+Davits Draven, 2
+Death Watch bomber/Canon, 2
+Death trooper, 2
+Decca Besadii Diori, 2
+Delian Mors, 2
+Denal, 2
+Denetrius Vidian, 2
+Dengar, 2
+Deputy Minister, 2
+Derek Klivian, 2
+Dessard, 2
+Devi (scavenger), 2
+Dexter Jettster, 2
+Dhara Leonis, 2
+Dicer, 2
+Dodd Rancit, 2
+Dogma, 2
+Domm Korgale, 2
+Donta Gesset, 2
+Doom, 2
+Dosmit Ræh, 2
+Dreed, 2
+Droid Gotra, 2
+Droid tri-fighter, 2
+Dron Ryall, 2
+Duke, 2
+EG-86, 2
+EV-A4-D, 2
+Earll, 2
+Edcel Bar Gane, 2
+Eeth Koth, 2
+Eighth Brother, 2
+El-Les, 2
+Embo, 2
+Emperor's Royal Guard, 2
+Endente, 2
+Eneb Ray, 2
+Erskin Semaj, 2
+Erstin Deez, 2
+Erudo Ro-Kiintor, 2
+Espaa Valorum, 2
+Et Rex, 2
+Etain Tur-Mukan, 2
+Evaan Verlaine, 2
+Even Piell, 2
+Everi Chalis, 2
+FE-B3, 2
+FN-1824, 2
+Faazah, 2
+Fae Coven, 2
+Faro Argyus, 2
+Fbinti Fith, 2
+Fenn Rau, 2
+Fife, 2
+Finn, 2
+Firmus Piett, 2
+First Senator, 2
+Fissol, 2
+Flame trooper, 2
+Flash, 2
+Fong Do, 2
+Freemakers, 2
+Galen Marek, 2
+Galen Walton Erso, 2
+Gall Trayvis, 2
+Gallius Rax, 2
+Gannis Ducain, 2
+Gar Saxon, 2
+Garazeb Orrelios, 2
+Garven Dreis, 2
+Gavyn Sykes, 2
+Gial Ackbar, 2
+Gobi Glie, 2
+Golas Aram, 2
+Gold Five (Archeon Nebula), 2
+Gold Four (Archeon Nebula), 2
+Gold Leader, 2
+Gold Squadron (Rebel Alliance), 2
+Gold Two (rebellion), 2
+Gooti Terez, 2
+Gord Grallik, 2
+Governor, 2
+Grakkus, 2
+Grand Inquisitor, 2
+Grand Moff, 2
+Grand Vizier, 2
+Granta Omega, 2
+Green Squadron (Rebel Alliance), 2
+Grohto, 2
+Gronson Takkaro, 2
+Guavian Death Gang, 2
+Guavian security soldier, 2
+Gume Saam, 2
+Gunner, 2
+Gus, 2
+HELIOS-3E, 2
+Hal'Sted, 2
+Halle Burtoni, 2
+Halsey, 2
+Han Solo, 2
+Hardcase, 2
+Harter Kalonia, 2
+Harus Ison, 2
+Havoc (ARC trooper), 2
+Hay-Zu, 2
+Head of State, 2
+Hera Syndulla, 2
+Hera Syndulla's mother, 2
+Herdringer, 2
+Hostis Ij, 2
+Hove, 2
+Hrrgn, 2
+Hunter, 2
+Hurron, 2
+Hurst Romodi, 2
+Hutt Clan, 2
+Huulik, 2
+I-7, 2
+IG-86 sentinel droid, 2
+IG-88, 2
+Ikrit, 2
+Imperial cadet, 2
+Imperial combat driver, 2
+Imperial officer, 2
+Iolo Arana, 2
+Irving Boys, 2
+Isval, 2
+Ivano Troade, 2
+Jackar Bowmani, 2
+Jai Kell, 2
+Jai Maruk, 2
+Jaina Solo Fel, 2
+Jakker-Sun, 2
+Jamillia, 2
+Jan Dodonna, 2
+Jar Jar Binks, 2
+Jas Emari, 2
+Jaum, 2
+Jaum's wheeled battle droid, 2
+Jax Pavan, 2
+Jaybo Hood, 2
+Jen June, 2
+Jenkes, 2
+Jenneth Pilar, 2
+Jerec (Deputy Minister), 2
+Jessika Pava, 2
+Jester, 2
+Jhared Montferrat, 2
+Jho, 2
+Jimmy Vee, 2
+Jiro (pirate), 2
+Jon Vander, 2
+Jonner Jin, 2
+Joph Seastriker, 2
+Jorj Car'das, 2
+Journeyman Protector, 2
+Judd, 2
+Jude Edivon, 2
+Jude Rozess, 2
+Julia, 2
+Jumptrooper, 2
+Jun Sato, 2
+Junior Representative, 2
+Junior legislator, 2
+Junior senator, 2
+Junk dealer, 2
+Jylia Shale, 2
+Jyn Erso, 2
+Kaeden Larte, 2
+Kage Warriors, 2
+Kahdah, 2
+Kai (Imperial), 2
+Kalani (super tactical droid), 2
+Kallus, 2
+Kalpana, 2
+Kanjiklub, 2
+Karé Kun, 2
+Karbin, 2
+Kassius Konstantine, 2
+Kayos, 2
+Kendal Ozzel, 2
+Kerch Kushi, 2
+Kes Dameron, 2
+Ketsu Onyo, 2
+Kharrus, 2
+Khione, 2
+Kilian, 2
+Kin Robb, 2
+Kirratha, 2
+Kit Fisto, 2
+Kitster Banai, 2
+Kitwarr, 2
+Kivas, 2
+Kleeve, 2
+Knox, 2
+Kongo, 2
+Korr Sella, 2
+Korro, 2
+Kraken, 2
+Kreel, 2
+Kronn, 2
+Lal Grallik, 2
+Lando Calrissian, 2
+Latts Razzi, 2
+Lee-Char, 2
+Leia Organa's instructor, 2
+Leia Organa Solo, 2
+Lerr Duvat, 2
+Lok Durd, 2
+Lokmarcha, 2
+Lolo Purs, 2
+Lom Pyke, 2
+Lor San Tekka, 2
+Lorth Needa, 2
+Lott Dod, 2
+Loubo, 2
+Lozen Tolruck, 2
+Luitt, 2
+Lux Bonteri, 2
+Lyonie, 2
+M5-BZ, 2
+MaDall, 2
+Maketh Tua, 2
+Maks Leem, 2
+Malachor Company, 2
+Mara Jade Skywalker, 2
+Marg Krim, 2
+Marida Sumar, 2
+Mart Mattin, 2
+Mas Amedda, 2
+Mashra, 2
+Max Rebo Band, 2
+Maximillian Veers, 2
+Maz Kanata, 2
+Mee Deechi, 2
+Meebur Gascon, 2
+Melch, 2
+Mellowyn, 2
+Melodic Order, 2
+Mercenary, 2
+Merei Spanjaf, 2
+Micah Giiett, 2
+Mina Bonteri, 2
+Miraj Scintel, 2
+Mitth'raw'nuruodo/Canon, 2
+Mon Mothma, 2
+Monnk, 2
+Morad Sumar, 2
+Moradmin Bast, 2
+Morley, 2
+Mot-Not Rab, 2
+Myles Grint, 2
+N'Kata Del Gormo, 2
+Naboo Royal Handmaidens, 2
+Nadea Tural, 2
+Narra, 2
+Naveela Betuine, 2
+Neeyutnee, 2
+Nien Nunb, 2
+Nik Sant, 2
+Nils Tenant, 2
+Nix Card, 2
+Nomi Sunrider, 2
+Norra Wexley, 2
+Nower Jebel, 2
+Numa, 2
+Nute Gunray, 2
+Nuvo Vindi, 2
+OOM pilot battle droid, 2
+Odd Ball, 2
+Ohnaka Gang, 2
+Okadiah Garson, 2
+Onaconda Farr, 2
+Ooblamon, 2
+Oola, 2
+Oon-ai, 2
+Orn Free Taa, 2
+Orson Callan Krennic, 2
+Otua Blank, 2
+Owen Lars, 2
+PZ-4CO, 2
+Pablo, 2
+Palleus Chuff, 2
+Palo Jemabie, 2
+Palpatine, 2
+Panaka, 2
+Papanoida, 2
+Pathfinders, 2
+Pell Baylo, 2
+Philo, 2
+Phoca Soot, 2
+Phoenix Leader, 2
+Phoenix Leader (Ibaar), 2
+Phoenix Two, 2
+Piers Roddance, 2
+Plasma Devils, 2
+Poe Dameron, 2
+Poggle the Lesser, 2
+Ponda Baba, 2
+Pong Krell, 2
+Pre Vizsla, 2
+Presence, 2
+Prime Minister, 2
+Punn Rimbaud, 2
+Q'anah's Marauders, 2
+QT-KT, 2
+Qu Rahn, 2
+Quarrie, 2
+Quiggold, 2
+R3-A3, 2
+R3-S6, 2
+R8-B7/Canon, 2
+RX-24, 2
+Rackham Sear, 2
+Raddus, 2
+Rae Sloane, 2
+Rahm Kota, 2
+Rake Gahree, 2
+Rako Hardeen, 2
+Ramsis Dendup, 2
+Rang Clan, 2
+Ransolm Casterfo, 2
+Rapier Leader, 2
+Ratch/Canon, 2
+Raymus Antilles, 2
+Rear Admiral, 2
+Red Five, 2
+Red Leader, 2
+Red Squadron (Rebel Alliance), 2
+Republic officer, 2
+Revan, 2
+Ric Olié, 2
+Riff Tamson, 2
+Rigosso, 2
+Rinnrivin Di's cartel, 2
+Riyo Chuchi, 2
+Roan Novachez, 2
+Robert Clarke, 2
+Rogue One (squad), 2
+Rook Kast, 2
+Roos Tarpals, 2
+Rowan Freemaker, 2
+Rugor Nass/Canon, 2
+Rurrk Ca'rivv, 2
+Rush Clovis, 2
+Ryder Azadi, 2
+Sabé, 2
+Sabine Wren, 2
+Saesee Tiin, 2
+Sakas, 2
+Salmara, 2
+San Hill, 2
+Satine Kryze, 2
+Savage Opress, 2
+Saw Gerrera, 2
+Scout, 2
+Scout trooper, 2
+Sebulba, 2
+Senate Commando, 2
+Senate Guard, 2
+Senior senator, 2
+Separatist Congress Leader, 2
+Separatist Senate, 2
+Sera (Carnelion IV), 2
+Shaef Corssin, 2
+Shahan Alama, 2
+Shara Bey, 2
+Shmi Skywalker Lars, 2
+Siddiq, 2
+Sidon Ithano, 2
+Sinjir Rath Velus, 2
+Sinker, 2
+Sio Bibble, 2
+Sionver Boll, 2
+Sistros, 2
+Sixth Brother, 2
+Skelly, 2
+Skull Squadron, 2
+Slavin, 2
+Slick, 2
+Sniper, 2
+Soon Bayts, 2
+Spaceport police droid, 2
+Speaker of the Assembly, 2
+Steela Gerrera, 2
+Stormtrooper Corps, 2
+Stormtrooper commander, 2
+Strunk, 2
+Styles, 2
+Sugi's bounty hunters, 2
+Sumdin, 2
+Sy Snootles, 2
+T'un, 2
+Tápusk, 2
+TC-70, 2
+TIE fighter pilot, 2
+TJ-55, 2
+TK-462, 2
+TZ-33, 2
+Tace, 2
+Tai-Lin Garr, 2
+Tal Merrik, 2
+Tallisibeth Enwandung-Esterhazy, 2
+Talzin, 2
+Tamsin, 2
+Tan Divo, 2
+Tandin, 2
+Tash Arranda, 2
+Task Force 99, 2
+Taslin Brance, 2
+Taun We, 2
+Tech, 2
+Techno Union, 2
+Teckla Minnau, 2
+Tee Watt Kaa, 2
+Teedo (Niima Outpost), 2
+Temmin Wexley, 2
+Teng Malar, 2
+Tepha Leonis, 2
+Tera Sinube, 2
+Terrinald Screed, 2
+Terrinald Screed/Canon, 2
+Thame Cerulian, 2
+Thane Kyrell, 2
+The Ante, 2
+The Dragon, 2
+Thlu-Ry, 2
+Thon, 2
+Tiaan Jerjerrod, 2
+Tieren Nie-Tan, 2
+Tiggs Leo, 2
+Tiplee, 2
+Torul Blom, 2
+Trench, 2
+Tristan Wren, 2
+Trooper, 2
+Tseebo, 2
+Tula, 2
+Tynnra Pamlo, 2
+Tyson (Gold Squadron), 2
+Tyvokka, 2
+U.O. Statura, 2
+U9-C4, 2
+Ulic Qel-Droma, 2
+Unkar Plutt, 2
+Ursa Wren, 2
+Uwa Pareece, 2
+Valen Rudor, 2
+Valorum (first Supreme Chancellor), 2
+Vandar Tokare, 2
+Vaneé, 2
+Varish Vicly, 2
+Vasp Vaspar, 2
+Verette, 2
+Vice Chair, 2
+Vila, 2
+Voe Atell, 2
+Volk Aymeric, 2
+Vult Skerris, 2
+WAC-47, 2
+Waiter, 2
+Warthog, 2
+Wat Tambor, 2
+Watto, 2
+Waxer, 2
+Wedge Antilles, 2
+Whie Malreaux, 2
+Whorm Loathsom, 2
+Wicket W. Warrick, 2
+Willard, 2
+Wrecker, 2
+Wurtz, 2
+Xanatos, 2
+Yarna d'al' Gargan, 2
+Yeleb, 2
+Yelkin, 2
+Yendor, 2
+Yogar Lyste, 2
+Yupe Tashu, 2
+Z9, 2
+Zak Arranda, 2
+Zam Wesell, 2
+Zare Leonis, 2
+Zari Bangel, 2
+Zett Jukassa, 2
+Zinn Paulness, 2
+Ziton Moj, 2
+Zygerrian Slave Empire, 2

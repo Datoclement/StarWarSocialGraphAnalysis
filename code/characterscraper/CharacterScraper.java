@@ -106,6 +106,9 @@ public abstract class CharacterScraper{
         }
     }
 
+    /**
+     * to print the process bar
+     */
     protected void printProcess(){
         double nn = this.list.size() * 1.0/21175;
         int n = (int)(nn*20);

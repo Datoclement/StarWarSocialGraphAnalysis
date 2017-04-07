@@ -28,7 +28,7 @@ public class CompleteSocialGraphMaker {
     /**
      * destination to store the final social graph
      */
-    private String graphFile = "csg.txt";
+    private String graphFile = "completesocialgraph/csg.txt";
 
     /**
      * number of processed nodes
@@ -40,6 +40,7 @@ public class CompleteSocialGraphMaker {
         this.characters = new LinkedBlockingQueue<String>(new CharacterTableReader().getList());
         this.neighbors = new ConcurrentHashMap<String, HashSet<String>>();
 
+        LinkedBlockingQueue<String> characters = new LinkedBlockingQueue<String>(new CharacterTableReader().getList());
         // for(String c : this.characters){
         //     HashSet<String> n = this.findNeighbors(c);
         //     this.neighbors.put(c, n);
@@ -57,6 +58,7 @@ public class CompleteSocialGraphMaker {
                         HashSet<String> n = findNeighbors(c);
                         neighbors.put(c,n);
                         c = characters.poll();
+                        // CompleteSocialGraphMaker.this.save();
                         CompleteSocialGraphMaker.this.printProcess();
                     }
                 }
@@ -101,6 +103,7 @@ public class CompleteSocialGraphMaker {
             PrintWriter out = new PrintWriter(graphFile);
             for(String character:this.characters){
                     out.print(character+"    ");
+                    if(!this.neighbors.containsKey(character)) continue;
                     for(String n : this.neighbors.get(character)){
                         out.print(n + " ");
                     }
@@ -112,6 +115,9 @@ public class CompleteSocialGraphMaker {
         catch(Exception e){e.printStackTrace();}
     }
 
+    /**
+     * to print the process bar
+     */
     void printProcess(){
         double nn = cnt.incrementAndGet() * 1.0/21175;
         int n = (int)(nn*20);
