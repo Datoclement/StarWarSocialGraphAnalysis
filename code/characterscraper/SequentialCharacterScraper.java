@@ -1,10 +1,9 @@
 package characterscraper;
 
-import java.util.HashSet;
-import java.util.LinkedList;
-import java.util.Queue;
+import java.util.*;
+import java.text.*;
 
-import util.SourceCode;
+import util.*;
 
 /**
  * A sequential extension of the CharacterScraper
@@ -23,8 +22,6 @@ public class SequentialCharacterScraper extends CharacterScraper{
 
         q.add(root);
 
-        int count = 0;
-
         while(!q.isEmpty()){
 
             String str = q.poll();
@@ -38,9 +35,10 @@ public class SequentialCharacterScraper extends CharacterScraper{
             this.findSubCategories(pageSourceCode,q);
             this.findCharacters(pageSourceCode,q);
 
-            count++;
-            System.out.println(count);
+            //process bar
+            this.printProcess();
         }
+        System.out.println("\ndone\n");
     }
 
 

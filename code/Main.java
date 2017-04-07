@@ -52,6 +52,7 @@ public class Main{
         // csc = new ConcurrentCharacterScraper();
         // long t3 = System.nanoTime();
         System.out.println("Preprocess time: "+(t2-t1)/1000000+"ms.");
+        csg.save();
         // System.out.println(css.getList().size()+" characters are found.");
         // System.out.println("Concurrent preprocess time: "+(t3-t2)/1000000+"ms.");
         // System.out.println(csc.getList().size()+" characters are found.");

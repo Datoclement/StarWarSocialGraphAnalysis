@@ -59,6 +59,8 @@ public class ConcurrentCharacterScraper extends CharacterScraper{
                                 pageSourceCode,q);
                         ConcurrentCharacterScraper.this.findCharacters(
                                 pageSourceCode,q);
+
+                        ConcurrentCharacterScraper.this.printProcess();
                     }
                 }
             });
@@ -70,6 +72,8 @@ public class ConcurrentCharacterScraper extends CharacterScraper{
                 ts[i].join();
         }
         catch(Exception e){e.printStackTrace();}
+        System.out.println("\ndone\n");
+
     }
 
     public static void main(String[] args){

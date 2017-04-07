@@ -1,6 +1,7 @@
 package characterscraper;
 
 import java.util.*;
+import java.text.*;
 import java.nio.file.*;
 import java.nio.charset.Charset;
 
@@ -99,11 +100,20 @@ public abstract class CharacterScraper{
         Path file = Paths.get(characterTableFile);
         try{
             Files.write(file, list, Charset.forName("UTF-8"));
-            System.out.println("saved");
         }
         catch(Exception e){
             e.printStackTrace();
         }
+    }
+
+    protected void printProcess(){
+        double nn = this.list.size() * 1.0/21175;
+        int n = (int)(nn*20);
+        String infos = "\r|"
+                + String.join("", Collections.nCopies(n, "="))
+                + String.join("", Collections.nCopies(20-n, " "))
+                + "| " + new DecimalFormat("#0.0").format(nn*100)+"% completed";
+        System.out.print(infos);
     }
 
     public Set<String> getList(){return this.list;}

@@ -2,6 +2,7 @@ package completesocialgraph;
 
 import java.io.*;
 import java.util.*;
+import java.text.*;
 import java.util.concurrent.*;
 import java.util.concurrent.atomic.*;
 
@@ -29,6 +30,11 @@ public class CompleteSocialGraphMaker {
      */
     private String graphFile = "csg.txt";
 
+    /**
+     * number of processed nodes
+     */
+    final AtomicInteger cnt = new AtomicInteger(0);
+
     public CompleteSocialGraphMaker(){
 
         this.characters = new LinkedBlockingQueue<String>(new CharacterTableReader().getList());
@@ -41,7 +47,6 @@ public class CompleteSocialGraphMaker {
         // }
         int n = Runtime.getRuntime().availableProcessors();
         Thread[] threads = new Thread[n];
-        final AtomicInteger cnt = new AtomicInteger(0);
 
         for(int i = 0; i < n; i++){
             final int id = i;
@@ -52,7 +57,7 @@ public class CompleteSocialGraphMaker {
                         HashSet<String> n = findNeighbors(c);
                         neighbors.put(c,n);
                         c = characters.poll();
-                        System.out.println("Thread "+id+" finish the "+cnt.incrementAndGet()+"-th characters.");
+                        CompleteSocialGraphMaker.this.printProcess();
                     }
                 }
             });
@@ -63,6 +68,7 @@ public class CompleteSocialGraphMaker {
                 threads[i].join();
         }
         catch(Exception e){e.printStackTrace();}
+        System.out.println("\ndone\n");
     }
 
     /**
@@ -88,7 +94,7 @@ public class CompleteSocialGraphMaker {
     /**
      * to save the social graph into a local file
      */
-    void save(){
+    public void save(){
         try{
             // HashMap<String, HashSet<String> > n = this.neighbors;
             // HashSet<String> c = this.characters;
@@ -104,6 +110,16 @@ public class CompleteSocialGraphMaker {
             out.close();
         }
         catch(Exception e){e.printStackTrace();}
+    }
+
+    void printProcess(){
+        double nn = cnt.incrementAndGet() * 1.0/21175;
+        int n = (int)(nn*20);
+        String infos = "\r|"
+                + String.join("", Collections.nCopies(n, "="))
+                + String.join("", Collections.nCopies(20-n, " "))
+                + "| " + new DecimalFormat("#0.0").format(nn*100)+"% completed";
+        System.out.print(infos);
     }
 
     public static void main(String[] args) throws IOException {
