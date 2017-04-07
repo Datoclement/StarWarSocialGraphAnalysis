@@ -16,12 +16,12 @@ public class CompleteSocialGraphMaker {
     /**
      * Set of characters' names
      */
-    private HashSet<String> characters;
+    private LinkedBlockingQueue<String> characters;
 
     /**
      * Structure to store the edges in the graph
      */
-    private HashMap<String, HashSet<String> > neighbors;
+    private ConcurrentHashMap<String, HashSet<String> > neighbors;
 
     /**
      * destination to store the final social graph
