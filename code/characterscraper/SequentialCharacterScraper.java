@@ -1,11 +1,10 @@
 package characterscraper;
 
-import java.io.*;
-import java.net.*;
-import java.util.*;
-import java.nio.file.*;
-import java.nio.charset.Charset;
-import util.*;
+import java.util.HashSet;
+import java.util.LinkedList;
+import java.util.Queue;
+
+import util.SourceCode;
 
 /**
  * A sequential extension of the CharacterScraper

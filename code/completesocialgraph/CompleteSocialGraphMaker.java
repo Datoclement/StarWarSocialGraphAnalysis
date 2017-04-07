@@ -30,13 +30,34 @@ public class CompleteSocialGraphMaker {
 
     CompleteSocialGraphMaker() throws IOException{
 
-        this.characters = new HashSet<String>(new CharacterTableReader().getList());
-        this.neighbors = new HashMap<String, HashSet<String>>();
+        this.characters = new LinkedBlockingQueue<String>(new CharacterTableReader().getList());
+        this.neighbors = new ConcurrentHashMap<String, HashSet<String>>();
 
-        for(String c : this.characters){
-            HashSet<String> n = this.findNeighbors(c);
-            this.neighbors.put(c, n);
+        // for(String c : this.characters){
+        //     HashSet<String> n = this.findNeighbors(c);
+        //     this.neighbors.put(c, n);
+        //     // System.out.println(c + " " + n.size());
+        // }
+        int n = Runtime.getRuntime().availableProcessors();
+        Thread[] threads = new Thread[n];
+        for(int i = 0; i < n; i++){
+            threads[i] = new Thread(new Runnable(){
+                public void run(){
+                    String c = characters.poll();
+                    while(c != null){
+                        HashSet<String> n = findNeighbors(c);
+                        neighbors.put(c,n);
+                        c = characters.poll();
+                    }
+                }
+            });
+            threads[i].start();
         }
+        try{
+            for(int i=0;i<n;i++)
+                threads[i].join();
+        }
+        catch(Exception e){e.printStackTrace();}
     }
 
     /**

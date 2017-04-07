@@ -2,9 +2,6 @@ package util;
 
 import java.io.*;
 import java.net.*;
-import java.util.*;
-import java.nio.file.*;
-import java.nio.charset.Charset;
 
 /**
  * A class to get the source code of Wookiepedia pages
